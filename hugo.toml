@@ -1,0 +1,13 @@
+baseURL = 'https://playerslayer.net/'
+languageCode = 'en-us'
+title = 'The Moonshroud Realms'
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'auto'
+  BookToC = true
+  BookSearch = true
+  BookComments = false
+
+[markup.goldmark.renderer]
+  unsafe = true

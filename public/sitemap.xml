@@ -6,7 +6,13 @@
   </url><url>
     <loc>http://localhost:1313/world/bridgeport/</loc>
   </url><url>
+    <loc>http://localhost:1313/factions/council-of-trades/</loc>
+  </url><url>
+    <loc>http://localhost:1313/lore/the-gods/</loc>
+  </url><url>
     <loc>http://localhost:1313/world/</loc>
+  </url><url>
+    <loc>http://localhost:1313/factions/adventurers-guild/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
@@ -15,6 +21,8 @@
     <loc>http://localhost:1313/world/wexford/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
+  </url><url>
+    <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>

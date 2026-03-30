@@ -2,9 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/maps/algar-regional/</loc>
+  </url><url>
+    <loc>http://localhost:1313/world/bridgeport/</loc>
+  </url><url>
     <loc>http://localhost:1313/world/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/maps/bridgeport-city/</loc>
+  </url><url>
+    <loc>http://localhost:1313/world/wexford/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>

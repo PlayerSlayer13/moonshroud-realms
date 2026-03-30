@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/world/bridgeport/</guid>
       <description>&lt;h1 id=&#34;bridgeport&#34;&gt;Bridgeport&lt;a class=&#34;anchor&#34; href=&#34;#bridgeport&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport is a freehold city of approximately 8,000 souls situated at the mouth of the Godsfall&#xA;River where it meets Pell&amp;rsquo;s Harbor, on the western coast of Algar. It is a city of commerce,&#xA;ambition, and barely contained chaos — a place where fortunes are made and lost, where every&#xA;faction has a foothold, and where the streets themselves seem to have opinions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;governance&#34;&gt;Governance&lt;a class=&#34;anchor&#34; href=&#34;#governance&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Bridgeport is governed by the &lt;strong&gt;Council of Trades&lt;/strong&gt;, a body of merchant representatives whose&#xA;authority derives from coin rather than crown. The current High Convenor is &lt;strong&gt;Seraphina Velcross&lt;/strong&gt;,&#xA;a sharp political mind who maintains an uneasy balance between the city&amp;rsquo;s many competing interests.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Wexford</title>
+      <link>http://localhost:1313/world/wexford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world/wexford/</guid>
+      <description>&lt;h1 id=&#34;wexford&#34;&gt;Wexford&lt;a class=&#34;anchor&#34; href=&#34;#wexford&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Wexford is a walled woodland town of approximately 1,000 souls, situated some fifty miles&#xA;south of Bridgeport in the depths of the &lt;strong&gt;Wexwood Forest&lt;/strong&gt;. It sits at the confluence of&#xA;the &lt;strong&gt;Wex River&lt;/strong&gt; and &lt;strong&gt;Spring Creek&lt;/strong&gt;, and is predominantly home to the &lt;strong&gt;Aelfaen&lt;/strong&gt; — though&#xA;travellers, traders, and those with business in the forest pass through regularly enough that&#xA;outsiders are not unknown.&lt;/p&gt;&#xA;&lt;p&gt;It is a quieter place than Bridgeport, but quieter does not mean simple.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

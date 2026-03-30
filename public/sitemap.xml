@@ -16,6 +16,8 @@
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
+    <loc>http://localhost:1313/lore/the-moons/</loc>
+  </url><url>
     <loc>http://localhost:1313/maps/bridgeport-city/</loc>
   </url><url>
     <loc>http://localhost:1313/world/wexford/</loc>
@@ -23,6 +25,8 @@
     <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/the-kangs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/lore/the-world-beyond/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>

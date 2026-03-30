@@ -8,6 +8,7 @@ theme = 'hugo-book'
   BookToC = true
   BookSearch = true
   BookComments = false
+  BookSection = '*'
 
 [markup.goldmark.renderer]
   unsafe = true

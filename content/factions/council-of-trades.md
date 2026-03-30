@@ -5,6 +5,10 @@ weight: 1
 
 # Council of Trades
 
+<img src="/images/factions/council-of-trades-emblem.webp" 
+     alt="Council of Trades emblem" 
+     style="width:200px; height:auto; border-radius:4px;">
+
 The Council of Trades is the governing body of Bridgeport — a assembly of merchant 
 representatives whose authority derives from commerce rather than birthright. In Bridgeport, 
 coin is power, and the Council is where that power is formally organized.

@@ -91,5 +91,12 @@
       <guid>http://localhost:1313/maps/wexford-town/</guid>
       <description>&lt;h1 id=&#34;wexford-town-map&#34;&gt;Wexford Town Map&lt;a class=&#34;anchor&#34; href=&#34;#wexford-town-map&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A map of Wexford, the Aelfaen woodland town fifty miles south of Bridgeport&#xA;in the Wexwood Forest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/maps/wexford-town.webp&#34; &#xA;alt=&#34;Town map of Wexford&#34; &#xA;style=&#34;width:100%; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Royal Adventuring Society</title>
+      <link>http://localhost:1313/factions/royal-adventuring-society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/factions/royal-adventuring-society/</guid>
+      <description>&lt;h1 id=&#34;royal-adventuring-society&#34;&gt;Royal Adventuring Society&lt;a class=&#34;anchor&#34; href=&#34;#royal-adventuring-society&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Royal Adventuring Society — known commonly as the R.A. Society — is&#xA;the Crown&amp;rsquo;s elite counterpart to the Adventurer&amp;rsquo;s Guild. Where the Guild&#xA;handles the broad spectrum of sanctioned adventuring work, the Society&#xA;directs missions that are too specialized, too sensitive, or too&#xA;politically complicated for a military detachment or a standard Guild&#xA;contract.&lt;/p&gt;&#xA;&lt;p&gt;These assignments tend toward the discreet: recoveries that cannot be&#xA;public, investigations requiring subtlety, negotiations where a regiment&#xA;would be wasteful or diplomatically disruptive, and threats where the&#xA;Crown needs capable hands that don&amp;rsquo;t wear a uniform.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

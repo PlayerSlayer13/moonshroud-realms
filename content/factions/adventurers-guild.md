@@ -1,9 +1,13 @@
 ---
 title: "Adventurer's Guild"
-weight: 2
+weight: 3
 ---
 
 # Adventurer's Guild
+
+<img src="/images/factions/adventurers-guild-emblem.webp" 
+     alt="Adventurer's Guild emblem" 
+     style="width:200px; height:auto; border-radius:4px;">
 
 The Adventurer's Guild is one of the few organizations that operates openly across most 
 of the known world, maintaining halls in cities and towns large enough to support one. 

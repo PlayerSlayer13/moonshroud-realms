@@ -12,29 +12,33 @@
   </url><url>
     <loc>http://localhost:1313/world/</loc>
   </url><url>
-    <loc>http://localhost:1313/factions/adventurers-guild/</loc>
-  </url><url>
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
-    <loc>http://localhost:1313/factions/</loc>
-  </url><url>
     <loc>http://localhost:1313/lore/the-moons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/peoples/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/bridgeport-city/</loc>
   </url><url>
     <loc>http://localhost:1313/world/wexford/</loc>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
+    <loc>http://localhost:1313/factions/adventurers-guild/</loc>
   </url><url>
-    <loc>http://localhost:1313/factions/the-kangs/</loc>
+    <loc>http://localhost:1313/factions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/world/funnis/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-world-beyond/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>
+    <loc>http://localhost:1313/people/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/royal-adventuring-society/</loc>
   </url><url>
     <loc>http://localhost:1313/recaps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/</loc>
   </url><url>

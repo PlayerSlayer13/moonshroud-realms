@@ -1,6 +1,6 @@
 ---
 title: "Lore"
-weight: 6
+weight: 7
 bookFlatSection: false
 bookCollapseSection: true
 ---

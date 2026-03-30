@@ -1,6 +1,6 @@
 ---
 title: "Session Recaps"
-weight: 4
+weight: 5
 bookFlatSection: false
 bookCollapseSection: true
 ---

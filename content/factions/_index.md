@@ -1,6 +1,6 @@
 ---
 title: "Factions"
-weight: 2
+weight: 3
 bookFlatSection: false
 bookCollapseSection: true
 ---

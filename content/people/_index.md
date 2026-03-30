@@ -1,6 +1,6 @@
 ---
-title: "People"
-weight: 3
+title: "NPCs"
+weight: 4
 bookFlatSection: false
 bookCollapseSection: true
 ---

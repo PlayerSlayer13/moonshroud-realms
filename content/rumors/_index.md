@@ -2,6 +2,7 @@
 title: "Rumors"
 weight: 8
 bookFlatSection: false
+bookCollapseSection: true
 ---
 
 # Rumors

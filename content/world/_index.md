@@ -1,6 +1,7 @@
 ---
 title: "The World"
 weight: 1
+bookCollapseSection: true
 ---
 
 # The World

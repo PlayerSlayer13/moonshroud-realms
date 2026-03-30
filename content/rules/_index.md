@@ -2,6 +2,7 @@
 title: "Rules"
 weight: 7
 bookFlatSection: false
+bookCollapseSection: true
 ---
 
 # Rules

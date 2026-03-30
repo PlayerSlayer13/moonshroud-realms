@@ -1,6 +1,7 @@
 ---
 title: "Maps"
 weight: 5
+bookCollapseSection: true
 ---
 
 # Maps

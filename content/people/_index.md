@@ -2,6 +2,7 @@
 title: "People"
 weight: 3
 bookFlatSection: false
+bookCollapseSection: true
 ---
 
 # People

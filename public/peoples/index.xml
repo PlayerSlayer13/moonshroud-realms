@@ -6,6 +6,7 @@
     <description>Recent content in The Peoples on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 16:00:25 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/peoples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ursinor</title>
@@ -13,6 +14,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/peoples/ursinor/</guid>
       <description>&lt;h1 id=&#34;ursinor&#34;&gt;Ursinor&lt;a class=&#34;anchor&#34; href=&#34;#ursinor&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Ursinor are bear-like humanoids — broad of shoulder, thick of limb,&#xA;with long torsos and powerful arms. Their size suggests slowness. It&#xA;shouldn&amp;rsquo;t. They are capable runners and nimble climbers when pressed,&#xA;and those who underestimate them based on appearance tend not to make&#xA;the same mistake twice.&lt;/p&gt;&#xA;&lt;p&gt;They are found across Elderland, most commonly in woodland settlements&#xA;and northern communities, though individual Ursinor appear in cities&#xA;and on roads throughout the world. Bridgeport has its share.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mustelin</title>
+      <link>http://localhost:1313/peoples/mustelin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/mustelin/</guid>
+      <description>&lt;h1 id=&#34;mustelin&#34;&gt;Mustelin&lt;a class=&#34;anchor&#34; href=&#34;#mustelin&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Mustelin are small, quick-bodied mammalian folk — lithe and flexible,&#xA;with keen senses and survival instincts honed in tight places. They&#xA;share traits of furred, long-bodied creatures such as otters, weasels,&#xA;and badgers. Expressive and physical, they rely on motion and body&#xA;language as much as speech, with quick gestures and restless energy&#xA;common in conversation.&lt;/p&gt;&#xA;&lt;p&gt;They are found throughout Elderland and are a familiar sight in&#xA;Bridgeport&amp;rsquo;s markets, docks, and alleyways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aelfaen</title>
+      <link>http://localhost:1313/peoples/aelfaen/</link>
+      <pubDate>Tue, 31 Mar 2026 16:00:25 -0400</pubDate>
+      <guid>http://localhost:1313/peoples/aelfaen/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

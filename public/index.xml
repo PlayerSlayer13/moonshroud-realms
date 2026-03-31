@@ -6,6 +6,7 @@
     <description>Recent content on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 31 Mar 2026 16:00:25 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algar&#39;s Central Coast</title>
@@ -48,6 +49,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/factions/council-members/</guid>
       <description>&lt;h1 id=&#34;council-of-trades--members&#34;&gt;Council of Trades — Members&lt;a class=&#34;anchor&#34; href=&#34;#council-of-trades--members&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Council of Trades is drawn from Bridgeport&amp;rsquo;s ten most influential&#xA;guilds and professional orders. Each guild elects a&#xA;&lt;strong&gt;Guildmaster-Delegate&lt;/strong&gt; to serve a five-year term. Together they govern&#xA;the Freehold, with one member serving as &lt;strong&gt;High Convenor&lt;/strong&gt; — currently&#xA;&lt;strong&gt;Seraphina Velcross&lt;/strong&gt; of the Merchants&amp;rsquo; Exchange.&lt;/p&gt;&#xA;&lt;p&gt;What follows is what a reasonably informed Bridgeport resident would&#xA;know about the people who run the city.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;seraphina-velcross&#34;&gt;Seraphina Velcross&lt;a class=&#34;anchor&#34; href=&#34;#seraphina-velcross&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;High Convenor — Merchants&amp;rsquo; Exchange&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mustelin</title>
+      <link>http://localhost:1313/peoples/mustelin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/mustelin/</guid>
+      <description>&lt;h1 id=&#34;mustelin&#34;&gt;Mustelin&lt;a class=&#34;anchor&#34; href=&#34;#mustelin&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Mustelin are small, quick-bodied mammalian folk — lithe and flexible,&#xA;with keen senses and survival instincts honed in tight places. They&#xA;share traits of furred, long-bodied creatures such as otters, weasels,&#xA;and badgers. Expressive and physical, they rely on motion and body&#xA;language as much as speech, with quick gestures and restless energy&#xA;common in conversation.&lt;/p&gt;&#xA;&lt;p&gt;They are found throughout Elderland and are a familiar sight in&#xA;Bridgeport&amp;rsquo;s markets, docks, and alleyways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Moons</title>
@@ -118,6 +126,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/factions/the-kangs/</guid>
       <description>&lt;h1 id=&#34;the-kangs&#34;&gt;The Kangs&lt;a class=&#34;anchor&#34; href=&#34;#the-kangs&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport has neighborhoods where the city&amp;rsquo;s official rules are more&#xA;suggestion than law. In those places, other arrangements apply.&lt;/p&gt;&#xA;&lt;p&gt;The Kangs are a presence in certain parts of the city. Anyone who spends&#xA;time on Bridgeport&amp;rsquo;s streets will notice them eventually — groups moving&#xA;with purpose, wearing a single item in a consistent color. Red. Blue.&#xA;Yellow.&lt;/p&gt;&#xA;&lt;p&gt;What that means, exactly, is the kind of thing most people in Bridgeport&#xA;have learned not to ask too loudly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aelfaen</title>
+      <link>http://localhost:1313/peoples/aelfaen/</link>
+      <pubDate>Tue, 31 Mar 2026 16:00:25 -0400</pubDate>
+      <guid>http://localhost:1313/peoples/aelfaen/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

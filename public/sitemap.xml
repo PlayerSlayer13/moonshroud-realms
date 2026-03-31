@@ -12,6 +12,8 @@
   </url><url>
     <loc>http://localhost:1313/world/</loc>
   </url><url>
+    <loc>http://localhost:1313/peoples/ursinor/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-moons/</loc>

@@ -28,5 +28,12 @@
       <guid>http://localhost:1313/world/funnis/</guid>
       <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Saltstone Square</title>
+      <link>http://localhost:1313/world/saltstone-square/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world/saltstone-square/</guid>
+      <description>&lt;h1 id=&#34;saltstone-square&#34;&gt;Saltstone Square&lt;a class=&#34;anchor&#34; href=&#34;#saltstone-square&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saltstone Square is the beating heart of Bridgeport&amp;rsquo;s southern district&#xA;— a busy, loud, perpetually crowded crossroads where commerce, gossip,&#xA;and opportunity all converge. From dawn to well past dusk it is rarely&#xA;quiet, and never entirely safe, but for those looking for work,&#xA;information, or simply a decent meal, it is the right place to be.&lt;/p&gt;&#xA;&lt;p&gt;The square is lined with small shops, anchored by an all-faiths shrine&#xA;at its center, and dominated on three sides by its most prominent&#xA;establishments. Large caravans tend to marshal along nearby&#xA;&lt;strong&gt;Queensway Avenue&lt;/strong&gt; rather than the square itself, though caravan&#xA;guard recruitment still happens here regularly enough.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

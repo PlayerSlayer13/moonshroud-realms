@@ -71,6 +71,13 @@
       <description>&lt;h1 id=&#34;adventurers-guild&#34;&gt;Adventurer&amp;rsquo;s Guild&lt;a class=&#34;anchor&#34; href=&#34;#adventurers-guild&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/factions/adventurers-guild-emblem.webp&#34; &#xA;alt=&#34;Adventurer&#39;s Guild emblem&#34; &#xA;style=&#34;width:200px; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Adventurer&amp;rsquo;s Guild is one of the few organizations that operates openly across most&#xA;of the known world, maintaining halls in cities and towns large enough to support one.&#xA;Bridgeport&amp;rsquo;s chapter is well-established, reasonably well-funded, and busy enough that&#xA;its staff have developed the particular brand of weary pragmatism common to people who&#xA;spend their days sending others into danger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-guild-does&#34;&gt;What the Guild Does&lt;a class=&#34;anchor&#34; href=&#34;#what-the-guild-does&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The Guild serves as a clearinghouse for work — connecting those with problems requiring&#xA;unconventional solutions to those willing to provide them, for appropriate compensation.&#xA;It posts contracts, verifies completion, handles payment disputes, and maintains records&#xA;of members in good standing.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Funnis</title>
+      <link>http://localhost:1313/world/funnis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world/funnis/</guid>
+      <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The World Beyond</title>
       <link>http://localhost:1313/lore/the-world-beyond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

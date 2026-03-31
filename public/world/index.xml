@@ -21,5 +21,12 @@
       <guid>http://localhost:1313/world/wexford/</guid>
       <description>&lt;h1 id=&#34;wexford&#34;&gt;Wexford&lt;a class=&#34;anchor&#34; href=&#34;#wexford&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Wexford is a walled woodland town of approximately 1,000 souls, situated some fifty miles&#xA;south of Bridgeport in the depths of the &lt;strong&gt;Wexwood Forest&lt;/strong&gt;. It sits at the confluence of&#xA;the &lt;strong&gt;Wex River&lt;/strong&gt; and &lt;strong&gt;Spring Creek&lt;/strong&gt;, and is predominantly home to the &lt;strong&gt;Aelfaen&lt;/strong&gt; — though&#xA;travellers, traders, and those with business in the forest pass through regularly enough that&#xA;outsiders are not unknown.&lt;/p&gt;&#xA;&lt;p&gt;It is a quieter place than Bridgeport, but quieter does not mean simple.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Funnis</title>
+      <link>http://localhost:1313/world/funnis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world/funnis/</guid>
+      <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

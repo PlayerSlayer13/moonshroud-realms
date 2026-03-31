@@ -3,6 +3,10 @@ title: "The Moonshroud Realms"
 type: docs
 ---
 
+<img src="/images/moonshroud-realms.png" 
+     alt="The Moonshroud Realms" 
+     style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto 2rem auto;">
+
 # Welcome to the Moonshroud Realms
 
 This is the official campaign site for our Daggerheart campaign set in the Moonshroud Realms.

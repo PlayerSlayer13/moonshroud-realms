@@ -28,5 +28,12 @@
       <guid>http://localhost:1313/lore/the-world-beyond/</guid>
       <description>&lt;h1 id=&#34;the-world-beyond-bridgeport&#34;&gt;The World Beyond Bridgeport&lt;a class=&#34;anchor&#34; href=&#34;#the-world-beyond-bridgeport&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport sits at the mouth of the Godsfall River on the western coast&#xA;of &lt;strong&gt;Algar&lt;/strong&gt;, one nation among many on the continent of &lt;strong&gt;Elderland&lt;/strong&gt;.&#xA;It is a busy, prosperous city — and it is also a very small part of a&#xA;very large world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-continent-of-elderland&#34;&gt;The Continent of Elderland&lt;a class=&#34;anchor&#34; href=&#34;#the-continent-of-elderland&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Elderland is the known world for most of its inhabitants. It is vast&#xA;enough that few people ever see more than a fraction of it in a&#xA;lifetime, and large enough that its eastern reaches are more legend than&#xA;geography to those living on the western coast.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>The Certification System</title>
+      <link>http://localhost:1313/lore/certification-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/certification-system/</guid>
+      <description>&lt;h1 id=&#34;the-certification-system&#34;&gt;The Certification System&lt;a class=&#34;anchor&#34; href=&#34;#the-certification-system&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;In most parts of the world, anyone with a sword and a willingness to&#xA;use it can call themselves an adventurer. In Algar, that is not quite&#xA;how it works.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Certification System&lt;/strong&gt; is the framework through which the&#xA;Adventurer&amp;rsquo;s Guild and the Royal Adventuring Society regulate who is&#xA;permitted to undertake sanctioned work — and what level of work they&#xA;are permitted to take on. It exists for practical reasons: dangerous&#xA;jobs done badly create problems for everyone, and clients who hire&#xA;capable parties get better results than clients who hire whoever&#xA;happened to be standing nearest the mission board.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

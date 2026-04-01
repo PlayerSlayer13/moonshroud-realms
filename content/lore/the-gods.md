@@ -142,6 +142,39 @@ is quiet, habitual, and deeply personal.
 
 ---
 
+### Mollo
+*Ascendant of Hope, Warmth, and Night Vigil — the Lantern-Keeper*
+
+Mollo is known throughout the region as the **Lantern-Keeper** — an 
+Ascendant whose domain is not grand or cosmic but immediate and human. 
+Hope when it is hardest to hold. Warmth when the night is coldest. The 
+vigil kept when others have gone to sleep.
+
+Temples of Mollo are welcoming spaces by design — windows that glow 
+softly after dusk, beacon lanterns burning through the night, doors 
+that open to travelers arriving late and uncertain. Devotees conduct 
+nightly vigils, maintain lanterns along forest paths, and offer shelter 
+and healing to those who arrive after dark. Rangers, woodcutters, and 
+those heading into dangerous places often make brief devotions at 
+Mollo's temples before setting out — seeking resolve rather than 
+protection alone.
+
+Mollo's presence is felt most strongly in places where darkness is not 
+merely a figure of speech — forest towns, coastal settlements, anywhere 
+that the night brings real risk alongside its quiet.
+
+<img src="/images/gods/mollo-symbol.webp" 
+     alt="Symbol of Mollo" 
+     style="width:200px; height:auto; border-radius:4px;">
+
+**Temple in Wexford:** The Lantern-Keeper Temple is one of Wexford's 
+most active community institutions. A tall beacon lantern burns each 
+night from its towered roof, visible above the tree line and from the 
+forest roads approaching from the north — a signal to travelers that 
+Wexford is there, and that someone is watching.
+
+---
+
 ## A Note on the Divine
 
 The distinction between Eternals and Ascendants matters in practice. 

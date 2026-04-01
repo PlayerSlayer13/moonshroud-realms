@@ -21,9 +21,21 @@ Wexford operates under a layered authority that keeps several interests in caref
 - **Mayor Thomas Greenweald** handles civic matters and speaks for the townspeople
 - A **Council of Six** advises on local affairs
 
+Wexford sits within the **Barony of the Sands**, and the Crown's voice 
+in town is **Seneschal Maereth Ilthandor**, who holds veto authority 
+over all civic decisions and outranks both the Mayor and the garrison 
+commander.
+
 The Crown garrison is quartered at the **Crown Barracks**, commanded by 
-**Captain Aurix Valemor** — a small but professional force whose presence reminds visitors 
-that Wexford, like Bridgeport, exists within the reach of Algar's authority.
+**Captain Aurix Valemor** — a Gold Dragonborn officer whose calm and 
+methodical manner makes even routine briefings feel significant. A 
+separate town militia answers to **Captain Rethan Vale**, handling 
+civic security and day-to-day patrol while the Crown troops focus on 
+forest patrols and road security.
+
+Together they ensure Wexford remains orderly — though the line between 
+their respective jurisdictions is occasionally a matter of quiet 
+negotiation.
 
 ## Key Locations
 

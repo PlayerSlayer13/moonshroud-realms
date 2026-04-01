@@ -6,7 +6,6 @@
     <description>Recent content on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:00:25 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algar&#39;s Central Coast</title>
@@ -58,11 +57,11 @@
       <description>&lt;h1 id=&#34;mustelin&#34;&gt;Mustelin&lt;a class=&#34;anchor&#34; href=&#34;#mustelin&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Mustelin are small, quick-bodied mammalian folk — lithe and flexible,&#xA;with keen senses and survival instincts honed in tight places. They&#xA;share traits of furred, long-bodied creatures such as otters, weasels,&#xA;and badgers. Expressive and physical, they rely on motion and body&#xA;language as much as speech, with quick gestures and restless energy&#xA;common in conversation.&lt;/p&gt;&#xA;&lt;p&gt;They are found throughout Elderland and are a familiar sight in&#xA;Bridgeport&amp;rsquo;s markets, docks, and alleyways.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Moons</title>
+      <title>The Seven Moons</title>
       <link>http://localhost:1313/lore/the-moons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/lore/the-moons/</guid>
-      <description>&lt;h1 id=&#34;the-seven-moons-of-orb&#34;&gt;The Seven Moons of Orb&lt;a class=&#34;anchor&#34; href=&#34;#the-seven-moons-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The world of Orb turns beneath seven moons. Every person who has ever&#xA;looked up at a clear night sky in the Moonshroud Realms has seen them —&#xA;some bright, some faint, some moving faster than others across the dark.&#xA;Most people know them as a fact of life, the way they know the seasons&#xA;or the tides. Scholars and druids know them as something more.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;the-seven-moons-of-orb&#34;&gt;The Seven Moons of Orb&lt;a class=&#34;anchor&#34; href=&#34;#the-seven-moons-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The world of Orb turns beneath seven moons. Every person who has ever&#xA;looked up at a clear night sky has seen them — some bright, some faint,&#xA;some moving faster than others across the dark. There is always at least&#xA;one large moon reflecting the light of &lt;strong&gt;Krotar&lt;/strong&gt;, the star at the&#xA;center of the solar system, which means true darkness is rare in the&#xA;Moonshroud Realms. Most nights are silvered by at least one significant&#xA;presence overhead.&lt;/p&gt;</description>
     </item>
     <item>
       <title>West Bridgeport</title>
@@ -84,6 +83,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/factions/adventurers-guild/</guid>
       <description>&lt;h1 id=&#34;adventurers-guild&#34;&gt;Adventurer&amp;rsquo;s Guild&lt;a class=&#34;anchor&#34; href=&#34;#adventurers-guild&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/factions/adventurers-guild-emblem.webp&#34; &#xA;alt=&#34;Adventurer&#39;s Guild emblem&#34; &#xA;style=&#34;width:200px; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Adventurer&amp;rsquo;s Guild is one of the few organizations that operates openly across most&#xA;of the known world, maintaining halls in cities and towns large enough to support one.&#xA;Bridgeport&amp;rsquo;s chapter is well-established, reasonably well-funded, and busy enough that&#xA;its staff have developed the particular brand of weary pragmatism common to people who&#xA;spend their days sending others into danger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-guild-does&#34;&gt;What the Guild Does&lt;a class=&#34;anchor&#34; href=&#34;#what-the-guild-does&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The Guild serves as a clearinghouse for work — connecting those with problems requiring&#xA;unconventional solutions to those willing to provide them, for appropriate compensation.&#xA;It posts contracts, verifies completion, handles payment disputes, and maintains records&#xA;of members in good standing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aelfaen</title>
+      <link>http://localhost:1313/peoples/aelfaen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/aelfaen/</guid>
+      <description>&lt;h1 id=&#34;aelfaen&#34;&gt;Aelfaen&lt;a class=&#34;anchor&#34; href=&#34;#aelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Aelfaen are a people shaped by an ancient purpose — born as wardens&#xA;between worlds, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt; to safeguard the&#xA;boundaries between Orb and the fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;. For generations&#xA;they tended crossings and preserved the balance between realms. When&#xA;those crossings stabilized and their task ended, the Aelfaen dispersed&#xA;into the societies of Orb, where they now live as artisans, soldiers,&#xA;scholars, and travelers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Funnis</title>
@@ -126,13 +132,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/factions/the-kangs/</guid>
       <description>&lt;h1 id=&#34;the-kangs&#34;&gt;The Kangs&lt;a class=&#34;anchor&#34; href=&#34;#the-kangs&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport has neighborhoods where the city&amp;rsquo;s official rules are more&#xA;suggestion than law. In those places, other arrangements apply.&lt;/p&gt;&#xA;&lt;p&gt;The Kangs are a presence in certain parts of the city. Anyone who spends&#xA;time on Bridgeport&amp;rsquo;s streets will notice them eventually — groups moving&#xA;with purpose, wearing a single item in a consistent color. Red. Blue.&#xA;Yellow.&lt;/p&gt;&#xA;&lt;p&gt;What that means, exactly, is the kind of thing most people in Bridgeport&#xA;have learned not to ask too loudly.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Aelfaen</title>
-      <link>http://localhost:1313/peoples/aelfaen/</link>
-      <pubDate>Tue, 31 Mar 2026 16:00:25 -0400</pubDate>
-      <guid>http://localhost:1313/peoples/aelfaen/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

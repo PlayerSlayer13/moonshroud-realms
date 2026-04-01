@@ -6,7 +6,6 @@
     <description>Recent content in The Peoples on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2026 16:00:25 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/peoples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ursinor</title>
@@ -25,9 +24,9 @@
     <item>
       <title>Aelfaen</title>
       <link>http://localhost:1313/peoples/aelfaen/</link>
-      <pubDate>Tue, 31 Mar 2026 16:00:25 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/peoples/aelfaen/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;aelfaen&#34;&gt;Aelfaen&lt;a class=&#34;anchor&#34; href=&#34;#aelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Aelfaen are a people shaped by an ancient purpose — born as wardens&#xA;between worlds, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt; to safeguard the&#xA;boundaries between Orb and the fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;. For generations&#xA;they tended crossings and preserved the balance between realms. When&#xA;those crossings stabilized and their task ended, the Aelfaen dispersed&#xA;into the societies of Orb, where they now live as artisans, soldiers,&#xA;scholars, and travelers.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -14,12 +14,11 @@
   </url><url>
     <loc>http://localhost:1313/peoples/ursinor/</loc>
   </url><url>
-    <loc>http://localhost:1313/peoples/</loc>
-    <lastmod>2026-03-31T16:00:25-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/mustelin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/peoples/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-moons/</loc>
   </url><url>
@@ -28,6 +27,8 @@
     <loc>http://localhost:1313/world/wexford/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/adventurers-guild/</loc>
+  </url><url>
+    <loc>http://localhost:1313/peoples/aelfaen/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
@@ -55,14 +56,10 @@
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
   </url><url>
-    <loc>http://localhost:1313/peoples/aelfaen/</loc>
-    <lastmod>2026-03-31T16:00:25-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-03-31T16:00:25-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

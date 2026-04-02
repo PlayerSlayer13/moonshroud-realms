@@ -14,6 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/peoples/ursinor/</loc>
   </url><url>
+    <loc>http://localhost:1313/rumors/bridgeport-rumors/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/mustelin/</loc>
@@ -57,16 +59,11 @@
     <loc>http://localhost:1313/rules/</loc>
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
-    <lastmod>2026-04-02T14:20:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rumors/bridgeport-rumors/</loc>
-    <lastmod>2026-04-02T14:20:24-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-02T14:20:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

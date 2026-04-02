@@ -6,8 +6,23 @@ weight: 1
 # The Gods
 
 The divine order of the Moonshroud Realms flows from a single source: 
-**Spherus**, the creator, who imagined nine **Eternals** into being at 
-the founding of the world. The Eternals are not gods in the conventional 
+**Spherus**, the creator. Before the Eternals, before mortal history, 
+Spherus conceived five **Primordials** to govern the elemental 
+foundations of existence itself — forces so vast and ancient that most 
+mortals encounter them only as the world they live in. From there, 
+Spherus imagined nine **Eternals** into being — fundamental forces 
+given will and purpose, each responsible for a domain of reality rather 
+than a nation of worshippers. Beneath the Eternals exist the 
+**Ascendants** — beings of mortal origin elevated to divinity through 
+extraordinary deeds, divine selection, or profound sacrifice.
+
+The three tiers are distinct in nature and in how mortals relate to 
+them. Primordials are elemental and vast — present in the world more 
+than above it. Eternals are purposeful and domain-driven — the 
+architects of how reality functions. Ascendants were once mortal, and 
+their stories are human-scaled. They made choices, bore costs, and were 
+changed by what they experienced. That history makes them easier to 
+pray to. The Eternals are not gods in the conventional 
 sense — they are fundamental forces given will and purpose, each 
 responsible for a domain of reality rather than a nation of worshippers.
 
@@ -19,6 +34,53 @@ temples, around fires, and in the songs of traveling bards.
 
 In Bridgeport, three temples serve the city's spiritual life openly. 
 Others are known but less visible.
+
+---
+
+## The Primordials
+
+The Primordials predate the Eternals and the shaping of mortal history. 
+Spherus conceived five to govern the elemental foundations of existence. 
+They are not gods in any conventional sense — they do not seek worship 
+or demand prayer. They are elemental forces of cosmic scale that simply 
+are, and have always been.
+
+### Cora
+*Primordial of Water, Tides, and Enduring Depths*
+
+<img src="/images/gods/cora-symbol.webp" 
+     alt="Symbol of Cora" 
+     style="width:200px; height:auto; border-radius:4px;">
+
+Cora is one of the five Primordials conceived by Spherus to govern the 
+elemental foundations of existence — and is not the first Water 
+Primordial. That mantle belonged to **Shim**, who first surprised 
+Spherus by eliciting something never before felt by the Creator: 
+emotion. In response, Spherus unmade Shim and fashioned Cora in its 
+likeness — a vast serpentine dragon wrought of living water. From that 
+likeness would later come inspiration for dragonkind upon Orb.
+
+When Spherus brought the Primordials to Orb during its formation, Cora 
+balanced seas and skies, carved coastlines, shaped continental shelves, 
+and laid down rivers that would nourish future life. In the deepest 
+ocean trenches, ancient elementals seeded by Cora still patrol, 
+maintaining equilibrium older than memory.
+
+Cora does not seek worship. It does not demand prayer. It is vast, 
+patient, and indifferent to flattery. And yet, when a mast splits in a 
+storm and a sailor cries into the wind, it is Cora's name that slips 
+from trembling lips.
+
+Shrines to Cora stand along coasts and beside great inland lakes — 
+simple circles of coral, driftwood, and tide-worn stone. True temples 
+on land are rare. The infinite serpentine symbol is carved into 
+gunwales and scratched into dockside stone across Orb.
+
+**Shrine in Dalraven:** The Shrine of the Deep Current — a ring of 
+weathered stones surrounding a tide-carved altar, tended by 
+Tidewardens and a senior Wavemaster who conducts departure rites and 
+memorials for those lost at sea. No sermons are given here. The sea 
+does not require theology.
 
 ---
 
@@ -91,6 +153,28 @@ Halwen Marr, is the primary temple of Absot in the region.
 
 ---
 
+### Charr
+*Eternal of Birth, Fertility, Nature, and Agriculture*
+
+Charr governs the generative forces of the world — the turning of 
+seasons, the growth of crops, the arrival of new life, and the 
+stewardship of the land that sustains it. Where Absot governs 
+consequence and Kelleth governs duty, Charr governs abundance and the 
+responsibility that comes with it. Devotion to Charr is expressed 
+through shared meals, harvest rites, and the daily labor of those who 
+work the land.
+
+**Symbol:** A sheaf of wheat bound with a living vine.
+
+**Temple in Dalraven:** The House of Bounty — the largest structure in 
+Dalraven, built as much for community gathering as for worship. On holy 
+days it fills with hymns and ritual observance. On ordinary evenings it 
+serves as meeting hall, dance floor, and communal refuge. Three 
+Ascendants are honored in alcoves within: Sivet the Hearthmother, 
+Oleya Greenbriar, and Barrowen Tallgrain.
+
+---
+
 ## The Ascendants
 
 ### Noctis
@@ -139,6 +223,36 @@ is quiet, habitual, and deeply personal.
 <img src="/images/gods/soryn-symbol.webp" 
      alt="Symbol of Soryn" 
      style="width:200px; height:auto; border-radius:4px;">
+
+---
+
+### Sivet the Hearthmother
+*Ascendant of Home, Hearth, and New Life*
+
+Sivet is honored wherever families gather and new children arrive. 
+Devotion is expressed through candles and woven cradle charms — 
+small, domestic offerings that reflect her domain. She is one of 
+three Ascendants elevated under **Charr**.
+
+---
+
+### Oleya Greenbriar
+*Ascendant of Growing Things*
+
+Oleya is marked by potted herbs and climbing vines trained along 
+trellises — a living symbol of her connection to cultivated growth 
+and the quiet persistence of green things. She is one of three 
+Ascendants elevated under **Charr**.
+
+---
+
+### Barrowen Tallgrain
+*Ascendant of Harvest and Stewardship*
+
+Barrowen is represented by carved grain heads and small offerings of 
+dried seed — the end of the growing season honored and preserved. 
+Stewardship of what the land provides is central to Barrowen's 
+doctrine. She is one of three Ascendants elevated under **Charr**.
 
 ---
 

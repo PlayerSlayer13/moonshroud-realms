@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/world/bridgeport/</loc>
   </url><url>
+    <loc>http://localhost:1313/calendar/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/council-of-trades/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-gods/</loc>
@@ -31,8 +33,6 @@
     <loc>http://localhost:1313/factions/adventurers-guild/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/aelfaen/</loc>
-  </url><url>
-    <loc>http://localhost:1313/lore/calendar/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>

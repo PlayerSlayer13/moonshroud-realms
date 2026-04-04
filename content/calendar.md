@@ -1,7 +1,7 @@
 ---
-title: "Calendar of Orb"
-weight: 3
-bookToC: false
+title: "Calendar"
+weight: 1
+bookCollapseSection: false
 ---
 
 # Calendar of Orb

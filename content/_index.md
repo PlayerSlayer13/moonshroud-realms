@@ -7,6 +7,16 @@ type: docs
      alt="The Moonshroud Realms" 
      style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto 2rem auto;">
 
+<div style="text-align:center; margin: 0 auto 2rem auto;">
+<a href="/calendar.html" 
+   style="display:inline-block; padding: 12px 32px; 
+   background: #c9a84c; color: #1a1710; 
+   border-radius: 4px; text-decoration: none; 
+   font-weight: 600; font-size: 1.1rem; letter-spacing: 0.03em;">
+   📅 Calendar of Orb — Duskgrain, Day 23, CY1
+</a>
+</div>
+
 # Welcome to the Moonshroud Realms
 
 This is the official campaign site for our Daggerheart campaign set in 

@@ -40,6 +40,8 @@
   </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>
+    <loc>http://localhost:1313/peoples/dragonblood/</loc>
+  </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/royal-adventuring-society/</loc>

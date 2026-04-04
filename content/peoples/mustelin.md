@@ -98,6 +98,10 @@ spending additional movement. You can only trigger this once per action.</p>
 You have Advantage on Agility Rolls made while swimming, and you can 
 hold your breath for up to 10 minutes.</p>
 
+<img src="/images/ancestries/mustelin-riverheart.webp" 
+     alt="Riverheart Mustelin" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+
 </details>
 
 <details>
@@ -119,5 +123,9 @@ creature.</p>
 <p><strong>Fortunate Instinct</strong><br>
 When you roll a 12 on your Fear Die, you may spend 1 Hope to reroll 
 it and use the new result.</p>
+
+<img src="/images/ancestries/mustelin-swiftpaw.webp" 
+     alt="Swiftpaw Mustelin" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 </details>

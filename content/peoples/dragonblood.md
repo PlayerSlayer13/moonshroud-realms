@@ -96,3 +96,7 @@ as Major damage instead.
 **Charr's Legacy**
 Once per session, when you act in direct defiance of fear, coercion, 
 or a force trying to break your will, you may clear 1 Stress.
+
+<img src="/images/ancestries/dragonblood.webp" 
+     alt="Dragonblood Male" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">

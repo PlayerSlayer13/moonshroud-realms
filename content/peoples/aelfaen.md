@@ -99,3 +99,7 @@ to gain Advantage on the roll.
 Once per rest, when you move through or past a threshold — a doorway, 
 gate, crossing, or boundary — you may mark a Stress to slip through 
 undetected, leaving no trace of your passage that scene.
+
+<img src="/images/ancestries/aelfaen.webp" 
+     alt="Aelfaen Female" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">

@@ -110,6 +110,10 @@ When you succeed on a Strength Roll to intimidate, restrain, or
 physically dominate a situation, you may mark a Stress to make the 
 effect last until the end of the scene rather than the current moment.</p>
 
+<img src="/images/ancestries/ursinor-ironbark-woodland.webp" 
+     alt="Ironbark Woodland Ursinor" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+
 </details>
 
 <details>
@@ -135,6 +139,10 @@ to perceive that target as a different person of similar size and build
 until the end of the scene or until an observer gets within Very Close 
 range and has reason to look closely.</p>
 
+<img src="/images/ancestries/ursinor-sunwoven-tropical.webp" 
+     alt="Sunwoven Tropical Ursinor" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+
 </details>
 
 <details>
@@ -157,5 +165,9 @@ instead.</p>
 You have Advantage on Agility Rolls made while swimming, and Advantage 
 on Endurance or Strength Rolls made to resist the effects of cold, 
 exhaustion, or harsh environmental conditions.</p>
+
+<img src="/images/ancestries/ursinor-whiteward-tundral.webp" 
+     alt="Whiteward Tundral Ursinor" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 </details>

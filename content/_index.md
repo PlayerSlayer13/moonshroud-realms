@@ -3,7 +3,7 @@ title: "The Moonshroud Realms"
 type: docs
 ---
 
-<img src="/images/moonshroud-realms.webp" 
+<img src="/images/moonshroud-realms.png" 
      alt="The Moonshroud Realms" 
      style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto 2rem auto;">
 

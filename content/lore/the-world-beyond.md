@@ -1,6 +1,6 @@
 ---
 title: "The World Beyond"
-weight: 3
+weight: 4
 ---
 
 # The World Beyond Bridgeport

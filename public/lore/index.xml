@@ -22,6 +22,13 @@
       <description>&lt;h1 id=&#34;the-seven-moons-of-orb&#34;&gt;The Seven Moons of Orb&lt;a class=&#34;anchor&#34; href=&#34;#the-seven-moons-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The world of Orb turns beneath seven moons. Every person who has ever&#xA;looked up at a clear night sky has seen them — some bright, some faint,&#xA;some moving faster than others across the dark. There is always at least&#xA;one large moon reflecting the light of &lt;strong&gt;Krotar&lt;/strong&gt;, the star at the&#xA;center of the solar system, which means true darkness is rare in the&#xA;Moonshroud Realms. Most nights are silvered by at least one significant&#xA;presence overhead.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Calendar of Orb</title>
+      <link>http://localhost:1313/lore/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/calendar/</guid>
+      <description>&lt;h1 id=&#34;calendar-of-orb&#34;&gt;Calendar of Orb&lt;a class=&#34;anchor&#34; href=&#34;#calendar-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The standard calendar of the Moonshroud Realms uses 13 months of 28&#xA;days — a clean 364-day year. Lustre completes exactly one full cycle&#xA;per month, and the days of the week are named for the seven moons.&lt;/p&gt;&#xA;&lt;p&gt;The calendar below tracks the current campaign date and marks known&#xA;events as they become relevant.&lt;/p&gt;&#xA;&lt;div style=&#34;margin: 1.5rem 0;&#34;&gt;&#xA;&lt;a href=&#34;http://localhost:1313/calendar.html&#34; &#xA;   style=&#34;display:inline-block; padding: 10px 24px; background: #c9a84c; &#xA;   color: white; border-radius: 4px; text-decoration: none; &#xA;   font-weight: 500;&#34;&gt;&#xA;   Open the Calendar of Orb →&#xA;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;em&gt;The calendar advances as the campaign progresses. Check back after&#xA;each session.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The World Beyond</title>
       <link>http://localhost:1313/lore/the-world-beyond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

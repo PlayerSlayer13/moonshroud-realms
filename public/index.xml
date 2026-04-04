@@ -99,6 +99,13 @@
       <description>&lt;h1 id=&#34;aelfaen&#34;&gt;Aelfaen&lt;a class=&#34;anchor&#34; href=&#34;#aelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Aelfaen are a people shaped by an ancient purpose — born as wardens&#xA;between worlds, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt; to safeguard the&#xA;boundaries between Orb and the fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;. For generations&#xA;they tended crossings and preserved the balance between realms. When&#xA;those crossings stabilized and their task ended, the Aelfaen dispersed&#xA;into the societies of Orb, where they now live as artisans, soldiers,&#xA;scholars, and travelers.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Calendar of Orb</title>
+      <link>http://localhost:1313/lore/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/calendar/</guid>
+      <description>&lt;h1 id=&#34;calendar-of-orb&#34;&gt;Calendar of Orb&lt;a class=&#34;anchor&#34; href=&#34;#calendar-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The standard calendar of the Moonshroud Realms uses 13 months of 28&#xA;days — a clean 364-day year. Lustre completes exactly one full cycle&#xA;per month, and the days of the week are named for the seven moons.&lt;/p&gt;&#xA;&lt;p&gt;The calendar below tracks the current campaign date and marks known&#xA;events as they become relevant.&lt;/p&gt;&#xA;&lt;div style=&#34;margin: 1.5rem 0;&#34;&gt;&#xA;&lt;a href=&#34;http://localhost:1313/calendar.html&#34; &#xA;   style=&#34;display:inline-block; padding: 10px 24px; background: #c9a84c; &#xA;   color: white; border-radius: 4px; text-decoration: none; &#xA;   font-weight: 500;&#34;&gt;&#xA;   Open the Calendar of Orb →&#xA;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;em&gt;The calendar advances as the campaign progresses. Check back after&#xA;each session.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Funnis</title>
       <link>http://localhost:1313/world/funnis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

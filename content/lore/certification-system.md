@@ -1,6 +1,6 @@
 ---
 title: "The Certification System"
-weight: 4
+weight: 5
 ---
 
 # The Certification System

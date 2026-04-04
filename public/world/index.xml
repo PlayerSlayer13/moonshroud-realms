@@ -35,5 +35,12 @@
       <guid>http://localhost:1313/world/saltstone-square/</guid>
       <description>&lt;h1 id=&#34;saltstone-square&#34;&gt;Saltstone Square&lt;a class=&#34;anchor&#34; href=&#34;#saltstone-square&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saltstone Square is the beating heart of Bridgeport&amp;rsquo;s southern district&#xA;— a busy, loud, perpetually crowded crossroads where commerce, gossip,&#xA;and opportunity all converge. From dawn to well past dusk it is rarely&#xA;quiet, and never entirely safe, but for those looking for work,&#xA;information, or simply a decent meal, it is the right place to be.&lt;/p&gt;&#xA;&lt;p&gt;The square is lined with small shops, anchored by an all-faiths shrine&#xA;at its center, and dominated on three sides by its most prominent&#xA;establishments. Large caravans tend to marshal along nearby&#xA;&lt;strong&gt;Queensway Avenue&lt;/strong&gt; rather than the square itself, though caravan&#xA;guard recruitment still happens here regularly enough.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Dalraven</title>
+      <link>http://localhost:1313/world/dalraven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/world/dalraven/</guid>
+      <description>&lt;h1 id=&#34;dalraven&#34;&gt;Dalraven&lt;a class=&#34;anchor&#34; href=&#34;#dalraven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dalraven is a walled coastal town of roughly four hundred souls, set&#xA;at the mouth of the &lt;strong&gt;Raven River&lt;/strong&gt; where its dark waters spill into&#xA;&lt;strong&gt;Godsfall Bay&lt;/strong&gt;, a broad inlet of the &lt;strong&gt;Zephyrys Sea&lt;/strong&gt;. It sits on&#xA;slightly higher ground above surrounding mud plains — at low tide the&#xA;shoreline stretches outward in slick flats and reed-choked channels,&#xA;at high tide the sea presses close against its piers and timber docks.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -28,5 +28,12 @@
       <guid>http://localhost:1313/maps/wexford-town/</guid>
       <description>&lt;h1 id=&#34;wexford-town-map&#34;&gt;Wexford Town Map&lt;a class=&#34;anchor&#34; href=&#34;#wexford-town-map&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A map of Wexford, the Aelfaen woodland town fifty miles south of Bridgeport&#xA;in the Wexwood Forest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/maps/wexford-town.webp&#34; &#xA;alt=&#34;Town map of Wexford&#34; &#xA;style=&#34;width:100%; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Dalraven</title>
+      <link>http://localhost:1313/maps/dalraven-town/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maps/dalraven-town/</guid>
+      <description>&lt;h1 id=&#34;dalraven-town-map&#34;&gt;Dalraven Town Map&lt;a class=&#34;anchor&#34; href=&#34;#dalraven-town-map&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A map of Dalraven, the walled frontier town at the mouth of the Raven&#xA;River on Godsfall Bay — seventy miles north of Bridgeport by sea.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/maps/dalraven-town.webp&#34; &#xA;alt=&#34;Town map of Dalraven&#34; &#xA;style=&#34;width:100%; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -113,13 +113,6 @@
       <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The World Beyond</title>
-      <link>http://localhost:1313/lore/the-world-beyond/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lore/the-world-beyond/</guid>
-      <description>&lt;h1 id=&#34;the-world-beyond-bridgeport&#34;&gt;The World Beyond Bridgeport&lt;a class=&#34;anchor&#34; href=&#34;#the-world-beyond-bridgeport&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport sits at the mouth of the Godsfall River on the western coast&#xA;of &lt;strong&gt;Algar&lt;/strong&gt;, one nation among many on the continent of &lt;strong&gt;Elderland&lt;/strong&gt;.&#xA;It is a busy, prosperous city — and it is also a very small part of a&#xA;very large world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-continent-of-elderland&#34;&gt;The Continent of Elderland&lt;a class=&#34;anchor&#34; href=&#34;#the-continent-of-elderland&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Elderland is the known world for most of its inhabitants. It is vast&#xA;enough that few people ever see more than a fraction of it in a&#xA;lifetime, and large enough that its eastern reaches are more legend than&#xA;geography to those living on the western coast.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Wexford</title>
       <link>http://localhost:1313/maps/wexford-town/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -155,11 +148,11 @@
       <description>&lt;h1 id=&#34;saltstone-square&#34;&gt;Saltstone Square&lt;a class=&#34;anchor&#34; href=&#34;#saltstone-square&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saltstone Square is the beating heart of Bridgeport&amp;rsquo;s southern district&#xA;— a busy, loud, perpetually crowded crossroads where commerce, gossip,&#xA;and opportunity all converge. From dawn to well past dusk it is rarely&#xA;quiet, and never entirely safe, but for those looking for work,&#xA;information, or simply a decent meal, it is the right place to be.&lt;/p&gt;&#xA;&lt;p&gt;The square is lined with small shops, anchored by an all-faiths shrine&#xA;at its center, and dominated on three sides by its most prominent&#xA;establishments. Large caravans tend to marshal along nearby&#xA;&lt;strong&gt;Queensway Avenue&lt;/strong&gt; rather than the square itself, though caravan&#xA;guard recruitment still happens here regularly enough.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Certification System</title>
-      <link>http://localhost:1313/lore/certification-system/</link>
+      <title>The World Beyond</title>
+      <link>http://localhost:1313/lore/the-world-beyond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lore/certification-system/</guid>
-      <description>&lt;h1 id=&#34;the-certification-system&#34;&gt;The Certification System&lt;a class=&#34;anchor&#34; href=&#34;#the-certification-system&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;In most parts of the world, anyone with a sword and a willingness to&#xA;use it can call themselves an adventurer. In Algar, that is not quite&#xA;how it works.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Certification System&lt;/strong&gt; is the framework through which the&#xA;Adventurer&amp;rsquo;s Guild and the Royal Adventuring Society regulate who is&#xA;permitted to undertake sanctioned work — and what level of work they&#xA;are permitted to take on. It exists for practical reasons: dangerous&#xA;jobs done badly create problems for everyone, and clients who hire&#xA;capable parties get better results than clients who hire whoever&#xA;happened to be standing nearest the mission board.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/lore/the-world-beyond/</guid>
+      <description>&lt;h1 id=&#34;the-world-beyond-bridgeport&#34;&gt;The World Beyond Bridgeport&lt;a class=&#34;anchor&#34; href=&#34;#the-world-beyond-bridgeport&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport sits at the mouth of the Godsfall River on the western coast&#xA;of &lt;strong&gt;Algar&lt;/strong&gt;, one nation among many on the continent of &lt;strong&gt;Elderland&lt;/strong&gt;.&#xA;It is a busy, prosperous city — and it is also a very small part of a&#xA;very large world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-continent-of-elderland&#34;&gt;The Continent of Elderland&lt;a class=&#34;anchor&#34; href=&#34;#the-continent-of-elderland&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Elderland is the known world for most of its inhabitants. It is vast&#xA;enough that few people ever see more than a fraction of it in a&#xA;lifetime, and large enough that its eastern reaches are more legend than&#xA;geography to those living on the western coast.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dalraven</title>
@@ -167,6 +160,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/world/dalraven/</guid>
       <description>&lt;h1 id=&#34;dalraven&#34;&gt;Dalraven&lt;a class=&#34;anchor&#34; href=&#34;#dalraven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dalraven is a walled coastal town of roughly four hundred souls, set&#xA;at the mouth of the &lt;strong&gt;Raven River&lt;/strong&gt; where its dark waters spill into&#xA;&lt;strong&gt;Godsfall Bay&lt;/strong&gt;, a broad inlet of the &lt;strong&gt;Zephyrys Sea&lt;/strong&gt;. It sits on&#xA;slightly higher ground above surrounding mud plains — at low tide the&#xA;shoreline stretches outward in slick flats and reed-choked channels,&#xA;at high tide the sea presses close against its piers and timber docks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Certification System</title>
+      <link>http://localhost:1313/lore/certification-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/certification-system/</guid>
+      <description>&lt;h1 id=&#34;the-certification-system&#34;&gt;The Certification System&lt;a class=&#34;anchor&#34; href=&#34;#the-certification-system&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;In most parts of the world, anyone with a sword and a willingness to&#xA;use it can call themselves an adventurer. In Algar, that is not quite&#xA;how it works.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Certification System&lt;/strong&gt; is the framework through which the&#xA;Adventurer&amp;rsquo;s Guild and the Royal Adventuring Society regulate who is&#xA;permitted to undertake sanctioned work — and what level of work they&#xA;are permitted to take on. It exists for practical reasons: dangerous&#xA;jobs done badly create problems for everyone, and clients who hire&#xA;capable parties get better results than clients who hire whoever&#xA;happened to be standing nearest the mission board.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Kangs</title>

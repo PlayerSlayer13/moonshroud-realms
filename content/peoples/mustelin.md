@@ -79,43 +79,45 @@ Daggerheart system. Mustelin are treated as two separate ancestries
 by lineage. Mixed ancestry characters take the primary feature of their 
 main ancestry and the secondary feature of their other ancestry.*
 
----
+<details>
+<summary><strong>Riverheart</strong></summary>
 
-### Riverheart
-
-Cheerful, fluid, and deeply social — as comfortable in a crowded 
+<p>Cheerful, fluid, and deeply social — as comfortable in a crowded 
 tavern as in a swift current. Riverheart Mustelin read the flow of a 
 room the way they read a river: sensing where the current pulls, where 
 it eddies, and exactly when to move. Small, expressive, and quick to 
 laugh, they navigate the world through momentum and connection rather 
-than caution.
+than caution.</p>
 
-**River's Flow**
+<p><strong>River's Flow</strong><br>
 When you move into a new position during an action, you may spend 
 1 Hope to immediately move again up to the same distance without 
-spending additional movement. You can only trigger this once per action.
+spending additional movement. You can only trigger this once per action.</p>
 
-**River Born**
+<p><strong>River Born</strong><br>
 You have Advantage on Agility Rolls made while swimming, and you can 
-hold your breath for up to 10 minutes.
+hold your breath for up to 10 minutes.</p>
 
----
+</details>
 
-### Swiftpaw
+<details>
+<summary><strong>Swiftpaw</strong></summary>
 
-Sharp-eyed wanderers who slip through the world sideways — through 
+<p>Sharp-eyed wanderers who slip through the world sideways — through 
 cracks in walls, gaps in crowds, and fissures in plans. Solitary by 
 inclination and opportunistic by nature, shaped by Toiy the capricious 
 Ascendant of chance and balance to survive by instinct and luck in 
 equal measure. Where a Riverheart reads the current, a Swiftpaw reads 
-the exit.
+the exit.</p>
 
-**Nimble Frame**
+<p><strong>Nimble Frame</strong><br>
 When you move through the space of a creature larger than you, or 
 squeeze through a tight space, you may mark a Stress to do so without 
 slowing your movement and without provoking any reaction from that 
-creature.
+creature.</p>
 
-**Fortunate Instinct**
+<p><strong>Fortunate Instinct</strong><br>
 When you roll a 12 on your Fear Die, you may spend 1 Hope to reroll 
-it and use the new result.
+it and use the new result.</p>
+
+</details>

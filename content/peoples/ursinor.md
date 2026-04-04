@@ -93,66 +93,69 @@ Daggerheart system. Ursinor are treated as three separate ancestries
 by lineage. Mixed ancestry characters take the primary feature of their 
 main ancestry and the secondary feature of their other ancestry.*
 
----
+<details>
+<summary><strong>Ironbark (Woodlands)</strong></summary>
 
-### Ironbark (Woodlands)
-
-Wardens of the wood — broad-framed yet agile, favoring terrain 
+<p>Wardens of the wood — broad-framed yet agile, favoring terrain 
 awareness and patience over spectacle. Of all the Ursinor, Ironbark 
 are the most commonly encountered beyond their home territories, 
-carrying the weight of Soryn's teaching wherever they go.
+carrying the weight of Soryn's teaching wherever they go.</p>
 
-**Unyielding**
+<p><strong>Unyielding</strong><br>
 When you would mark your last Hit Point, you may spend 2 Hope to mark 
-a Stress instead.
+a Stress instead.</p>
 
-**Imposing Presence**
+<p><strong>Imposing Presence</strong><br>
 When you succeed on a Strength Roll to intimidate, restrain, or 
 physically dominate a situation, you may mark a Stress to make the 
-effect last until the end of the scene rather than the current moment.
+effect last until the end of the scene rather than the current moment.</p>
 
----
+</details>
 
-### Sunwoven (Tropical)
+<details>
+<summary><strong>Sunwoven (Tropical)</strong></summary>
 
-Distinguished by striking coloration and an expressive vitality that 
+<p>Distinguished by striking coloration and an expressive vitality that 
 sets them apart from their more reserved kin. Their cultures center on 
 performance, storytelling, and spectacle. What outsiders sometimes 
 mistake for frivolity is deeply intentional — Sunwoven Ursinor believe 
 that to perform is to remember, and that a story told well is a truth 
-preserved forever.
+preserved forever.</p>
 
-**Commanding Presence**
+<p><strong>Commanding Presence</strong><br>
 When you make a Presence Roll to perform, inspire, or hold the 
 attention of a crowd or individual, you may spend 1 Hope to force 
 everyone who can see or hear you to direct their attention toward you 
-until the end of your next action, even on a failure.
+until the end of your next action, even on a failure.</p>
 
-**Sunwoven Glamor**
+<p><strong>Sunwoven Glamor</strong><br>
 Once per rest, you may mark a Stress to project a glamour over 
 yourself or one willing creature within Melee range, causing observers 
 to perceive that target as a different person of similar size and build 
 until the end of the scene or until an observer gets within Very Close 
-range and has reason to look closely.
+range and has reason to look closely.</p>
 
----
+</details>
 
-### Whiteward (Tundral)
+<details>
+<summary><strong>Whiteward (Tundral)</strong></summary>
 
-The largest of their kin — pale-furred and obsidian-skinned, built for 
-frozen coasts and icebound seas. Stoic where Sunwoven are expressive, 
-ancient where Ironbark are practical. Ursinor elders across all three 
-lineages acknowledge the Whiteward as the first — the bearfolk closest 
-in form and spirit to those Soryn shaped in the elder age. That pride 
-is not arrogance. It is weight.
+<p>The largest of their kin — pale-furred and obsidian-skinned, built 
+for frozen coasts and icebound seas. Stoic where Sunwoven are 
+expressive, ancient where Ironbark are practical. Ursinor elders 
+across all three lineages acknowledge the Whiteward as the first — 
+the bearfolk closest in form and spirit to those Soryn shaped in the 
+elder age. That pride is not arrogance. It is weight.</p>
 
-**Soryn's Endurance**
+<p><strong>Soryn's Endurance</strong><br>
 Once per session, when you would be Incapacitated, knocked unconscious, 
 or forced out of a scene by damage or a physical effect, you may mark 
 2 Stress to remain standing and conscious with 1 Hit Point remaining 
-instead.
+instead.</p>
 
-**Cold Water Born**
+<p><strong>Cold Water Born</strong><br>
 You have Advantage on Agility Rolls made while swimming, and Advantage 
 on Endurance or Strength Rolls made to resist the effects of cold, 
-exhaustion, or harsh environmental conditions.
+exhaustion, or harsh environmental conditions.</p>
+
+</details>

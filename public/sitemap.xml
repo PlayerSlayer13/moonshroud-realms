@@ -38,8 +38,6 @@
   </url><url>
     <loc>http://localhost:1313/world/funnis/</loc>
   </url><url>
-    <loc>http://localhost:1313/lore/the-world-beyond/</loc>
-  </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/dalraven-town/</loc>
@@ -52,11 +50,13 @@
   </url><url>
     <loc>http://localhost:1313/world/saltstone-square/</loc>
   </url><url>
-    <loc>http://localhost:1313/lore/certification-system/</loc>
+    <loc>http://localhost:1313/lore/the-world-beyond/</loc>
   </url><url>
     <loc>http://localhost:1313/world/dalraven/</loc>
   </url><url>
     <loc>http://localhost:1313/recaps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/lore/certification-system/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>

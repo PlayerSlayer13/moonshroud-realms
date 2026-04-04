@@ -91,11 +91,11 @@ instinct remain in every Aelfaen alive today.
 ### Ancestry Features
 
 **Keeper's Instinct**
-When you make an Instinct Roll to notice disturbances, illusions, 
-supernatural influence, or something out of balance in the environment, 
-you may spend 1 Hope to gain Advantage on the roll.
+When you make an Instinct Roll to notice something supernatural, 
+illusory, or out of balance in the environment, you may spend 1 Hope 
+to gain Advantage on the roll.
 
-**Between Worlds**
-When you make a Presence Roll to persuade, deceive, negotiate, or 
-mediate between individuals or groups, you may spend 1 Hope to add 
-+1d4 to the result.
+**Liminal Step**
+Once per rest, when you move through or past a threshold — a doorway, 
+gate, crossing, or boundary — you may mark a Stress to slip through 
+undetected, leaving no trace of your passage that scene.

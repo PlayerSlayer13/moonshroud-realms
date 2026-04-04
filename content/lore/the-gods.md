@@ -67,6 +67,10 @@ Tidewardens and a senior Wavemaster who conducts departure rites and
 memorials for those lost at sea. No sermons are given here. The sea 
 does not require theology.</p>
 
+<img src="/images/gods/cora-symbol.webp"
+     alt="Symbol of Cora"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+
 </details>
 
 ---
@@ -85,7 +89,9 @@ themselves among the faithful.</p>
 <p><strong>Symbol:</strong> An all-seeing eye crowned by a flame of 
 enlightenment, set above a scroll of recorded memory.</p>
 
-<img src="/images/gods/aard-symbol.webp" alt="Symbol of Aard" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/aard-symbol.webp"
+     alt="Symbol of Aard"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 <p><strong>Temple in Bridgeport:</strong> The Temple of Radiant Light 
 on Queensway Avenue — the largest and most respected temple in the 
@@ -106,7 +112,9 @@ The shrine is also a place for binding contracts and formal accords.</p>
 <p><strong>Symbol:</strong> A warhammer set before a scroll, encircled 
 by an unbroken ring.</p>
 
-<img src="/images/gods/kelleth-symbol.webp" alt="Symbol of Kelleth" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/kelleth-symbol.webp"
+     alt="Symbol of Kelleth"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 <p><strong>Temple in Bridgeport:</strong> The Shrine of the Iron Oath — 
 its priests serve as neutral stewards during contract signings and oath 
@@ -127,7 +135,9 @@ what cannot be changed.</p>
 <p><strong>Symbol:</strong> Geometric patterns suggesting progression 
 and consequence — linear motifs of the unbroken chain.</p>
 
-<img src="/images/gods/absot-symbol.webp" alt="Symbol of Absot" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/absot-symbol.webp"
+     alt="Symbol of Absot"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 <p><strong>Temple in Wexford:</strong> The Marble Canon, presided over 
 by Hierophant Halwen Marr, is the primary temple of Absot in the 
@@ -181,7 +191,9 @@ dreams.</p>
 of silver, grey, and black, representing the journey from light into 
 shadow.</p>
 
-<img src="/images/gods/noctis-symbol.webp" alt="Symbol of Noctis" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/noctis-symbol.webp"
+     alt="Symbol of Noctis"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 <p><strong>Temple in Bridgeport:</strong> The Umbral House, on the 
 northern outskirts of the city. Its narrow windows, dim interior, and 
@@ -203,7 +215,9 @@ kinship, and the right to choose their own paths rather than exist as
 endless instruments of war. Soryn is revered particularly among the 
 Ursinor clans, whose devotion is quiet, habitual, and deeply personal.</p>
 
-<img src="/images/gods/soryn-symbol.webp" alt="Symbol of Soryn" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/soryn-symbol.webp"
+     alt="Symbol of Soryn"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 </details>
 
@@ -256,7 +270,9 @@ those heading into dangerous places often make brief devotions at
 Mollo's temples before setting out — seeking resolve rather than 
 protection alone.</p>
 
-<img src="/images/gods/mollo-symbol.webp" alt="Symbol of Mollo" style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+<img src="/images/gods/mollo-symbol.webp"
+     alt="Symbol of Mollo"
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
 <p><strong>Temple in Wexford:</strong> The Lantern-Keeper Temple is 
 one of Wexford's most active community institutions. A tall beacon 

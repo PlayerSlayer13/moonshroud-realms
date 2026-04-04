@@ -7,7 +7,7 @@ theme = 'hugo-book'
   BookTheme = 'auto'
   BookToC = true
   BookSearch = true
-  BookComments = false
+  BookComments = true
   BookSection = '*'
 
 [markup.goldmark.renderer]

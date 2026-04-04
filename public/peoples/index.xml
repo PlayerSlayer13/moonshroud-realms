@@ -35,5 +35,12 @@
       <guid>http://localhost:1313/peoples/dragonblood/</guid>
       <description>&lt;h1 id=&#34;dragonblood&#34;&gt;Dragonblood&lt;a class=&#34;anchor&#34; href=&#34;#dragonblood&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dragonblood resemble tall, hairless elves at first glance — features&#xA;refined but subtly sharpened by draconic influence. Fine scales trace&#xA;their skin in irregular patterns, most often along the spine, temples,&#xA;or cheekbones, though some bear them across the neck, hands, or feet.&#xA;A rare few develop horn-like protrusions or vestigial claws at the&#xA;fingertips, a lingering echo of the ritual that shaped their kind.&#xA;Their natural lifespan is approximately 500 years.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Communities</title>
+      <link>http://localhost:1313/peoples/communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/communities/</guid>
+      <description>&lt;h1 id=&#34;communities&#34;&gt;Communities&lt;a class=&#34;anchor&#34; href=&#34;#communities&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A community represents the culture, environment, and values a character&#xA;was raised among. It is fully decoupled from ancestry — any character&#xA;may take any community regardless of their lineage. A Ursinor raised&#xA;in a city grows up differently than one raised in a forest clan. A&#xA;Mustelin from a noble house carries different instincts than one from&#xA;the docks.&lt;/p&gt;&#xA;&lt;p&gt;Your community shapes how you move through the world, what you reach&#xA;for instinctively, and what your upbringing gave you that nothing else&#xA;could.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

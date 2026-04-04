@@ -54,6 +54,8 @@
   </url><url>
     <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>
+    <loc>http://localhost:1313/peoples/communities/</loc>
+  </url><url>
     <loc>http://localhost:1313/maps/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/</loc>

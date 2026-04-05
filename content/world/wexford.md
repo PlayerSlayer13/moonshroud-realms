@@ -13,6 +13,10 @@ outsiders are not unknown.
 
 It is a quieter place than Bridgeport, but quieter does not mean simple.
 
+<img src="/images/random/wexford.webp" 
+     alt="Wexford" 
+     style="width:400px; height:auto; border-radius:4px; margin-top:8px;">
+
 ## Governance
 
 Wexford operates under a layered authority that keeps several interests in careful balance:

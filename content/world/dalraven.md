@@ -15,6 +15,10 @@ at high tide the sea presses close against its piers and timber docks.
 It is not large. It is deliberate. If Bridgeport opens Algar to the 
 world, Dalraven opens it to the unknown.
 
+<img src="/images/random/dalraven.webp" 
+     alt="Dalraven" 
+     style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
+
 ## Getting There
 
 Dalraven lies roughly seventy miles north of Bridgeport — close enough 

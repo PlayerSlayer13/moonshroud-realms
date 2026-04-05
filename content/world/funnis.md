@@ -15,6 +15,10 @@ turning south toward the Godsfall.
 It is not a city. It is not a town in the Bridgeport sense. It is a 
 community — self-sufficient, deliberate, and entirely on its own terms.
 
+<img src="/images/random/funnis.webp" 
+     alt="Funnis" 
+     style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
+
 ## The People
 
 Funnis is home to approximately four hundred **Ursinor** — bear-folk, 

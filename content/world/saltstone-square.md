@@ -17,6 +17,10 @@ establishments. Large caravans tend to marshal along nearby
 **Queensway Avenue** rather than the square itself, though caravan 
 guard recruitment still happens here regularly enough.
 
+<img src="/images/random/saltstone-square.webp" 
+     alt="Saltstone Square" 
+     style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
+
 ## The Three Public Houses
 
 ### The Strangled Goat Tavern

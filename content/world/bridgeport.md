@@ -16,6 +16,10 @@ It is a city of commerce, ambition, and barely contained chaos — a place
 where fortunes are made and lost, where every faction has a foothold, 
 and where the streets themselves seem to have opinions.
 
+<img src="/images/random/bridgeport.webp" 
+     alt="Bridgeport" 
+     style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
+
 ## Governance
 
 Bridgeport is governed by the **Council of Trades**, a civic assembly 
@@ -98,6 +102,10 @@ seaworthy. It carries a faint sense of faded glory, as though the
 timbers remember a time when entire fleets were launched from these 
 docks.
 
+<img src="/images/random/drydock-quay-logo.webp" 
+     alt="Drydock Quay Logo" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
+
 ### Seaglass Tower
 A compact stone fort crowned by a distinctive green-blue glass lantern 
 dome, sitting on a narrow peninsula overlooking Pell's Harbor. Operated 
@@ -105,6 +113,10 @@ by the city militia, it serves as Bridgeport's primary watchpoint for
 approaching vessels. Its lantern guides ships through fog and night. 
 From its battlements, the entire sweep of Pell's Harbor can be surveyed 
 in a single turn of the head.
+
+<img src="/images/random/seaglass-tower.webp" 
+     alt="Seaglass Tower" 
+     style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
 
 ### Riverbend Mills
 Sits along the banks of **Stonewash Creek**, a fast cold run of water 

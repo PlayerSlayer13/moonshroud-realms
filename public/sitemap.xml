@@ -8,13 +8,13 @@
   </url><url>
     <loc>http://localhost:1313/calendar/</loc>
   </url><url>
+    <loc>http://localhost:1313/peoples/ancestries-core/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/council-of-trades/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-gods/</loc>
   </url><url>
     <loc>http://localhost:1313/world/</loc>
-  </url><url>
-    <loc>http://localhost:1313/peoples/ursinor/</loc>
   </url><url>
     <loc>http://localhost:1313/rumors/bridgeport-rumors/</loc>
   </url><url>
@@ -32,17 +32,17 @@
   </url><url>
     <loc>http://localhost:1313/factions/adventurers-guild/</loc>
   </url><url>
-    <loc>http://localhost:1313/peoples/aelfaen/</loc>
-  </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
     <loc>http://localhost:1313/world/funnis/</loc>
   </url><url>
+    <loc>http://localhost:1313/peoples/ursinor/</loc>
+  </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>
-    <loc>http://localhost:1313/maps/dalraven-town/</loc>
+    <loc>http://localhost:1313/peoples/aelfaen/</loc>
   </url><url>
-    <loc>http://localhost:1313/peoples/dragonblood/</loc>
+    <loc>http://localhost:1313/maps/dalraven-town/</loc>
   </url><url>
     <loc>http://localhost:1313/people/</loc>
   </url><url>
@@ -52,9 +52,9 @@
   </url><url>
     <loc>http://localhost:1313/lore/the-world-beyond/</loc>
   </url><url>
-    <loc>http://localhost:1313/peoples/ancestries-core/</loc>
-  </url><url>
     <loc>http://localhost:1313/world/dalraven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/peoples/dragonblood/</loc>
   </url><url>
     <loc>http://localhost:1313/recaps/</loc>
   </url><url>

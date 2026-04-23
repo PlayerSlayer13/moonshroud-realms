@@ -267,7 +267,7 @@
   <div class="page-header">
     <div class="page-title">Calendar of Orb</div>
     <span class="ornament">✦ ✦ ✦</span>
-    <div class="page-subtitle">The Moonshroud Realms — Campaign Year One</div>
+    <div class="page-subtitle">The Moonshroud Realms — Year 700AG</div>
   </div>
 
   <div class="cal-card">
@@ -275,7 +275,7 @@
       <button onclick="prevMonth()">← Prev</button>
       <select class="month-select" id="monthSelect" onchange="goToMonth(this.value)"></select>
       <button onclick="nextMonth()">Next →</button>
-      <span class="cy-label">CY1</span>
+      <span class="cy-label">Year 700AG</span>
     </div>
 
     <div>
@@ -332,7 +332,9 @@ const events = [
   {month:6,day:14,type:"seasonal",label:"Summer Solstice",desc:"Last day of high summer. Festival season peaks.",recap:null},
   {month:6,day:16,type:"lunar",label:"Supersea",desc:"Annual supersea — Myonis and Strianus align. Sea travel becomes impossible or extremely hazardous.",recap:null},
   {month:10,day:21,type:"seasonal",label:"Autumn Equinox",desc:"Days and nights balance. Coastal peoples perform storm-ward rituals.",recap:null},
-  {month:12,day:28,type:"seasonal",label:"Winter Solstice",desc:"Darkest night of the year. The new year begins at midnight.",recap:null}
+  {month:12,day:28,type:"seasonal",label:"Winter Solstice",desc:"Darkest night of the year. The new year begins at midnight.",recap:null},
+  {month:3, day:15, type:"campaign", label:"Queen's Birthday", desc:"The 820th celebrated birthday of Queen Agnas of Algar, Lady of the Golden Star. A public holiday observed across the realm.", recap:null},
+  {month:6, day:14, type:"seasonal", label:"Coronation Day", desc:"The 700th celebration of the Coronation Day of Queen Agnas — the realm's most beloved civic holiday.", recap:null}
 ];
 
 const TODAY_MONTH = 8;

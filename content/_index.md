@@ -13,7 +13,7 @@ type: docs
    background: #c9a84c; color: #1a1710; 
    border-radius: 4px; text-decoration: none; 
    font-weight: 600; font-size: 1.1rem; letter-spacing: 0.03em;">
-   📅 Calendar of Orb — Duskgrain, Day 23, CY1
+   📅 Calendar of Orb — Duskgrain, Day 23, 700AG
 </a>
 </div>
 

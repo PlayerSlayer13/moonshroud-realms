@@ -29,6 +29,13 @@
       <description>&lt;h1 id=&#34;calendar-of-orb&#34;&gt;Calendar of Orb&lt;a class=&#34;anchor&#34; href=&#34;#calendar-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The standard calendar of the Moonshroud Realms uses 13 months of 28&#xA;days — a clean 364-day year. Lustre completes exactly one full cycle&#xA;per month, and the days of the week are named for the seven moons.&lt;/p&gt;&#xA;&lt;p&gt;The calendar below tracks the current campaign date and marks known&#xA;events as they become relevant.&lt;/p&gt;&#xA;&lt;div style=&#34;margin: 1.5rem 0;&#34;&gt;&#xA;&lt;a href=&#34;http://localhost:1313/calendar.html&#34; &#xA;   style=&#34;display:inline-block; padding: 10px 24px; background: #c9a84c; &#xA;   color: white; border-radius: 4px; text-decoration: none; &#xA;   font-weight: 500;&#34;&gt;&#xA;   Open the Calendar of Orb →&#xA;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;em&gt;The calendar advances as the campaign progresses. Check back after&#xA;each session.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Core &amp; Void Ancestries</title>
+      <link>http://localhost:1313/peoples/ancestries-core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/ancestries-core/</guid>
+      <description>&lt;h1 id=&#34;core--void-ancestries&#34;&gt;Core &amp;amp; Void Ancestries&lt;a class=&#34;anchor&#34; href=&#34;#core--void-ancestries&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The following ancestries are available in this campaign from the core&#xA;Daggerheart rulebook and The Void supplement. They represent the full&#xA;range of peoples found across Elderland and beyond.&lt;/p&gt;&#xA;&lt;p&gt;For ancestries specific to the Moonshroud Realms, see the individual&#xA;pages for Aelfaen, Mustelin, Ursinor, and Dragonblood.&lt;/p&gt;&#xA;&lt;p&gt;Mixed ancestry characters take the primary feature of their main&#xA;ancestry and the secondary feature of their other ancestry.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;core-daggerheart-ancestries&#34;&gt;Core Daggerheart Ancestries&lt;a class=&#34;anchor&#34; href=&#34;#core-daggerheart-ancestries&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;&lt;strong&gt;Clank&lt;/strong&gt;&lt;/summary&gt;&#xA;&lt;p&gt;Clanks are sentient mechanical beings built from a variety of &#xA;materials, including metal, wood, and stone. They can resemble &#xA;humanoids, animals, or even inanimate objects. Because of their &#xA;bespoke construction, many clanks have highly specialized physical &#xA;configurations. A clank&#39;s lifespan extends as long as they&#39;re able &#xA;to acquire or craft new parts, making their physical form effectively &#xA;immortal — though their minds deteriorate as the magic that powers &#xA;them loses potency.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Council of Trades</title>
       <link>http://localhost:1313/factions/council-of-trades/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,13 +48,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/lore/the-gods/</guid>
       <description>&lt;h1 id=&#34;the-gods&#34;&gt;The Gods&lt;a class=&#34;anchor&#34; href=&#34;#the-gods&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The divine order of the Moonshroud Realms flows from a single source:&#xA;&lt;strong&gt;Spherus&lt;/strong&gt;, the creator. Before the Eternals, before mortal history,&#xA;Spherus conceived five &lt;strong&gt;Primordials&lt;/strong&gt; to govern the elemental&#xA;foundations of existence itself — forces so vast and ancient that most&#xA;mortals encounter them only as the world they live in. From there,&#xA;Spherus imagined nine &lt;strong&gt;Eternals&lt;/strong&gt; into being — fundamental forces&#xA;given will and purpose, each responsible for a domain of reality rather&#xA;than a nation of worshippers. Beneath the Eternals exist the&#xA;&lt;strong&gt;Ascendants&lt;/strong&gt; — beings of mortal origin elevated to divinity through&#xA;extraordinary deeds, divine selection, or profound sacrifice.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ursinor</title>
-      <link>http://localhost:1313/peoples/ursinor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/peoples/ursinor/</guid>
-      <description>&lt;h1 id=&#34;ursinor&#34;&gt;Ursinor&lt;a class=&#34;anchor&#34; href=&#34;#ursinor&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Ursinor are bear-like humanoids — broad of shoulder, thick of limb,&#xA;with long torsos and powerful arms. Their size suggests slowness. It&#xA;shouldn&amp;rsquo;t. They are capable runners and nimble climbers when pressed,&#xA;and those who underestimate them based on appearance tend not to make&#xA;the same mistake twice.&lt;/p&gt;&#xA;&lt;p&gt;They are found across Elderland, most commonly in woodland settlements&#xA;and northern communities, though individual Ursinor appear in cities&#xA;and on roads throughout the world. Bridgeport has its share.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Whispers &amp; Street Talk</title>
@@ -99,18 +99,18 @@
       <description>&lt;h1 id=&#34;adventurers-guild&#34;&gt;Adventurer&amp;rsquo;s Guild&lt;a class=&#34;anchor&#34; href=&#34;#adventurers-guild&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/factions/adventurers-guild-emblem.webp&#34; &#xA;alt=&#34;Adventurer&#39;s Guild emblem&#34; &#xA;style=&#34;width:200px; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Adventurer&amp;rsquo;s Guild is one of the few organizations that operates openly across most&#xA;of the known world, maintaining halls in cities and towns large enough to support one.&#xA;Bridgeport&amp;rsquo;s chapter is well-established, reasonably well-funded, and busy enough that&#xA;its staff have developed the particular brand of weary pragmatism common to people who&#xA;spend their days sending others into danger.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-guild-does&#34;&gt;What the Guild Does&lt;a class=&#34;anchor&#34; href=&#34;#what-the-guild-does&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The Guild serves as a clearinghouse for work — connecting those with problems requiring&#xA;unconventional solutions to those willing to provide them, for appropriate compensation.&#xA;It posts contracts, verifies completion, handles payment disputes, and maintains records&#xA;of members in good standing.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Aelfaen</title>
-      <link>http://localhost:1313/peoples/aelfaen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/peoples/aelfaen/</guid>
-      <description>&lt;h1 id=&#34;aelfaen&#34;&gt;Aelfaen&lt;a class=&#34;anchor&#34; href=&#34;#aelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Aelfaen are a people shaped by an ancient purpose — born as wardens&#xA;between worlds, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt; to safeguard the&#xA;boundaries between Orb and the fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;. For generations&#xA;they tended crossings and preserved the balance between realms. When&#xA;those crossings stabilized and their task ended, the Aelfaen dispersed&#xA;into the societies of Orb, where they now live as artisans, soldiers,&#xA;scholars, and travelers.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Funnis</title>
       <link>http://localhost:1313/world/funnis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/world/funnis/</guid>
       <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ursinor</title>
+      <link>http://localhost:1313/peoples/ursinor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/ursinor/</guid>
+      <description>&lt;h1 id=&#34;ursinor&#34;&gt;Ursinor&lt;a class=&#34;anchor&#34; href=&#34;#ursinor&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Ursinor are bear-like humanoids — broad of shoulder, thick of limb,&#xA;with long torsos and powerful arms. Their size suggests slowness. It&#xA;shouldn&amp;rsquo;t. They are capable runners and nimble climbers when pressed,&#xA;and those who underestimate them based on appearance tend not to make&#xA;the same mistake twice.&lt;/p&gt;&#xA;&lt;p&gt;They are found across Elderland, most commonly in woodland settlements&#xA;and northern communities, though individual Ursinor appear in cities&#xA;and on roads throughout the world. Bridgeport has its share.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wexford</title>
@@ -120,18 +120,18 @@
       <description>&lt;h1 id=&#34;wexford-town-map&#34;&gt;Wexford Town Map&lt;a class=&#34;anchor&#34; href=&#34;#wexford-town-map&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A map of Wexford, the Aelfaen woodland town fifty miles south of Bridgeport&#xA;in the Wexwood Forest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/maps/wexford-town.webp&#34; &#xA;alt=&#34;Town map of Wexford&#34; &#xA;style=&#34;width:100%; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Aelfaen</title>
+      <link>http://localhost:1313/peoples/aelfaen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/aelfaen/</guid>
+      <description>&lt;h1 id=&#34;aelfaen&#34;&gt;Aelfaen&lt;a class=&#34;anchor&#34; href=&#34;#aelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Aelfaen are a people shaped by an ancient purpose — born as wardens&#xA;between worlds, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt; to safeguard the&#xA;boundaries between Orb and the fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;. For generations&#xA;they tended crossings and preserved the balance between realms. When&#xA;those crossings stabilized and their task ended, the Aelfaen dispersed&#xA;into the societies of Orb, where they now live as artisans, soldiers,&#xA;scholars, and travelers.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Dalraven</title>
       <link>http://localhost:1313/maps/dalraven-town/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/maps/dalraven-town/</guid>
       <description>&lt;h1 id=&#34;dalraven-town-map&#34;&gt;Dalraven Town Map&lt;a class=&#34;anchor&#34; href=&#34;#dalraven-town-map&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A map of Dalraven, the walled frontier town at the mouth of the Raven&#xA;River on Godsfall Bay — seventy miles north of Bridgeport by sea.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/maps/dalraven-town.webp&#34; &#xA;alt=&#34;Town map of Dalraven&#34; &#xA;style=&#34;width:100%; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Dragonblood</title>
-      <link>http://localhost:1313/peoples/dragonblood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/peoples/dragonblood/</guid>
-      <description>&lt;h1 id=&#34;dragonblood&#34;&gt;Dragonblood&lt;a class=&#34;anchor&#34; href=&#34;#dragonblood&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dragonblood resemble tall, hairless elves at first glance — features&#xA;refined but subtly sharpened by draconic influence. Fine scales trace&#xA;their skin in irregular patterns, most often along the spine, temples,&#xA;or cheekbones, though some bear them across the neck, hands, or feet.&#xA;A rare few develop horn-like protrusions or vestigial claws at the&#xA;fingertips, a lingering echo of the ritual that shaped their kind.&#xA;Their natural lifespan is approximately 500 years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Royal Adventuring Society</title>
@@ -160,6 +160,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/world/dalraven/</guid>
       <description>&lt;h1 id=&#34;dalraven&#34;&gt;Dalraven&lt;a class=&#34;anchor&#34; href=&#34;#dalraven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dalraven is a walled coastal town of roughly four hundred souls, set&#xA;at the mouth of the &lt;strong&gt;Raven River&lt;/strong&gt; where its dark waters spill into&#xA;&lt;strong&gt;Godsfall Bay&lt;/strong&gt;, a broad inlet of the &lt;strong&gt;Zephyrys Sea&lt;/strong&gt;. It sits on&#xA;slightly higher ground above surrounding mud plains — at low tide the&#xA;shoreline stretches outward in slick flats and reed-choked channels,&#xA;at high tide the sea presses close against its piers and timber docks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dragonblood</title>
+      <link>http://localhost:1313/peoples/dragonblood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/dragonblood/</guid>
+      <description>&lt;h1 id=&#34;dragonblood&#34;&gt;Dragonblood&lt;a class=&#34;anchor&#34; href=&#34;#dragonblood&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dragonblood resemble tall, hairless elves at first glance — features&#xA;refined but subtly sharpened by draconic influence. Fine scales trace&#xA;their skin in irregular patterns, most often along the spine, temples,&#xA;or cheekbones, though some bear them across the neck, hands, or feet.&#xA;A rare few develop horn-like protrusions or vestigial claws at the&#xA;fingertips, a lingering echo of the ritual that shaped their kind.&#xA;Their natural lifespan is approximately 500 years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Certification System</title>

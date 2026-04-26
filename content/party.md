@@ -1,6 +1,6 @@
 ---
 title: "The Party"
-weight: 4
+weight: 2
 ---
 
 # The Party

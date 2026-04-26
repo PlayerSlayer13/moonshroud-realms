@@ -29,6 +29,8 @@
   </url><url>
     <loc>http://localhost:1313/npcs/thalia/</loc>
   </url><url>
+    <loc>http://localhost:1313/party/</loc>
+  </url><url>
     <loc>http://localhost:1313/peoples/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-moons/</loc>
@@ -61,8 +63,6 @@
     <loc>http://localhost:1313/factions/royal-adventuring-society/</loc>
   </url><url>
     <loc>http://localhost:1313/world/saltstone-square/</loc>
-  </url><url>
-    <loc>http://localhost:1313/npcs/the-party/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-world-beyond/</loc>
   </url><url>

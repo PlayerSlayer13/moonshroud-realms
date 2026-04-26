@@ -93,6 +93,13 @@
       <description>&lt;h1 id=&#34;thalia&#34;&gt;Thalia&lt;a class=&#34;anchor&#34; href=&#34;#thalia&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of the waitstaff at the &lt;strong&gt;Strangled Goat&lt;/strong&gt; in Saltstone Square.&#xA;Efficient, observant, and possessed of the particular calm that comes&#xA;from working a busy tavern long enough that very little surprises you&#xA;anymore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Thalia got the party their first round at the Goat without being asked&#xA;twice. She pointed those looking for work toward &lt;strong&gt;Velra&lt;/strong&gt;, the&#xA;Adventurer&amp;rsquo;s Guild representative working from one of the nooks near&#xA;the main entrance — the kind of quiet, useful information that suggests&#xA;she knows exactly what kind of people walk through that door and what&#xA;they usually need.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Party</title>
+      <link>http://localhost:1313/party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/party/</guid>
+      <description>&lt;h1 id=&#34;the-party&#34;&gt;The Party&lt;a class=&#34;anchor&#34; href=&#34;#the-party&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The individuals who found each other — or were found by circumstance&#xA;— in Bridgeport on Duskgrain Day 23, Year 700AG.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;&lt;strong&gt;Vail Duskryn&lt;/strong&gt; — Aelfaen Sorcerer&lt;/summary&gt;&#xA;&lt;p&gt;&lt;em&gt;Primal Origin · Thresholdborne&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vail arrived in Bridgeport just a day ago. Not for any particular &#xA;reason — just because it was the next place that made sense. Cities &#xA;like this always have work for someone who pays attention, and Vail &#xA;has learned to follow that kind of work wherever it leads. Bridgeport &#xA;is large, busy, constantly shifting — exactly the kind of place where &#xA;no one questions a new face and nothing stays still for long.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Seven Moons</title>
       <link>http://localhost:1313/lore/the-moons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -182,13 +189,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/world/saltstone-square/</guid>
       <description>&lt;h1 id=&#34;saltstone-square&#34;&gt;Saltstone Square&lt;a class=&#34;anchor&#34; href=&#34;#saltstone-square&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saltstone Square is the beating heart of Bridgeport&amp;rsquo;s southern district&#xA;— a busy, loud, perpetually crowded crossroads where commerce, gossip,&#xA;and opportunity all converge. From dawn to well past dusk it is rarely&#xA;quiet, and never entirely safe, but for those looking for work,&#xA;information, or simply a decent meal, it is the right place to be.&lt;/p&gt;&#xA;&lt;p&gt;The square is lined with small shops, anchored by an all-faiths shrine&#xA;at its center, and dominated on three sides by its most prominent&#xA;establishments. Large caravans tend to marshal along nearby&#xA;&lt;strong&gt;Queensway Avenue&lt;/strong&gt; rather than the square itself, though caravan&#xA;guard recruitment still happens here regularly enough.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Party</title>
-      <link>http://localhost:1313/npcs/the-party/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/npcs/the-party/</guid>
-      <description>&lt;h1 id=&#34;the-party&#34;&gt;The Party&lt;a class=&#34;anchor&#34; href=&#34;#the-party&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The individuals who found each other — or were found by circumstance&#xA;— in Bridgeport on Duskgrain Day 23, Year 700AG.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;&lt;strong&gt;Vail Duskryn&lt;/strong&gt; — Aelfaen Sorcerer&lt;/summary&gt;&#xA;&lt;p&gt;&lt;em&gt;Primal Origin · Thresholdborne&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vail arrived in Bridgeport just a day ago. Not for any particular &#xA;reason — just because it was the next place that made sense. Cities &#xA;like this always have work for someone who pays attention, and Vail &#xA;has learned to follow that kind of work wherever it leads. Bridgeport &#xA;is large, busy, constantly shifting — exactly the kind of place where &#xA;no one questions a new face and nothing stays still for long.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The World Beyond</title>

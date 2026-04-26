@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NPCs on The Moonshroud Realms</title>
+    <link>http://localhost:1313/npcs/</link>
+    <description>Recent content in NPCs on The Moonshroud Realms</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 02:57:45 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/npcs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kiville</title>
+      <link>http://localhost:1313/npcs/kiville/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/kiville/</guid>
+      <description>&lt;h1 id=&#34;kiville&#34;&gt;Kiville&lt;a class=&#34;anchor&#34; href=&#34;#kiville&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: Saltstone Square, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A tall man in a long duster coat with good boots. Well-dressed in a way&#xA;that isn&amp;rsquo;t quite right — as if someone described fashionable clothing to&#xA;him and he had it made accordingly. He carries a device on a chain that&#xA;resembles a pocket watch, which he checks frequently and with evident&#xA;meaning.&lt;/p&gt;&#xA;&lt;p&gt;He was found crouching beside the fountain in Saltstone Square,&#xA;examining the stonework with the focused attention of someone who finds&#xA;old stone genuinely interesting. He spoke to two local girls with the&#xA;careful courtesy of a person who has learned that locals know things&#xA;worth knowing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thalia</title>
+      <link>http://localhost:1313/npcs/thalia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/thalia/</guid>
+      <description>&lt;h1 id=&#34;thalia&#34;&gt;Thalia&lt;a class=&#34;anchor&#34; href=&#34;#thalia&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of the waitstaff at the &lt;strong&gt;Strangled Goat&lt;/strong&gt; in Saltstone Square.&#xA;Efficient, observant, and possessed of the particular calm that comes&#xA;from working a busy tavern long enough that very little surprises you&#xA;anymore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Thalia got the party their first round at the Goat without being asked&#xA;twice. She pointed those looking for work toward &lt;strong&gt;Velra&lt;/strong&gt;, the&#xA;Adventurer&amp;rsquo;s Guild representative working from one of the nooks near&#xA;the main entrance — the kind of quiet, useful information that suggests&#xA;she knows exactly what kind of people walk through that door and what&#xA;they usually need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Velra</title>
+      <link>http://localhost:1313/npcs/velra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/velra/</guid>
+      <description>&lt;h1 id=&#34;velra&#34;&gt;Velra&lt;a class=&#34;anchor&#34; href=&#34;#velra&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The Adventurer&amp;rsquo;s Guild representative working the evening shift from&#xA;one of the nooks near the main entrance of the &lt;strong&gt;Strangled Goat&lt;/strong&gt;.&#xA;She operates the quasi-official Guild alcove where certified mission&#xA;allocators meet with adventuring parties, review credentials, and&#xA;assign sanctioned work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Velra asked for Guild credentials. None of the party had any.&lt;/p&gt;&#xA;&lt;p&gt;She was neither dismissive nor encouraging — simply professional. She&#xA;added their names to a prospects list and explained the requirements&#xA;for Guild membership: a &lt;strong&gt;25GP fee&lt;/strong&gt;, a &lt;strong&gt;physical trial&lt;/strong&gt;, a &lt;strong&gt;combat&#xA;trial&lt;/strong&gt;, and a &lt;strong&gt;written exam&lt;/strong&gt;. The guildhall would be open in the&#xA;morning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Party</title>
+      <link>http://localhost:1313/npcs/the-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/the-party/</guid>
+      <description>&lt;h1 id=&#34;the-party&#34;&gt;The Party&lt;a class=&#34;anchor&#34; href=&#34;#the-party&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The individuals who found each other — or were found by circumstance&#xA;— in Bridgeport on Duskgrain Day 23, Year 700AG.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;&lt;strong&gt;Vail Duskryn&lt;/strong&gt; — Aelfaen Sorcerer&lt;/summary&gt;&#xA;&lt;p&gt;&lt;em&gt;Primal Origin · Thresholdborne&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vail arrived in Bridgeport just a day ago. Not for any particular &#xA;reason — just because it was the next place that made sense. Cities &#xA;like this always have work for someone who pays attention, and Vail &#xA;has learned to follow that kind of work wherever it leads. Bridgeport &#xA;is large, busy, constantly shifting — exactly the kind of place where &#xA;no one questions a new face and nothing stays still for long.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strangled Goat</title>
+      <link>http://localhost:1313/npcs/strangled-goat/</link>
+      <pubDate>Sun, 26 Apr 2026 02:57:45 -0400</pubDate>
+      <guid>http://localhost:1313/npcs/strangled-goat/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

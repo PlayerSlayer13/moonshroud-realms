@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/recaps/session-01/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/maps/algar-regional/</loc>
   </url><url>
     <loc>http://localhost:1313/world/bridgeport/</loc>
@@ -12,6 +15,8 @@
   </url><url>
     <loc>http://localhost:1313/factions/council-of-trades/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/kiville/</loc>
+  </url><url>
     <loc>http://localhost:1313/lore/the-gods/</loc>
   </url><url>
     <loc>http://localhost:1313/world/</loc>
@@ -21,6 +26,8 @@
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/mustelin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/npcs/thalia/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/</loc>
   </url><url>
@@ -36,31 +43,37 @@
   </url><url>
     <loc>http://localhost:1313/world/funnis/</loc>
   </url><url>
+    <loc>http://localhost:1313/factions/the-kangs/</loc>
+  </url><url>
     <loc>http://localhost:1313/peoples/ursinor/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/velra/</loc>
+  </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
+  </url><url>
+    <loc>http://localhost:1313/npcs/</loc>
+    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peoples/aelfaen/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/dalraven-town/</loc>
   </url><url>
-    <loc>http://localhost:1313/people/</loc>
-  </url><url>
     <loc>http://localhost:1313/factions/royal-adventuring-society/</loc>
   </url><url>
     <loc>http://localhost:1313/world/saltstone-square/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/the-party/</loc>
+  </url><url>
     <loc>http://localhost:1313/lore/the-world-beyond/</loc>
+  </url><url>
+    <loc>http://localhost:1313/recaps/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/world/dalraven/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/dragonblood/</loc>
   </url><url>
-    <loc>http://localhost:1313/recaps/</loc>
-  </url><url>
     <loc>http://localhost:1313/lore/certification-system/</loc>
-  </url><url>
-    <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/communities/</loc>
   </url><url>
@@ -72,10 +85,14 @@
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
+    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

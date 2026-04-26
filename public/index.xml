@@ -6,7 +6,15 @@
     <description>Recent content on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2026 02:57:45 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session 01 — The Stranger at the Fountain</title>
+      <link>http://localhost:1313/recaps/session-01/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recaps/session-01/</guid>
+      <description>&lt;h1 id=&#34;session-01--the-stranger-at-the-fountain&#34;&gt;Session 01 — The Stranger at the Fountain&lt;a class=&#34;anchor&#34; href=&#34;#session-01--the-stranger-at-the-fountain&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;Duskgrain, Day 23, Year 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-party&#34;&gt;The Party&lt;a class=&#34;anchor&#34; href=&#34;#the-party&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Vail Duskryn&lt;/strong&gt; — Aelfaen Sorcerer (Primal Origin), Thresholdborne&lt;/p&gt;&#xA;&lt;p&gt;Vail arrived in Bridgeport just a day ago. Not for any particular reason&#xA;— just because it was the next place that made sense. Cities like this&#xA;always have work for someone who pays attention, and Vail has learned to&#xA;follow that kind of work wherever it leads. Bridgeport is large, busy,&#xA;constantly shifting — exactly the kind of place where no one questions a&#xA;new face and nothing stays still for long. She hasn&amp;rsquo;t taken any work yet.&#xA;She&amp;rsquo;s still watching.&#xA;&lt;em&gt;&amp;ldquo;I&amp;rsquo;ll be at the Strangled Goat if anyone&amp;rsquo;s looking&amp;hellip;&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Algar&#39;s Central Coast</title>
       <link>http://localhost:1313/maps/algar-regional/</link>
@@ -43,6 +51,13 @@
       <description>&lt;h1 id=&#34;council-of-trades&#34;&gt;Council of Trades&lt;a class=&#34;anchor&#34; href=&#34;#council-of-trades&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/factions/council-of-trades-emblem.webp&#34; &#xA;alt=&#34;Council of Trades emblem&#34; &#xA;style=&#34;width:200px; height:auto; border-radius:4px;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Council of Trades is the governing body of Bridgeport — a assembly of merchant&#xA;representatives whose authority derives from commerce rather than birthright. In Bridgeport,&#xA;coin is power, and the Council is where that power is formally organized.&lt;/p&gt;&#xA;&lt;p&gt;The Council manages the city&amp;rsquo;s laws, its markets, its harbor fees, and its relationships&#xA;with the Crown and neighboring settlements. It is not a democracy in any simple sense —&#xA;representation on the Council is tied to trade volume and guild membership — but it is&#xA;at least predictable, which counts for a great deal in a city like Bridgeport.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Kiville</title>
+      <link>http://localhost:1313/npcs/kiville/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/kiville/</guid>
+      <description>&lt;h1 id=&#34;kiville&#34;&gt;Kiville&lt;a class=&#34;anchor&#34; href=&#34;#kiville&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: Saltstone Square, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A tall man in a long duster coat with good boots. Well-dressed in a way&#xA;that isn&amp;rsquo;t quite right — as if someone described fashionable clothing to&#xA;him and he had it made accordingly. He carries a device on a chain that&#xA;resembles a pocket watch, which he checks frequently and with evident&#xA;meaning.&lt;/p&gt;&#xA;&lt;p&gt;He was found crouching beside the fountain in Saltstone Square,&#xA;examining the stonework with the focused attention of someone who finds&#xA;old stone genuinely interesting. He spoke to two local girls with the&#xA;careful courtesy of a person who has learned that locals know things&#xA;worth knowing.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Gods</title>
       <link>http://localhost:1313/lore/the-gods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,6 +84,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/peoples/mustelin/</guid>
       <description>&lt;h1 id=&#34;mustelin&#34;&gt;Mustelin&lt;a class=&#34;anchor&#34; href=&#34;#mustelin&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Mustelin are small, quick-bodied mammalian folk — lithe and flexible,&#xA;with keen senses and survival instincts honed in tight places. They&#xA;share traits of furred, long-bodied creatures such as otters, weasels,&#xA;and badgers. Expressive and physical, they rely on motion and body&#xA;language as much as speech, with quick gestures and restless energy&#xA;common in conversation.&lt;/p&gt;&#xA;&lt;p&gt;They are found throughout Elderland and are a familiar sight in&#xA;Bridgeport&amp;rsquo;s markets, docks, and alleyways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thalia</title>
+      <link>http://localhost:1313/npcs/thalia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/thalia/</guid>
+      <description>&lt;h1 id=&#34;thalia&#34;&gt;Thalia&lt;a class=&#34;anchor&#34; href=&#34;#thalia&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of the waitstaff at the &lt;strong&gt;Strangled Goat&lt;/strong&gt; in Saltstone Square.&#xA;Efficient, observant, and possessed of the particular calm that comes&#xA;from working a busy tavern long enough that very little surprises you&#xA;anymore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Thalia got the party their first round at the Goat without being asked&#xA;twice. She pointed those looking for work toward &lt;strong&gt;Velra&lt;/strong&gt;, the&#xA;Adventurer&amp;rsquo;s Guild representative working from one of the nooks near&#xA;the main entrance — the kind of quiet, useful information that suggests&#xA;she knows exactly what kind of people walk through that door and what&#xA;they usually need.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Seven Moons</title>
@@ -106,11 +128,25 @@
       <description>&lt;h1 id=&#34;funnis&#34;&gt;Funnis&lt;a class=&#34;anchor&#34; href=&#34;#funnis&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Funnis is a Woodlands Ursinor settlement roughly one hundred miles east&#xA;of Bridgeport, nestled deep within the &lt;strong&gt;Whistle Woods&lt;/strong&gt; where the&#xA;eastern reaches of the Sanctum Hills give way to the lower slopes of the&#xA;Livingstone Mountains. It sits on a low plateau overlooking &lt;strong&gt;Clear&#xA;Creek&lt;/strong&gt;, a fast-flowing river that cuts through a shallow ravine before&#xA;turning south toward the Godsfall.&lt;/p&gt;&#xA;&lt;p&gt;It is not a city. It is not a town in the Bridgeport sense. It is a&#xA;community — self-sufficient, deliberate, and entirely on its own terms.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Kangs</title>
+      <link>http://localhost:1313/factions/the-kangs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/factions/the-kangs/</guid>
+      <description>&lt;h1 id=&#34;the-kangs&#34;&gt;The Kangs&lt;a class=&#34;anchor&#34; href=&#34;#the-kangs&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport has neighborhoods where the city&amp;rsquo;s official rules are more&#xA;suggestion than law. In those places, other arrangements apply.&lt;/p&gt;&#xA;&lt;p&gt;The Kangs are a presence in certain parts of the city. Anyone who spends&#xA;time on Bridgeport&amp;rsquo;s streets will notice them eventually — groups moving&#xA;with purpose, wearing a single item in a consistent color. Red. Blue.&#xA;Yellow.&lt;/p&gt;&#xA;&lt;p&gt;What that means, exactly, is the kind of thing most people in Bridgeport&#xA;have learned not to ask too loudly.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ursinor</title>
       <link>http://localhost:1313/peoples/ursinor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/peoples/ursinor/</guid>
       <description>&lt;h1 id=&#34;ursinor&#34;&gt;Ursinor&lt;a class=&#34;anchor&#34; href=&#34;#ursinor&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Ursinor are bear-like humanoids — broad of shoulder, thick of limb,&#xA;with long torsos and powerful arms. Their size suggests slowness. It&#xA;shouldn&amp;rsquo;t. They are capable runners and nimble climbers when pressed,&#xA;and those who underestimate them based on appearance tend not to make&#xA;the same mistake twice.&lt;/p&gt;&#xA;&lt;p&gt;They are found across Elderland, most commonly in woodland settlements&#xA;and northern communities, though individual Ursinor appear in cities&#xA;and on roads throughout the world. Bridgeport has its share.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Velra</title>
+      <link>http://localhost:1313/npcs/velra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/velra/</guid>
+      <description>&lt;h1 id=&#34;velra&#34;&gt;Velra&lt;a class=&#34;anchor&#34; href=&#34;#velra&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The Adventurer&amp;rsquo;s Guild representative working the evening shift from&#xA;one of the nooks near the main entrance of the &lt;strong&gt;Strangled Goat&lt;/strong&gt;.&#xA;She operates the quasi-official Guild alcove where certified mission&#xA;allocators meet with adventuring parties, review credentials, and&#xA;assign sanctioned work.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Velra asked for Guild credentials. None of the party had any.&lt;/p&gt;&#xA;&lt;p&gt;She was neither dismissive nor encouraging — simply professional. She&#xA;added their names to a prospects list and explained the requirements&#xA;for Guild membership: a &lt;strong&gt;25GP fee&lt;/strong&gt;, a &lt;strong&gt;physical trial&lt;/strong&gt;, a &lt;strong&gt;combat&#xA;trial&lt;/strong&gt;, and a &lt;strong&gt;written exam&lt;/strong&gt;. The guildhall would be open in the&#xA;morning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wexford</title>
@@ -148,6 +184,13 @@
       <description>&lt;h1 id=&#34;saltstone-square&#34;&gt;Saltstone Square&lt;a class=&#34;anchor&#34; href=&#34;#saltstone-square&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Saltstone Square is the beating heart of Bridgeport&amp;rsquo;s southern district&#xA;— a busy, loud, perpetually crowded crossroads where commerce, gossip,&#xA;and opportunity all converge. From dawn to well past dusk it is rarely&#xA;quiet, and never entirely safe, but for those looking for work,&#xA;information, or simply a decent meal, it is the right place to be.&lt;/p&gt;&#xA;&lt;p&gt;The square is lined with small shops, anchored by an all-faiths shrine&#xA;at its center, and dominated on three sides by its most prominent&#xA;establishments. Large caravans tend to marshal along nearby&#xA;&lt;strong&gt;Queensway Avenue&lt;/strong&gt; rather than the square itself, though caravan&#xA;guard recruitment still happens here regularly enough.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>The Party</title>
+      <link>http://localhost:1313/npcs/the-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/npcs/the-party/</guid>
+      <description>&lt;h1 id=&#34;the-party&#34;&gt;The Party&lt;a class=&#34;anchor&#34; href=&#34;#the-party&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;The individuals who found each other — or were found by circumstance&#xA;— in Bridgeport on Duskgrain Day 23, Year 700AG.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;details&gt;&#xA;&lt;summary&gt;&lt;strong&gt;Vail Duskryn&lt;/strong&gt; — Aelfaen Sorcerer&lt;/summary&gt;&#xA;&lt;p&gt;&lt;em&gt;Primal Origin · Thresholdborne&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Vail arrived in Bridgeport just a day ago. Not for any particular &#xA;reason — just because it was the next place that made sense. Cities &#xA;like this always have work for someone who pays attention, and Vail &#xA;has learned to follow that kind of work wherever it leads. Bridgeport &#xA;is large, busy, constantly shifting — exactly the kind of place where &#xA;no one questions a new face and nothing stays still for long.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The World Beyond</title>
       <link>http://localhost:1313/lore/the-world-beyond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,18 +219,18 @@
       <description>&lt;h1 id=&#34;the-certification-system&#34;&gt;The Certification System&lt;a class=&#34;anchor&#34; href=&#34;#the-certification-system&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;In most parts of the world, anyone with a sword and a willingness to&#xA;use it can call themselves an adventurer. In Algar, that is not quite&#xA;how it works.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Certification System&lt;/strong&gt; is the framework through which the&#xA;Adventurer&amp;rsquo;s Guild and the Royal Adventuring Society regulate who is&#xA;permitted to undertake sanctioned work — and what level of work they&#xA;are permitted to take on. It exists for practical reasons: dangerous&#xA;jobs done badly create problems for everyone, and clients who hire&#xA;capable parties get better results than clients who hire whoever&#xA;happened to be standing nearest the mission board.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Kangs</title>
-      <link>http://localhost:1313/factions/the-kangs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/factions/the-kangs/</guid>
-      <description>&lt;h1 id=&#34;the-kangs&#34;&gt;The Kangs&lt;a class=&#34;anchor&#34; href=&#34;#the-kangs&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Bridgeport has neighborhoods where the city&amp;rsquo;s official rules are more&#xA;suggestion than law. In those places, other arrangements apply.&lt;/p&gt;&#xA;&lt;p&gt;The Kangs are a presence in certain parts of the city. Anyone who spends&#xA;time on Bridgeport&amp;rsquo;s streets will notice them eventually — groups moving&#xA;with purpose, wearing a single item in a consistent color. Red. Blue.&#xA;Yellow.&lt;/p&gt;&#xA;&lt;p&gt;What that means, exactly, is the kind of thing most people in Bridgeport&#xA;have learned not to ask too loudly.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Communities</title>
       <link>http://localhost:1313/peoples/communities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/peoples/communities/</guid>
       <description>&lt;h1 id=&#34;communities&#34;&gt;Communities&lt;a class=&#34;anchor&#34; href=&#34;#communities&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A community represents the culture, environment, and values a character&#xA;was raised among. It is fully decoupled from ancestry — any character&#xA;may take any community regardless of their lineage. A Ursinor raised&#xA;in a city grows up differently than one raised in a forest clan. A&#xA;Mustelin from a noble house carries different instincts than one from&#xA;the docks.&lt;/p&gt;&#xA;&lt;p&gt;Your community shapes how you move through the world, what you reach&#xA;for instinctively, and what your upbringing gave you that nothing else&#xA;could.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strangled Goat</title>
+      <link>http://localhost:1313/npcs/strangled-goat/</link>
+      <pubDate>Sun, 26 Apr 2026 02:57:45 -0400</pubDate>
+      <guid>http://localhost:1313/npcs/strangled-goat/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "The Kangs"
-weight: 5
+weight: 3
 ---
 
 # The Kangs
@@ -18,10 +18,20 @@ have learned not to ask too loudly.
 
 They are not the city guard. They are not the Council. They have their 
 own territory, their own rules, and their own way of making those rules 
-felt. Most residents have arrived at a comfortable working arrangement 
-of mutual non-interference.
+felt.
 
-Whether that's wisdom or just good sense probably depends on who you ask.
+## What the Party Has Observed
+
+In Saltstone Square, two young girls — a human and a gnome, early teens 
+— moved through the crowd with the easy confidence of people who belonged 
+there entirely. Not tourists. Not lost. At home in a way that suggested 
+the square was theirs to move through however they pleased.
+
+Nobody bothered them. Nobody got in their way. The crowd adjusted around 
+them without appearing to notice it was doing so.
+
+Whether they are connected to the colored markers seen elsewhere in the 
+city is a question the party hasn't asked yet.
 
 ---
 

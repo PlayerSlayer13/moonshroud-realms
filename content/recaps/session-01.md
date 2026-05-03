@@ -89,6 +89,16 @@ The party came together in pieces — crossing paths in the streets,
 markets, and alleyways of Bridgeport before gravitating, as people tend 
 to do, toward Saltstone Square.
 
+*The night sky above Bridgeport told its own story. Strianus — the 
+crater-scarred moon that drives the physical tides — was full, its pale 
+cold light unusually prominent. The harbor was visibly affected, the 
+tide higher than normal. Experienced dockhands noted it without 
+comment. Myonis, the copper moon, was new and completely dark — absent 
+from the sky entirely. Lustre itself was a waning crescent, faint and 
+diminished. Bridgeport on the night of Duskgrain Day 23 was lit by a 
+single cold moon on an otherwise dark sky. The famous Lustre-light that 
+silvers the coastlines was nowhere to be seen.*
+
 ### The Stranger at the Fountain
 
 At the center of the square, crouched beside the fountain and examining 

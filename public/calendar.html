@@ -377,19 +377,25 @@ const recurringEvents = [
   {month:0,day:20,type:"lunar",label:"Supertide",desc:"Annual supertide — coastal flooding possible. Strianus aligns with Lustre."},
   {month:3,day:7,type:"seasonal",label:"Spring Equinox",desc:"Light returns in full. Guild certification season opens. Planting confirmed across the farms."},
   {month:3,day:15,type:"civic",label:"Queen's Birthday",desc:"The celebrated birthday of Queen Agnas of Algar, Lady of the Golden Star. A public holiday observed across the realm."},
-  {month:6,day:14,type:"seasonal",label:"Summer Solstice",desc:"The longest day of the year. Festival season peaks."},
-  {month:6,day:14,type:"civic",label:"Coronation Day",desc:"Coronation Day of Queen Agnas — the realm's most beloved civic holiday."},
+  {month:6,day:14,type:"seasonal",label:"Summer Solstice",desc:"The longest day of the year. Festival season peaks. Harvest preparations begin the following day."},
+  {month:6,day:14,type:"civic",label:"Coronation Day",desc:"The 700th celebration of the Coronation Day of Queen Agnas of Algar, Lady of the Golden Star — the realm's most beloved civic holiday."},
   {month:6,day:16,type:"lunar",label:"Supersea",desc:"Annual supersea — Myonis and Strianus align. Sea travel becomes impossible or extremely hazardous."},
-  {month:9,day:21,type:"seasonal",label:"Autumnal Equinox",desc:"Days and nights balance. Coastal peoples perform storm-ward rituals."},
-  {month:12,day:28,type:"seasonal",label:"Winter Solstice",desc:"Darkest night of the year. The new year begins at midnight."}
+  {month:9,day:7,type:"seasonal",label:"Autumn Equinox",desc:"Days and nights balance. Coastal peoples perform storm-ward rituals."},
+  {month:12,day:28,type:"seasonal",label:"Winter Solstice",desc:"Darkest night of the year. The new year begins at midnight."},
+  {month:9,day:12,type:"lunar",label:"Myonis Full",desc:"The copper moon reaches full. Magical tides at their peak. Spellcasters notice. The Circle of Seven Moons marks it."},
+  {month:9,day:14,type:"lunar",label:"Lustre Full",desc:"Lustre reaches full — Lustre-light peaks. Silver coastlines at their brightest. First loup-garou opportunity of the campaign window."}
 ];
 
 const yearEvents = {
   700: [
-    {month:8,day:23,type:"campaign",label:"Campaign Start",desc:"The party arrives in Bridgeport.",recap:null}
+    {month:8,day:23,type:"campaign",label:"Campaign Start",desc:"The party arrives in Bridgeport.",recap:null},
+    {month:8,day:28,type:"lunar",label:"Partial Solar Eclipse",desc:"Krotar slightly dimmed at midday. Most civilians won't notice. Scholars and attentive observers will. The Circle of Seven Moons logged it as the trailing edge of the Duskgrain eclipse season.",recap:null},
+    {month:3,day:24,type:"lunar",label:"Supertide",desc:"Second supertide of 700AG. Balina aligns with Lustre. Coastal flooding possible.",recap:null}
   ],
   701: [
-    // Add campaign events for 701AG here as they occur
+    {month:1,day:14,type:"lunar",label:"Partial Lunar Eclipse",desc:"Lustre partially shadowed at full. Silver coastlines dim on one side — the bite-from-the-moon effect coastal peoples consider an ill omen.",recap:null},
+    {month:1,day:28,type:"lunar",label:"Deep Partial Solar Eclipse",desc:"Midday noticeably darker. Strange shadows. Animals uneasy.",recap:null},
+    {month:7,day:28,type:"lunar",label:"TOTAL SOLAR ECLIPSE",desc:"Krotar's corona visible. Totality. Daytime darkness for 2–4 minutes. The Blind Hour comes to Bridgeport. Fishing vessels will not leave port. Temples observe. The most significant astronomical event in the near-term calendar.",recap:null}
   ]
 };
 

@@ -41,6 +41,8 @@
   </url><url>
     <loc>http://localhost:1313/factions/adventurers-guild/</loc>
   </url><url>
+    <loc>http://localhost:1313/lore/eclipses/</loc>
+  </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
     <loc>http://localhost:1313/world/funnis/</loc>
@@ -80,19 +82,15 @@
     <loc>http://localhost:1313/maps/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/</loc>
-    <lastmod>2026-05-02T22:35:55-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rules/</loc>
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
   </url><url>
-    <loc>http://localhost:1313/lore/eclipses/</loc>
-    <lastmod>2026-05-02T22:35:55-04:00</lastmod>
+    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
+    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-02T22:35:55-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
     <lastmod>2026-04-26T02:57:45-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

@@ -6,7 +6,6 @@
     <description>Recent content in Lore on The Moonshroud Realms</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2026 22:35:55 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/lore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Gods</title>
@@ -23,6 +22,13 @@
       <description>&lt;h1 id=&#34;the-seven-moons-of-orb&#34;&gt;The Seven Moons of Orb&lt;a class=&#34;anchor&#34; href=&#34;#the-seven-moons-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The world of Orb turns beneath seven moons. There is always at least&#xA;one moon visible in the night sky except during heavy overcast — true&#xA;darkness is essentially unknown on Orb. Most nights are touched by&#xA;multiple moons at once, each casting its own quality of light.&lt;/p&gt;&#xA;&lt;p&gt;Sailors read the moons for navigation. Farmers watch them for planting&#xA;cycles. Druids study their conjunctions with the care of scholars.&#xA;Astrologers argue endlessly about what each alignment means. And&#xA;everyone who lives near the sea has learned to watch for the signs of&#xA;supertides — the powerful surges that occur when multiple moons align,&#xA;capable of making sea travel dangerous or outright impossible.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Eclipses of Orb</title>
+      <link>http://localhost:1313/lore/eclipses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lore/eclipses/</guid>
+      <description>&lt;h1 id=&#34;eclipses-of-orb&#34;&gt;Eclipses of Orb&lt;a class=&#34;anchor&#34; href=&#34;#eclipses-of-orb&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Eclipses on Orb are predictable, documented, and taken seriously by&#xA;sailors, scholars, and temples alike. The Circle of Seven Moons&#xA;publishes eclipse predictions through its scholarly network —&#xA;Bridgeport&amp;rsquo;s harbor authority keeps Circle almanacs for navigational&#xA;purposes, and the Adventurer&amp;rsquo;s Guild maintains a copy.&lt;/p&gt;&#xA;&lt;p&gt;An eclipse is not merely an astronomical curiosity on Orb. It is an&#xA;event the world responds to.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-eclipses-work&#34;&gt;How Eclipses Work&lt;a class=&#34;anchor&#34; href=&#34;#how-eclipses-work&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;All seven moons have orbital inclinations relative to Orb&amp;rsquo;s orbital&#xA;plane around &lt;strong&gt;Krotar&lt;/strong&gt;, the star at the center of the solar system.&#xA;These inclinations prevent eclipses from occurring every orbit —&#xA;instead, eclipses only happen when a moon crosses the orbital plane&#xA;at exactly the right moment, during what astronomers call&#xA;&lt;strong&gt;eclipse seasons&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The World Beyond</title>
       <link>http://localhost:1313/lore/the-world-beyond/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,13 +41,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/lore/certification-system/</guid>
       <description>&lt;h1 id=&#34;the-certification-system&#34;&gt;The Certification System&lt;a class=&#34;anchor&#34; href=&#34;#the-certification-system&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;In most parts of the world, anyone with a sword and a willingness to&#xA;use it can call themselves an adventurer. In Algar, that is not quite&#xA;how it works.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Certification System&lt;/strong&gt; is the framework through which the&#xA;Adventurer&amp;rsquo;s Guild and the Royal Adventuring Society regulate who is&#xA;permitted to undertake sanctioned work — and what level of work they&#xA;are permitted to take on. It exists for practical reasons: dangerous&#xA;jobs done badly create problems for everyone, and clients who hire&#xA;capable parties get better results than clients who hire whoever&#xA;happened to be standing nearest the mission board.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Eclipses</title>
-      <link>http://localhost:1313/lore/eclipses/</link>
-      <pubDate>Sat, 02 May 2026 22:35:55 -0400</pubDate>
-      <guid>http://localhost:1313/lore/eclipses/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

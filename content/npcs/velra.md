@@ -1,11 +1,12 @@
 ---
-title: "Velra"
-weight: 3
+title: "Velra Salspaena"
+weight: 7
 ---
 
-# Velra
+# Velra Salspaena
 
-*First encountered: The Strangled Goat, Duskgrain Day 23, 700AG*
+*First encountered: The Strangled Goat, Duskgrain Day 23, 700AG*  
+*Usually found: The Strangled Goat, Saltstone Square*
 
 ---
 

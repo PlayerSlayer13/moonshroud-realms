@@ -23,6 +23,9 @@
   </url><url>
     <loc>http://localhost:1313/rumors/bridgeport-rumors/</loc>
   </url><url>
+    <loc>http://localhost:1313/recaps/session-015/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/factions/council-members/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/mustelin/</loc>
@@ -56,7 +59,7 @@
     <loc>http://localhost:1313/maps/wexford-town/</loc>
   </url><url>
     <loc>http://localhost:1313/npcs/</loc>
-    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
+    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peoples/aelfaen/</loc>
   </url><url>
@@ -77,6 +80,8 @@
   </url><url>
     <loc>http://localhost:1313/lore/certification-system/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
+  </url><url>
     <loc>http://localhost:1313/peoples/communities/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/</loc>
@@ -87,11 +92,20 @@
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
   </url><url>
-    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
-    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
+    <loc>http://localhost:1313/npcs/rask/</loc>
+    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-26T02:57:45-04:00</lastmod>
+    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/npcs/the-captain/</loc>
+    <lastmod>2026-05-10T17:59:31-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/npcs/bruna-emberfall/</loc>
+    <lastmod>2026-05-10T17:59:22-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/npcs/fen-whistling-man/</loc>
+    <lastmod>2026-05-10T17:59:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

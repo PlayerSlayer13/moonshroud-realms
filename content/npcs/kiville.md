@@ -1,11 +1,12 @@
 ---
 title: "Kiville"
-weight: 1
+weight: 4
 ---
 
 # Kiville
 
-*First encountered: Saltstone Square, Duskgrain Day 23, 700AG*
+*First encountered: Saltstone Square, Duskgrain Day 23, 700AG*  
+*Currently: Dragonline Lodge, Saltstone Square (as of Duskgrain Day 23)*
 
 ---
 

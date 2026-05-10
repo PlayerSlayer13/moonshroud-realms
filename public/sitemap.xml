@@ -9,13 +9,13 @@
   </url><url>
     <loc>http://localhost:1313/world/bridgeport/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/bruna-emberfall/</loc>
+  </url><url>
     <loc>http://localhost:1313/calendar/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/ancestries-core/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/council-of-trades/</loc>
-  </url><url>
-    <loc>http://localhost:1313/npcs/kiville/</loc>
   </url><url>
     <loc>http://localhost:1313/lore/the-gods/</loc>
   </url><url>
@@ -30,7 +30,7 @@
   </url><url>
     <loc>http://localhost:1313/peoples/mustelin/</loc>
   </url><url>
-    <loc>http://localhost:1313/npcs/thalia/</loc>
+    <loc>http://localhost:1313/npcs/the-captain/</loc>
   </url><url>
     <loc>http://localhost:1313/party/</loc>
   </url><url>
@@ -48,22 +48,23 @@
   </url><url>
     <loc>http://localhost:1313/factions/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/fen-whistling-man/</loc>
+  </url><url>
     <loc>http://localhost:1313/world/funnis/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/the-kangs/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/ursinor/</loc>
   </url><url>
-    <loc>http://localhost:1313/npcs/velra/</loc>
-  </url><url>
     <loc>http://localhost:1313/maps/wexford-town/</loc>
-  </url><url>
-    <loc>http://localhost:1313/npcs/</loc>
-    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/peoples/aelfaen/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/dalraven-town/</loc>
+  </url><url>
+    <loc>http://localhost:1313/npcs/kiville/</loc>
+  </url><url>
+    <loc>http://localhost:1313/npcs/</loc>
   </url><url>
     <loc>http://localhost:1313/factions/royal-adventuring-society/</loc>
   </url><url>
@@ -78,34 +79,26 @@
   </url><url>
     <loc>http://localhost:1313/peoples/dragonblood/</loc>
   </url><url>
-    <loc>http://localhost:1313/lore/certification-system/</loc>
+    <loc>http://localhost:1313/npcs/rask/</loc>
   </url><url>
-    <loc>http://localhost:1313/npcs/strangled-goat/</loc>
+    <loc>http://localhost:1313/lore/certification-system/</loc>
   </url><url>
     <loc>http://localhost:1313/peoples/communities/</loc>
   </url><url>
     <loc>http://localhost:1313/maps/</loc>
   </url><url>
+    <loc>http://localhost:1313/npcs/thalia/</loc>
+  </url><url>
     <loc>http://localhost:1313/lore/</loc>
+  </url><url>
+    <loc>http://localhost:1313/npcs/velra/</loc>
   </url><url>
     <loc>http://localhost:1313/rules/</loc>
   </url><url>
     <loc>http://localhost:1313/rumors/</loc>
   </url><url>
-    <loc>http://localhost:1313/npcs/rask/</loc>
-    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-10T17:59:40-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/npcs/the-captain/</loc>
-    <lastmod>2026-05-10T17:59:31-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/npcs/bruna-emberfall/</loc>
-    <lastmod>2026-05-10T17:59:22-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/npcs/fen-whistling-man/</loc>
-    <lastmod>2026-05-10T17:59:13-04:00</lastmod>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

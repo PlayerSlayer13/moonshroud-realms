@@ -56,31 +56,7 @@ that will not be told.</p>
 </details>
 
 <details>
-<summary><strong>Axis Morcawn</strong> — Faerie Guardian</summary>
-
-<p><em>Vengeance · Highborne</em></p>
-
-<p>The amount of time that has passed is still a little confusing for 
-Axis Morcawn. Well, he knows time has passed — it gets lighter during 
-the day and darker at night. From what he remembers, that cycle has 
-occurred four times since waking up in what he thought, at the time, 
-was a prison cell.</p>
-
-<p>After being set free, he's spent most of his time wandering the 
-inns and taverns and along the narrow alleyways trying to regain his 
-memory. With no coin or anything to his name, he has taken refuge in 
-some of those alleyways. Seated at the steps of the Shrine of Humble 
-Virtue, he heard whispers and muted arguments of the passersby which 
-triggered a deep memory. He's never been here but he knows the Shrine.</p>
-
-<p>The realization startled him: How did he arrive in the Racket 
-District of Bridgeport, many miles from his home in Dalraven? And 
-where is the person who freed him?</p>
-
-</details>
-
-<details>
-<summary><strong>Bo Bo</strong> — Simiah Rogue</summary>
+<summary><strong>Bo-Bo</strong> — Simiah Rogue</summary>
 
 <p><em>Nightwalker · Seaborne</em></p>
 
@@ -111,5 +87,42 @@ finding her family.</p>
 <p>A past shrouded in mystery.</p>
 
 <p><em>Alden's background has not yet been revealed.</em></p>
+
+</details>
+
+---
+
+## Former Members
+
+*Those who traveled with the party for a time, before their paths diverged.*
+
+---
+
+<details>
+<summary><strong>Axis Morcawn</strong> — Faerie Guardian</summary>
+
+<p><em>Vengeance · Highborne</em></p>
+
+<p>The amount of time that has passed is still a little confusing for 
+Axis Morcawn. Well, he knows time has passed — it gets lighter during 
+the day and darker at night. From what he remembers, that cycle has 
+occurred four times since waking up in what he thought, at the time, 
+was a prison cell.</p>
+
+<p>After being set free, he's spent most of his time wandering the 
+inns and taverns and along the narrow alleyways trying to regain his 
+memory. With no coin or anything to his name, he has taken refuge in 
+some of those alleyways. Seated at the steps of the Shrine of Humble 
+Virtue, he heard whispers and muted arguments of the passersby which 
+triggered a deep memory. He's never been here but he knows the Shrine.</p>
+
+<p>The realization startled him: How did he arrive in the Racket 
+District of Bridgeport, many miles from his home in Dalraven? And 
+where is the person who freed him?</p>
+
+<p><em>While the others were occupied in the lower sewers beneath the 
+Strangled Goat, Axis slipped away without a word. The life of an 
+adventurer, it seems, was not what he was looking for. He was last 
+seen departing Bridgeport, destination unknown.</em></p>
 
 </details>

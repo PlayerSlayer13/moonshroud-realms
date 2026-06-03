@@ -97,19 +97,19 @@ Circle almanacs. They are public knowledge — any harbor authority,
 Guild chapter, or well-stocked library will have access to these 
 dates.
 
-**Duskgrain Day 28, 700AG** — Shallow partial solar eclipse. Krotar 
+**Harvestide Day 28, 700AG** — Shallow partial solar eclipse. Krotar 
 slightly dimmed at midday. Most civilians will not notice. Scholars 
 and attentive observers will.
 
-**Ironthaw Day 14, 701AG** — Partial lunar eclipse. Lustre partially 
+**Dawnsreach Day 14, 701AG** — Partial lunar eclipse. Lustre partially 
 shadowed at full. The silver coastlines will dim on one side — the 
 bite-from-the-moon effect that coastal peoples consider an ill omen.
 
-**Ironthaw Day 28, 701AG** — Deep partial solar eclipse. Midday 
+**Dawnsreach Day 28, 701AG** — Deep partial solar eclipse. Midday 
 noticeably darker. Strange shadows. Animals uneasy. Falls during 
 the heart of winter.
 
-**Harrowfall Day 28, 701AG** — **Total solar eclipse.** Krotar's 
+**Emberwane Day 28, 701AG** — **Total solar eclipse.** Krotar's 
 corona visible. Totality. Daytime darkness for 2–4 minutes. This 
 is the most significant astronomical event in the near-term calendar 
 — known to every harbor authority and Circle scholar in Algar. 
@@ -151,7 +151,7 @@ it persists on the docks.
 
 ## Recent Events
 
-**Duskgrain Day 14, 700AG** — Nine days before the party arrived 
+**Harvestide Day 14, 700AG** — Nine days before the party arrived 
 in Bridgeport, a total lunar eclipse turned Lustre blood red. The 
 silver coastlines vanished. Bridgeport's fisher-folk are still 
 talking about the red moon. Temple of Noctis priests called it 

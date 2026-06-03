@@ -123,3 +123,7 @@ gain Advantage on the roll.
 You can breathe water as easily as air, and you have Advantage on
 Agility Rolls made while swimming. Once per rest, when you are fully
 submerged, you may clear 1 Stress as the water takes some of the weight.
+
+<img src="/images/ancestries/saelfaen.webp" 
+     alt="Saelfaen Male" 
+     style="width:200px; height:auto; border-radius:4px; margin-top:8px;">

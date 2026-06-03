@@ -226,10 +226,20 @@
     background: var(--today-bg); border-color: var(--today-border); color: var(--today-text);
   }
 
+  .event-dots {
+    display: flex; gap: 3px; position: absolute; bottom: 3px;
+    align-items: center; justify-content: center;
+  }
+
   .event-dot {
     width: 4px; height: 4px; border-radius: 50%;
-    background: var(--gold); position: absolute; bottom: 3px;
   }
+
+  .dot-campaign { background: var(--campaign-text); }
+  .dot-lunar    { background: var(--lunar-text); }
+  .dot-civic    { background: var(--civic-text); }
+  .dot-seasonal { background: var(--seasonal-text); }
+  .dot-today    { background: var(--gold); }
 
   .divider { height: 1px; background: var(--border); margin: 0 0 1.25rem; }
 
@@ -351,6 +361,7 @@
   </div>
 
 </div>
+<script src="/js/campaign-date.js"></script>
 <script>
 const months = [
   {name:"Wintermark",range:"Days 1–28",char:"Early year. Morning mists linger. Sea travel resumes cautiously."},
@@ -402,9 +413,9 @@ const yearEvents = {
 
 const years = [700, 701]; // Add years as the campaign progresses
 
-const TODAY_YEAR = 700;
-const TODAY_MONTH = 8;
-const TODAY_DAY = 23;
+const TODAY_YEAR  = CAMPAIGN_DATE.year;
+const TODAY_MONTH = CAMPAIGN_DATE.month;
+const TODAY_DAY   = CAMPAIGN_DATE.day;
 
 let currentYear = TODAY_YEAR;
 let currentMonth = TODAY_MONTH;
@@ -436,14 +447,27 @@ function render() {
 
   const monthEvs = getEventsForYearMonth(currentYear, currentMonth);
 
+  const priority = ['campaign','lunar','civic','seasonal'];
+
   let html = '';
   for (let d = 1; d <= 28; d++) {
     const isToday = currentYear === TODAY_YEAR && currentMonth === TODAY_MONTH && d === TODAY_DAY;
-    const ev = monthEvs.find(e => e.day === d);
+    const dayEvs = monthEvs.filter(e => e.day === d);
+    const primary = dayEvs.slice().sort((a,b) => priority.indexOf(a.type) - priority.indexOf(b.type))[0];
     let cls = 'day-cell';
     if (isToday) cls += ' today';
-    if (ev) cls += ` ev-${ev.type}`;
-    html += `<div class="${cls}">${d}${ev?'<div class="event-dot"></div>':''}</div>`;
+    if (primary) cls += ` ev-${primary.type}`;
+
+    let dots = '';
+    if (dayEvs.length) {
+      const dotTypes = [...new Set(dayEvs.map(e => e.type))];
+      const dotHTML = isToday
+        ? `<div class="event-dot dot-today"></div>`
+        : dotTypes.map(t => `<div class="event-dot dot-${t}"></div>`).join('');
+      dots = `<div class="event-dots">${dotHTML}</div>`;
+    }
+
+    html += `<div class="${cls}">${d}${dots}</div>`;
   }
   document.getElementById('calGrid').innerHTML = html;
 

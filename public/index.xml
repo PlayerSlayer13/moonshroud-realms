@@ -233,13 +233,6 @@
       <description>&lt;h1 id=&#34;dalraven&#34;&gt;Dalraven&lt;a class=&#34;anchor&#34; href=&#34;#dalraven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dalraven is a walled coastal town of roughly four hundred souls, set&#xA;at the mouth of the &lt;strong&gt;Raven River&lt;/strong&gt; where its dark waters spill into&#xA;&lt;strong&gt;Godsfall Bay&lt;/strong&gt;, a broad inlet of the &lt;strong&gt;Zephyrys Sea&lt;/strong&gt;. It sits on&#xA;slightly higher ground above surrounding mud plains — at low tide the&#xA;shoreline stretches outward in slick flats and reed-choked channels,&#xA;at high tide the sea presses close against its piers and timber docks.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Dragonblood</title>
-      <link>http://localhost:1313/peoples/dragonblood/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/peoples/dragonblood/</guid>
-      <description>&lt;h1 id=&#34;dragonblood&#34;&gt;Dragonblood&lt;a class=&#34;anchor&#34; href=&#34;#dragonblood&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dragonblood resemble tall, hairless elves at first glance — features&#xA;refined but subtly sharpened by draconic influence. Fine scales trace&#xA;their skin in irregular patterns, most often along the spine, temples,&#xA;or cheekbones, though some bear them across the neck, hands, or feet.&#xA;A rare few develop horn-like protrusions or vestigial claws at the&#xA;fingertips, a lingering echo of the ritual that shaped their kind.&#xA;Their natural lifespan is approximately 500 years.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Rask</title>
       <link>http://localhost:1313/npcs/rask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -247,11 +240,18 @@
       <description>&lt;h1 id=&#34;rask&#34;&gt;Rask&lt;a class=&#34;anchor&#34; href=&#34;#rask&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: Beneath the Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Status: Deceased&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;A wererat operating beneath the Strangled Goat — the architect of the&#xA;missing stock operation that had been draining Fen Whistling Man&amp;rsquo;s&#xA;inventory for some time. Rask ran a small network of muscle from a&#xA;makeshift base in the sewer tunnels below Saltstone Square, redirecting&#xA;stolen goods through channels that suited him.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Rask stepped from behind an old sheet in his sewer room and attempted&#xA;to negotiate — offering to bring the party in, pay them off, or&#xA;otherwise make them someone else&amp;rsquo;s problem. They declined.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Communities</title>
-      <link>http://localhost:1313/peoples/communities/</link>
+      <title>Saelfaen</title>
+      <link>http://localhost:1313/peoples/saelfaen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/peoples/communities/</guid>
-      <description>&lt;h1 id=&#34;communities&#34;&gt;Communities&lt;a class=&#34;anchor&#34; href=&#34;#communities&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A community represents the culture, environment, and values a character&#xA;was raised among. It is fully decoupled from ancestry — any character&#xA;may take any community regardless of their lineage. A Ursinor raised&#xA;in a city grows up differently than one raised in a forest clan. A&#xA;Mustelin from a noble house carries different instincts than one from&#xA;the docks.&lt;/p&gt;&#xA;&lt;p&gt;Your community shapes how you move through the world, what you reach&#xA;for instinctively, and what your upbringing gave you that nothing else&#xA;could.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/peoples/saelfaen/</guid>
+      <description>&lt;h1 id=&#34;saelfaen&#34;&gt;Saelfaen&lt;a class=&#34;anchor&#34; href=&#34;#saelfaen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Saelfaen are a people shaped by deep water and patient purpose —&#xA;born as wardens beneath the waves, created by the Eternal &lt;strong&gt;Absot&lt;/strong&gt;&#xA;alongside the &lt;strong&gt;Aelfaen&lt;/strong&gt; to guard the hidden passages of Orb&amp;rsquo;s&#xA;oceans. Where the Aelfaen tended the crossings between land and the&#xA;fae realm of &lt;strong&gt;Haelo&lt;/strong&gt;, the Saelfaen watched the thresholds hidden&#xA;in trenches, reefs, and rifted shelves — the places where currents&#xA;crossed between realms far below the surface. Their watch was patient&#xA;and unyielding, measured not in years but in tides.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dragonblood</title>
+      <link>http://localhost:1313/peoples/dragonblood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/dragonblood/</guid>
+      <description>&lt;h1 id=&#34;dragonblood&#34;&gt;Dragonblood&lt;a class=&#34;anchor&#34; href=&#34;#dragonblood&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Dragonblood resemble tall, hairless elves at first glance — features&#xA;refined but subtly sharpened by draconic influence. Fine scales trace&#xA;their skin in irregular patterns, most often along the spine, temples,&#xA;or cheekbones, though some bear them across the neck, hands, or feet.&#xA;A rare few develop horn-like protrusions or vestigial claws at the&#xA;fingertips, a lingering echo of the ritual that shaped their kind.&#xA;Their natural lifespan is approximately 500 years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thalia Craypot</title>
@@ -259,6 +259,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/npcs/thalia/</guid>
       <description>&lt;h1 id=&#34;thalia-craypot&#34;&gt;Thalia Craypot&lt;a class=&#34;anchor&#34; href=&#34;#thalia-craypot&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;First encountered: The Strangled Goat, Duskgrain Day 23, 700AG&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Usually found: The Strangled Goat, Saltstone Square&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;One of the waitstaff at the &lt;strong&gt;Strangled Goat&lt;/strong&gt; in Saltstone Square.&#xA;Efficient, observant, and possessed of the particular calm that comes&#xA;from working a busy tavern long enough that very little surprises you&#xA;anymore.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-the-party-knows&#34;&gt;What the Party Knows&lt;a class=&#34;anchor&#34; href=&#34;#what-the-party-knows&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Thalia got the party their first round at the Goat without being asked&#xA;twice. She pointed those looking for work toward &lt;strong&gt;Velra&lt;/strong&gt;, the&#xA;Adventurer&amp;rsquo;s Guild representative working from one of the nooks near&#xA;the main entrance — the kind of quiet, useful information that suggests&#xA;she knows exactly what kind of people walk through that door and what&#xA;they usually need.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Communities</title>
+      <link>http://localhost:1313/peoples/communities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/peoples/communities/</guid>
+      <description>&lt;h1 id=&#34;communities&#34;&gt;Communities&lt;a class=&#34;anchor&#34; href=&#34;#communities&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;A community represents the culture, environment, and values a character&#xA;was raised among. It is fully decoupled from ancestry — any character&#xA;may take any community regardless of their lineage. A Ursinor raised&#xA;in a city grows up differently than one raised in a forest clan. A&#xA;Mustelin from a noble house carries different instincts than one from&#xA;the docks.&lt;/p&gt;&#xA;&lt;p&gt;Your community shapes how you move through the world, what you reach&#xA;for instinctively, and what your upbringing gave you that nothing else&#xA;could.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Velra Salspaena</title>

@@ -132,6 +132,11 @@ outcome. Devotion to Absot is less about seeking comfort and more about
 seeking clarity — understanding where one's actions lead, and accepting 
 what cannot be changed.</p>
 
+<p>Absot holds a singular distinction among the Eternals: it was the 
+first to elevate a mortal to divinity. That act — the raising of 
+<strong>Sorryx the Crystal Dragon</strong> during the Age of Dragons — 
+set the precedent for every Ascendant that followed.</p>
+
 <p><strong>Symbol:</strong> Geometric patterns suggesting progression 
 and consequence — linear motifs of the unbroken chain.</p>
 
@@ -222,6 +227,43 @@ Ursinor clans, whose devotion is quiet, habitual, and deeply personal.</p>
 </details>
 
 <details>
+<summary><strong>Sorryx</strong> — Ascendant of Cosmic Order and the Mathematics of Reality</summary>
+
+<p>Sorryx the Crystal Dragon was elevated by <strong>Absot</strong> during 
+the Age of Dragons, long before the younger peoples of Orb rose to 
+prominence — the first Ascendant ever raised, and the act that 
+established the precedent for all who followed. Where Absot governs 
+the abstract principle of cause and effect, Sorryx embodies its 
+physical expression: the geometry of planes, the mathematics underlying 
+existence, and the deep structural patterns that hold reality in its 
+shape.</p>
+
+<p>Those who study cosmology, planar theory, or the architecture of the 
+world acknowledge Sorryx, though formal temples are rare. More often, 
+scholars leave small geometric offerings — carved crystal, perfect 
+spheres, precise angles cut in stone — as a kind of intellectual 
+devotion.</p>
+
+</details>
+
+<details>
+<summary><strong>Calyx</strong> — Ascendant of Fate and Personal Consequence</summary>
+
+<p>Calyx was once a halfling adventurer, a Chosen of <strong>Absot</strong> 
+whose unwavering belief in accountability distinguished them across a 
+lifetime of action. Where Sorryx oversees the deep structure of 
+reality, Calyx embodies the form of fate most mortals actually 
+recognize: the accumulation of choices, a living ledger written moment 
+by moment.</p>
+
+<p>Calyx taught that fate is not predestination — it is what you have 
+done, and what must follow from it. That teaching is both liberating 
+and deeply unsettling, and it draws worshippers who want clarity more 
+than comfort.</p>
+
+</details>
+
+<details>
 <summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary>
 
 <p>Sivet is honored wherever families gather and new children arrive. 
@@ -279,6 +321,45 @@ one of Wexford's most active community institutions. A tall beacon
 lantern burns each night from its towered roof, visible above the tree 
 line and from the forest roads approaching from the north — a signal 
 to travelers that Wexford is there, and that someone is watching.</p>
+
+</details>
+
+---
+
+## Named but Unknown
+
+The following deities are acknowledged by scholars, theologians, and 
+those with reason to know the shape of the divine order — but detailed 
+knowledge of their nature, history, and worship is not yet widely 
+recorded here. They are real. Their influence is felt. The full account 
+of each will come in time.
+
+<details>
+<summary><strong>Sik</strong> — Eternal of Shadow, Twilight, and the Umbral</summary>
+
+<p>Sik's domain encompasses shadow, twilight, and the Umbral — the 
+mirror realm of darkness and endings. Little is formally recorded 
+about Sik's nature or history beyond what can be inferred from the 
+Ascendant they elevated. Sik is the patron of <strong>Noctis</strong>.</p>
+
+</details>
+
+<details>
+<summary><strong>Solana</strong> — Eternal of Radiant Life, Renewal, and the Sun</summary>
+
+<p>Solana's domain is radiant life, renewal, and the brilliance of the 
+sun. Solana is the patron of the Ascendant <strong>Luaur</strong>. 
+Beyond that, the formal record is incomplete.</p>
+
+</details>
+
+<details>
+<summary><strong>Toiy</strong> — Eternal of Probability, Destiny, and Chance</summary>
+
+<p>Toiy governs probability, destiny, and the vast shifting forces of 
+chance. Toiy is the patron of the Ascendant <strong>Bran</strong>. 
+The faithful of Toiy are said to be as unpredictable as their patron's 
+domain.</p>
 
 </details>
 

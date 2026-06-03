@@ -1,6 +1,6 @@
 ---
 title: "Communities"
-weight: 6
+weight: 7
 ---
 
 # Communities

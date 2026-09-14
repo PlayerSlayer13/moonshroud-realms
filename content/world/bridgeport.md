@@ -140,9 +140,9 @@ rolling highlands toward the Sanctum Hills.
 
 Three temples serve Bridgeport's spiritual life openly:
 
-- **Temple of Radiant Light** — devoted to Aard, on Queensway Avenue
-- **Shrine of the Iron Oath** — devoted to Kelleth
-- **Umbral House** — devoted to Noctis, on the northern outskirts
+- [Temple of Radiant Light]({{< relref "temple-of-radiant-light" >}}) — devoted to Aard, on Queensway Avenue
+- [Shrine of the Iron Oath]({{< relref "shrine-of-the-iron-oath" >}}) — devoted to Kelleth
+- [Umbral House]({{< relref "umbral-house" >}}) — devoted to Noctis, on the northern outskirts
 
 ## Atmosphere
 

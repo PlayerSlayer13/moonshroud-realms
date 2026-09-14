@@ -77,7 +77,7 @@ does not require theology.</p>
 
 ## The Eternals
 
-<details>
+<details id="aard">
 <summary><strong>Aard</strong> — Eternal of Truth, Knowledge, History, and Reason</summary>
 
 <p>Aard is among the most actively worshipped of the Eternals in 
@@ -93,14 +93,11 @@ enlightenment, set above a scroll of recorded memory.</p>
      alt="Symbol of Aard"
      style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
-<p><strong>Temple in Bridgeport:</strong> The Temple of Radiant Light 
-on Queensway Avenue — the largest and most respected temple in the 
-city, functioning as both a place of worship and one of the finest 
-libraries in the Freehold.</p>
+<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-radiant-light" >}}">The Temple of Radiant Light</a>, on Queensway Avenue.</p>
 
 </details>
 
-<details>
+<details id="kelleth">
 <summary><strong>Kelleth</strong> — Eternal of War, Justice, and Duty</summary>
 
 <p>Kelleth embodies the harder virtues — the discipline of the soldier, 
@@ -116,9 +113,7 @@ by an unbroken ring.</p>
      alt="Symbol of Kelleth"
      style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
-<p><strong>Temple in Bridgeport:</strong> The Shrine of the Iron Oath — 
-its priests serve as neutral stewards during contract signings and oath 
-ceremonies. The spoken word, in Kelleth's house, is treated as steel.</p>
+<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "shrine-of-the-iron-oath" >}}">The Shrine of the Iron Oath</a>.</p>
 
 </details>
 
@@ -176,7 +171,7 @@ Sivet the Hearthmother, Oleya Greenbriar, and Barrowen Tallgrain.</p>
 
 ## The Ascendants
 
-<details>
+<details id="noctis">
 <summary><strong>Noctis</strong> — Ascendant of Shadowed Thresholds, Hidden Truths, and the Quiet Places Between Waking and Dream</summary>
 
 <p>Noctis began as a mortal druid of the Circle of the Seven Moons 
@@ -200,10 +195,7 @@ shadow.</p>
      alt="Symbol of Noctis"
      style="width:200px; height:auto; border-radius:4px; margin-top:8px;">
 
-<p><strong>Temple in Bridgeport:</strong> The Umbral House, on the 
-northern outskirts of the city. Its narrow windows, dim interior, and 
-reputation for strange occurrences keep many away — which suits its 
-faithful well enough.</p>
+<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "umbral-house" >}}">The Umbral House</a>, on the northern outskirts of the city.</p>
 
 </details>
 

@@ -5,3 +5,17 @@
     Support Grim Press on Patreon
   </a>
 </div>
+<script>
+(function () {
+  function openTargetDetails() {
+    if (!location.hash) return;
+    var el = document.querySelector(location.hash);
+    if (el && el.tagName === 'DETAILS') {
+      el.open = true;
+      el.scrollIntoView();
+    }
+  }
+  document.addEventListener('DOMContentLoaded', openTargetDetails);
+  window.addEventListener('hashchange', openTargetDetails);
+})();
+</script>

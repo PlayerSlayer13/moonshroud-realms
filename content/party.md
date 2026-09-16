@@ -6,7 +6,7 @@ weight: 2
 # The Party
 
 *The individuals who found each other — or were found by circumstance 
-— in Bridgeport on Duskgrain Day 23, Year 700AG.*
+— in Bridgeport on Harvestide Day 23, Year 700AG.*
 
 ---
 

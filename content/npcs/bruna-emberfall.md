@@ -5,7 +5,7 @@ weight: 1
 
 # Bruna Emberfall
 
-*First encountered: The Strangled Goat, Duskgrain Day 23, 700AG*  
+*First encountered: The Strangled Goat, Harvestide Day 23, 700AG*  
 *Usually found: The Strangled Goat, Saltstone Square*
 
 ---

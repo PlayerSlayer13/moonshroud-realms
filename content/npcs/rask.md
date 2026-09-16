@@ -5,7 +5,7 @@ weight: 5
 
 # Rask
 
-*First encountered: Beneath the Strangled Goat, Duskgrain Day 23, 700AG*  
+*First encountered: Beneath the Strangled Goat, Harvestide Day 23, 700AG*  
 *Status: Deceased*
 
 ---

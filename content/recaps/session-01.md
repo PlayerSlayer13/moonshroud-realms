@@ -5,7 +5,7 @@ date: 2026-04-25
 ---
 
 # Session 01 — The Stranger at the Fountain
-*Duskgrain, Day 23, Year 700AG*
+*Harvestide, Day 23, Year 700AG*
 
 ---
 
@@ -95,7 +95,7 @@ cold light unusually prominent. The harbor was visibly affected, the
 tide higher than normal. Experienced dockhands noted it without 
 comment. Myonis, the copper moon, was new and completely dark — absent 
 from the sky entirely. Lustre itself was a waning crescent, faint and 
-diminished. Bridgeport on the night of Duskgrain Day 23 was lit by a 
+diminished. Bridgeport on the night of Harvestide Day 23 was lit by a 
 single cold moon on an otherwise dark sky. The famous Lustre-light that 
 silvers the coastlines was nowhere to be seen.*
 

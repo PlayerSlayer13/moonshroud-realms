@@ -5,7 +5,7 @@ weight: 2
 
 # The Captain
 
-*First observed: The Strangled Goat, Duskgrain Day 23, 700AG*  
+*First observed: The Strangled Goat, Harvestide Day 23, 700AG*  
 *Usually found: Unknown — observed at the Strangled Goat*
 
 ---

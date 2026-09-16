@@ -5,7 +5,7 @@ date: 2026-04-25
 ---
 
 # Session 01.5 — Someone Always Wants to End a Good Thing
-*Duskgrain, Day 23, Year 700AG — continued*
+*Harvestide, Day 23, Year 700AG — continued*
 
 ---
 

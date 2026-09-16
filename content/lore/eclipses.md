@@ -156,7 +156,7 @@ in Bridgeport, a total lunar eclipse turned Lustre blood red. The
 silver coastlines vanished. Bridgeport's fisher-folk are still 
 talking about the red moon. Temple of Noctis priests called it 
 the Umbral Witness and held observance. The Circle logged it as 
-the leading edge of the Duskgrain eclipse season.
+the leading edge of the Harvestide eclipse season.
 
 ---
 

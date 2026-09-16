@@ -5,8 +5,8 @@ weight: 4
 
 # Kiville
 
-*First encountered: Saltstone Square, Duskgrain Day 23, 700AG*  
-*Currently: Dragonline Lodge, Saltstone Square (as of Duskgrain Day 23)*
+*First encountered: Saltstone Square, Harvestide Day 23, 700AG*  
+*Currently: Dragonline Lodge, Saltstone Square (as of Harvestide Day 23)*
 
 ---
 

@@ -21,8 +21,8 @@ const CAMPAIGN_MONTH_NAMES = [
 
 const CAMPAIGN_DATE = {
   year:  700,
-  month: 8,    // 0-indexed — Harvestide
-  day:   23
+  month: 9,    // 0-indexed — Frostwatch
+  day:   4
 };
 
 // Derived label — do not edit this line

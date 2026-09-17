@@ -262,7 +262,7 @@ than comfort.</p>
 <p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p>
 </details>
 
-<details>
+<details id="barrowen">
 <summary><strong>Barrowen Tallgrain</strong> — Ascendant of Harvest and Stewardship</summary>
 
 <p>Barrowen is represented by carved grain heads and small offerings 

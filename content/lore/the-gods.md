@@ -145,8 +145,7 @@ region.</p>
 
 </details>
 
-<details>
-<summary><strong>Charr</strong> — Eternal of Birth, Fertility, Nature, and Agriculture</summary>
+<details id="charr"><summary><strong>Charr</strong> — Eternal of Birth, Fertility, Nature, and Agriculture</summary>
 
 <p>Charr governs the generative forces of the world — the turning of 
 seasons, the growth of crops, the arrival of new life, and the 
@@ -255,23 +254,11 @@ than comfort.</p>
 
 </details>
 
-<details>
-<summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary>
-
-<p>Sivet is honored wherever families gather and new children arrive. 
-Devotion is expressed through candles and woven cradle charms — 
-small, domestic offerings that reflect her domain. She is one of 
-three Ascendants elevated under <strong>Charr</strong>.</p>
+<details id="sivet"><summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary><p>Sivet is honored wherever families gather and new children arrive. Devotion is expressed through candles and woven cradle charms — small, domestic offerings that reflect her domain. She is one of four Ascendants elevated under <strong>Charr</strong>.</p></details>
 
 </details>
 
-<details>
-<summary><strong>Oleya Greenbriar</strong> — Ascendant of Growing Things</summary>
-
-<p>Oleya is marked by potted herbs and climbing vines trained along 
-trellises — a living symbol of her connection to cultivated growth 
-and the quiet persistence of green things. She is one of three 
-Ascendants elevated under <strong>Charr</strong>.</p>
+<details id="oleya"><summary><strong>Oleya Greenbriar</strong> — Ascendant of Growing Things</summary><p>Oleya is marked by potted herbs and climbing vines trained along trellises — a living symbol of her connection to cultivated growth and the quiet persistence of green things. She is one of four Ascendants elevated under <strong>Charr</strong>.</p></details>
 
 </details>
 
@@ -281,7 +268,7 @@ Ascendants elevated under <strong>Charr</strong>.</p>
 <p>Barrowen is represented by carved grain heads and small offerings 
 of dried seed — the end of the growing season honored and preserved. 
 Stewardship of what the land provides is central to Barrowen's 
-doctrine. She is one of three Ascendants elevated under 
+doctrine. She is one of four Ascendants elevated under 
 <strong>Charr</strong>.</p>
 
 </details>
@@ -315,6 +302,12 @@ line and from the forest roads approaching from the north — a signal
 to travelers that Wexford is there, and that someone is watching.</p>
 
 </details>
+
+<details id="sartr"><summary><strong>Sartr</strong> — Ascendant of Battle, Martial Discipline, and Stoic Resolve</summary><p>Sartr serves Kelleth, and their domain covers battle, tactical and strategic study, and the stoicism demanded when the odds turn impossible. Worship runs deepest among soldiers, mercenaries, city guards, caravan escorts, and wandering fighters who value discipline over glory. Clergy in Sartr's temples hold military rank rather than traditional priestly titles, and storytelling — honest accounts of fear, sacrifice, and cost, never embellished boasting — is treated as a form of devotion in its own right.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "bridgeport-locations#bastion-of-valor" >}}">The Bastion of Valor</a>, home to the Red Ramparts.</p></details>
+
+<details id="veyruun"><summary><strong>Veyruun</strong> — Ascendant of Prosperity, Trade, and Exchange</summary><p>Veyruun's domain is prosperity, enterprise, and the honest exchange that keeps wealth in motion rather than hoarded. Merchants, traders, and travelers across much of Elderland recognize the authority of Veyruun's clergy, whose systems of secured credit, currency exchange, and guarded vault storage are trusted well beyond Bridgeport itself. A contract witnessed under Veyruun's authority carries serious legal and social weight throughout Algar.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "bridgeport-locations#temple-of-veyruun" >}}">The Temple of Veyruun</a>, among the wealthiest institutions in the Freehold.</p></details>
+
+<details id="maelorra"><summary><strong>Maelorra</strong> — Ascendant of Fertility, Childbirth, and Generational Continuity</summary><p>Maelorra watches over fertility, childbirth, infancy, and the continuity that carries a family or a people forward across generations. Midwives and priestesses in her care oversee birthing suites and recovery chambers, where expectant parents seek blessings for safe delivery and healthy children. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "bridgeport-locations#temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>, alongside Sivet, Oleya, and Barrowen.</p></details>
 
 ---
 

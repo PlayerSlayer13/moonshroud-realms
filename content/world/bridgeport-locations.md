@@ -178,3 +178,209 @@ unremarkable a sight in Bridgeport as paperwork and cargo have always been.</p>
 
 </details>
 
+<details id="eastgate">
+<summary><strong>Eastgate</strong> — the eastern approach into southern Bridgeport</summary>
+
+<p>Marks the point where the packed wagon road of River Way gives way to the city's
+cobbled streets and crowded industrial wards, a broad stone arch spanning the roadway
+between two sturdy watchtowers. Wagons carrying timber, livestock, grain, ale, and
+quarried stone pass beneath it daily, bound for the mills, breweries, and warehouses of
+the eastern districts. River Way continues upstream some seventy miles toward the
+Freehold town of Two Rivers, linking Bridgeport to smaller farming communities along the
+southern bank of the Godsfall.</p>
+
+<p>The gatehouse houses toll clerks, road inspectors, and militia keeping watch on
+approaching traffic. For many travelers arriving from the east, Eastgate is their first
+true impression of Bridgeport — busy, smoky, crowded, and alive with opportunity.</p>
+
+</details>
+
+<details id="bilfloom-tower">
+<summary><strong>Bilfloom Tower</strong> — a mage's tower and observatory overlooking eastern Bridgeport</summary>
+
+<p>A six-story stone tower atop a steep grassy hillock, predating the neighborhoods that
+have since grown up around its base. A long flight of weathered stone steps climbs to its
+arched entry, and from the upper levels one can survey River Way, the Queen's Road, the
+Wexford road, the sweep of the Godsfall River, and the Zephyrys Sea a mile to the west.</p>
+
+<p>The tower is the residence and observatory of <strong>Magister Oren Bilfloom</strong>,
+a reclusive human mage known throughout Bridgeport for his study of celestial phenomena,
+tides, and the movements of Orb's moons. He isn't formally attached to the Freehold
+government, but guild officials occasionally consult him on strange weather, river
+conditions, or rare astronomical events.</p>
+
+<p>Most residents give the hill a wide berth after dusk. Stories persist of strange
+sounds during celestial alignments, unexplained lights near the upper balconies, and the
+unsettling feeling of being watched from the steps.</p>
+
+</details>
+
+<details id="shrine-of-the-golden-harvest">
+<summary><strong>Shrine of the Golden Harvest</strong> — a temple to Barrowen Tallgrain</summary>
+
+<p>A broad, lower hillock near Bilfloom Tower, crowned by the golden-yellow stonework of
+a temple dedicated to
+<a href="{{< relref "the-gods#barrowen" >}}">Barrowen Tallgrain</a>, servant of Charr and
+patron of stewardship, husbandry, and the harvest. The pale stone and gilded paint are
+built to catch the rising sun, and the shrine glows visibly along River Way and the
+Queen's Road at dawn.</p>
+
+<p>It stands at the edge of Bridgeport's eastern farming district, where wagon gardens,
+orchards, and cultivated fields still hold out against the city's slow spread. Farmers,
+drovers, brewers, millers, and laborers visit year-round for blessings on crops, tools,
+and trade, and the priests are as known for practical charity — food drives, harvest
+stores, aid through lean winters — as for spiritual guidance.</p>
+
+<p>The shrine becomes the center of the eastern districts during the autumn harvest
+season, when communal feasts, baking and brewing contests, and harvest dances fill the
+surrounding grounds for days.</p>
+
+</details>
+
+<details id="bastion-of-valor">
+<summary><strong>Bastion of Valor</strong> — a fortress-temple to Sartr</summary>
+
+<p>Rises from the eastern district like a fortress unto itself — a massive grey-stone
+temple enclosed behind a crenellated curtain wall, stark and unornamented, its training
+yard worn smooth by generations of soldiers and devotees. It's devoted to
+<a href="{{< relref "the-gods#sartr" >}}">Sartr</a>, servant of Kelleth, whose worship
+runs deepest among soldiers, mercenaries, city guards, and wandering fighters.</p>
+
+<p>The severe exterior gives way to a markedly different interior — a great hall in deep
+reds and blacks, banners of famed regiments and remembered last stands, long tables set
+for communal meals more than solemn ritual. Storytelling is revered here: veterans and
+travelers are invited to recount battles and losses honestly before the assembled hall,
+and embellishment is poorly received.</p>
+
+<p>Beneath the temple lie barracks, armories, and training chambers occupied by the
+<strong>Red Ramparts</strong>, an order of Sartrian paladins renowned across Algar for
+holding the line against overwhelming odds. All are welcome within the temple's walls,
+even former enemies met honorably on the battlefield — rank, allegiance, and old
+grievances are expected to be set aside, and violence inside is strictly forbidden.</p>
+
+</details>
+
+<details id="temple-of-veyruun">
+<summary><strong>Temple of Veyruun</strong> — temple, treasury, and financial center</summary>
+
+<p>Standing near Bridgeport's commercial district and river docks, the Temple of
+<a href="{{< relref "the-gods#veyruun" >}}">Veyruun</a> is among the wealthiest and most
+influential institutions in the Freehold — as much a trusted financial center as a place
+of worship, its systems of secured credit, currency exchange, and guarded vault storage
+recognized throughout much of Elderland.</p>
+
+<p>The interior fuses cathedral, guildhall, and treasury: polished marble floors, long
+hardwood counters where merchants and travelers conduct exchanges, and a soaring domed
+ceiling painted with trade routes and constellations tied to fortune and navigation,
+periodically updated as new roads and ports emerge. Reinforced vaults occupy the lower
+levels, and contracts witnessed under the temple's authority carry serious legal and
+social weight across Algar — even criminal organizations tend to steer clear of directly
+crossing Veyruun's clergy.</p>
+
+</details>
+<details id="temple-of-the-verdant-court">
+<summary><strong>Temple of the Verdant Court</strong> — a shared temple to Charr and four Ascendants</summary>
+
+<p>Occupying nearly two full city blocks along Bridgeport's northern edge, this is the
+city's second-largest temple and one of its most striking — grey granite rising in long
+straight lines broken by spires, flying buttresses, and towering stained-glass rose
+windows that cast colored light through its halls. Broad lawns and herb gardens separate
+it from the crowded city on three sides.</p>
+
+<p>The temple is dedicated collectively to <a href="{{< relref "the-gods#charr" >}}">Charr</a>
+and the Verdant Court — <a href="{{< relref "the-gods#sivet" >}}">Sivet the Hearthmother</a>,
+protector of households; <a href="{{< relref "the-gods#oleya" >}}">Oleya Greenbriar</a>,
+patron of green growing things; <a href="{{< relref "the-gods#barrowen" >}}">Barrowen
+Tallgrain</a>, steward of harvests; and
+<a href="{{< relref "the-gods#maelorra" >}}">Maelorra</a>, guardian of fertility and
+childbirth. Each maintains a dedicated sanctuary within the larger complex: Maelorra's
+midwives oversee quiet birthing suites, Sivet's hearth shrines provide food and shelter to
+struggling families, Oleya's green sanctum holds medicinal gardens and healing chambers,
+and Barrowen's western halls serve farmers, drovers, and laborers seeking blessings on
+crops and trade.</p>
+
+<p>Grand as it is, residents treat the temple less as a distant monument and more as one
+of Bridgeport's most essential institutions — a place where birth, labor, grief, and
+renewal are all honored under one roof.</p>
+
+</details>
+
+<details id="godsfall-necropolis">
+<summary><strong>Godsfall Necropolis</strong> — a self-contained city of the dead</summary>
+
+<p>Spanning more than two city blocks near Bridgeport's center, the necropolis is less a
+cemetery than its own small city, enclosed by a low stone wall and entered through six
+wrought-iron gates. Broad paths and winding lanes divide the grounds into funerary
+courts lined with mausoleums, memorial gardens, crypts, and carefully maintained groves.
+The oldest avenues carry towering family mausoleums rivaling small homes in scale, as
+noble houses, wealthy merchant dynasties, and old guilds compete quietly through
+memorial artistry.</p>
+
+<p>Space within the walls has grown valuable as the city expands around it — new plots
+are expensive and generally reserved for guild members, notable citizens, and families
+with longstanding claims, though one weathered section near the southern wall remains a
+modest burial field for the poor, unused for generations now.</p>
+
+<p>A quiet multi-faith mortuary chapel stands at the western entrance, where funeral
+rites can be conducted regardless of creed. Despite its purpose, the necropolis carries a
+strange tranquility — songbirds nest among the trees, sunlight filters through
+moss-covered statuary, and many residents walk its avenues in quiet contemplation as much
+as mourning.</p>
+
+</details>
+
+<details id="rivergate-market">
+<summary><strong>Rivergate Market</strong> — Bridgeport's busiest public market</summary>
+
+<p>A broad triangular block along the river's north side, directly across from the docks
+and a few blocks east of the Seaward Span. At its western point stands the guildhall of
+the Brewers' & Grocers' Compact, overseen by Guildmaster Rolvar Simmond, coordinating much
+of eastern Bridgeport's wholesale food trade. From there the market widens into a dense
+maze of stalls and storefronts selling produce, salted fish, spices, tools, and
+countless everyday necessities.</p>
+
+<p>An adventurers' outfitters cooperative on the northeastern side stocks packs, climbing
+gear, maps, and tents, alongside weaponsmiths and armorers supplying mundane arms and
+basic armor suited to militia recruits and beginning adventurers. Warehouses line the
+southeastern edge nearer the docks, and the market functions as much as a social
+crossroads as a commercial one — rumors spread quickly here, and travelers fresh off
+distant roads trade stories over ale carts beneath the shadow of the riverfront cranes.</p>
+
+</details>
+
+<details id="moonwillow-bazaar">
+<summary><strong>Moonwillow Bazaar</strong> — a refined market for a wealthier clientele</summary>
+
+<p>Situated at the northern end of Eastreach Bridge and just west of the affluent
+Moonwillow Creek district, the bazaar caters to a more discerning clientele than
+Bridgeport's larger public markets. Orderly rows of covered stalls and shaded courtyards
+host butchers offering superior cuts, fishmongers with fresh river trout and imported sea
+catches, and vintners and cheesemakers selling artisan goods sourced from estates
+throughout the Godsfall Valley.</p>
+
+<p>Cabinetmakers, glaziers, jewelers, and leatherworkers display finely crafted wares here
+too, alongside smiths selling decorative or ceremonially embellished weapons and armor —
+etched heraldry and silver filigree that add cost without adding much practical
+advantage. Street musicians and flower vendors fill the avenues in warmer months, and
+nearby tea houses offer quiet corners for discreet business away from the noisier
+riverfront.</p>
+
+</details>
+
+<details id="moonwillow-gate">
+<summary><strong>Moonwillow Gate</strong> — the northeastern entrance into Bridgeport</summary>
+
+<p>Marks the point where the packed earth of Holders Road crosses Moonwillow Creek and
+gives way to the cobbled streets of the city proper. Smaller and less monumental than
+Freegate or Eastgate, it remains an important entry point for merchants, farmers, and
+riverfolk arriving from the fertile lands east of the Freehold — a timber gate reinforced
+with iron, flanked by a pair of square watchtowers, its heavy doors barred each night from
+dusk until dawn.</p>
+
+<p>Militia presence here is steady but modest compared to the larger gates, though it
+swells during harvest season with long trains of produce wagons and merchant caravans.
+Beyond the gate, Holders Road continues along the river's northern bank for more than two
+hundred miles toward the distant Skyway Gorge, linking Bridgeport to farming communities,
+monasteries, and mills throughout the Godsfall Valley.</p>
+
+</details>

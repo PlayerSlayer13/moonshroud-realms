@@ -53,11 +53,16 @@ among them — are catalogued on the
 
 ## Faith
 
-Three temples serve Bridgeport's spiritual life openly:
+Eight temples serve Bridgeport's spiritual life openly:
 
 - [Temple of Radiant Light]({{< relref "temple-of-radiant-light" >}}) — devoted to Aard, on Queensway Avenue
 - [Shrine of the Iron Oath]({{< relref "shrine-of-the-iron-oath" >}}) — devoted to Kelleth
 - [Umbral House]({{< relref "umbral-house" >}}) — devoted to Noctis, on the northern outskirts
+- [The Brass Axiom]({{< relref "brass-axiom" >}}) — devoted to Absot, near the city center
+- [Shrine of the Golden Harvest]({{< relref "shrine-of-the-golden-harvest" >}}) — devoted to Barrowen Tallgrain, in eastern Bridgeport
+- [Bastion of Valor]({{< relref "bastion-of-valor" >}}) — devoted to Sartr, in eastern Bridgeport
+- [Temple of Veyruun]({{< relref "temple-of-veyruun" >}}) — devoted to Veyruun, near the commercial district
+- [Temple of the Verdant Court]({{< relref "temple-of-the-verdant-court" >}}) — devoted to Charr and the Verdant Court, on the northern edge
 
 ## Atmosphere
 

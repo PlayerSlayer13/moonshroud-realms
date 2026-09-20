@@ -117,7 +117,7 @@ by an unbroken ring.</p>
 
 </details>
 
-<details>
+<details id="absot">
 <summary><strong>Absot</strong> — Eternal of Cause and Effect, Cosmic Order, and the Unbroken Chain</summary>
 
 <p>Absot governs inevitability — the unbreakable relationship between 
@@ -142,6 +142,8 @@ and consequence — linear motifs of the unbroken chain.</p>
 <p><strong>Temple in Wexford:</strong> The Marble Canon, presided over 
 by Hierophant Halwen Marr, is the primary temple of Absot in the 
 region.</p>
+
+<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "brass-axiom" >}}">The Brass Axiom</a>, presided over by Hierophant Aruush Ghoro.</p>
 
 </details>
 
@@ -254,13 +256,9 @@ than comfort.</p>
 
 </details>
 
-<details id="sivet"><summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary><p>Sivet is honored wherever families gather and new children arrive. Devotion is expressed through candles and woven cradle charms — small, domestic offerings that reflect her domain. She is one of four Ascendants elevated under <strong>Charr</strong>.</p></details>
-<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p>
-</details>
+<details id="sivet"><summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary><p>Sivet is honored wherever families gather and new children arrive. Devotion is expressed through candles and woven cradle charms — small, domestic offerings that reflect her domain. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p></details>
 
-<details id="oleya"><summary><strong>Oleya Greenbriar</strong> — Ascendant of Growing Things</summary><p>Oleya is marked by potted herbs and climbing vines trained along trellises — a living symbol of her connection to cultivated growth and the quiet persistence of green things. She is one of four Ascendants elevated under <strong>Charr</strong>.</p></details>
-<p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p>
-</details>
+<details id="oleya"><summary><strong>Oleya Greenbriar</strong> — Ascendant of Growing Things</summary><p>Oleya is marked by potted herbs and climbing vines trained along trellises — a living symbol of her connection to cultivated growth and the quiet persistence of green things. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p></details>
 
 <details id="barrowen">
 <summary><strong>Barrowen Tallgrain</strong> — Ascendant of Harvest and Stewardship</summary>

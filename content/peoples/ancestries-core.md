@@ -1,23 +1,40 @@
 ---
-title: "Core & Void Ancestries"
+title: "Ancestries"
 weight: 1
 ---
 
-# Core & Void Ancestries
+# Ancestries
 
-The following ancestries are available in this campaign from the core 
-Daggerheart rulebook and The Void supplement. They represent the full 
-range of peoples found across Elderland and beyond.
+The following ancestries are available in this campaign from the Daggerheart core
+rulebook and the Hope & Fear expansion. They represent the full range of peoples found
+across Elderland and beyond.
 
-For ancestries specific to the Moonshroud Realms, see the individual 
-pages for Aelfaen, Mustelin, Ursinor, and Dragonblood.
+For ancestries specific to the Moonshroud Realms, see the individual pages for Aelfaen,
+Mustelin, Ursinor, and Dragonblood.
 
-Mixed ancestry characters take the primary feature of their main 
-ancestry and the secondary feature of their other ancestry.
+Mixed ancestry characters take the primary feature of their main ancestry and the
+secondary feature of their other ancestry.
 
 ---
 
-## Core Daggerheart Ancestries
+<details>
+<summary><strong>Aetheris</strong></summary>
+
+<p>Aetheris are winged humanoids marked by sacred sigils and glowing patterns, descended
+from angels of the Hallows Above. Their markings shift and deepen as they age, often in
+response to prophecy or divine guidance, and their eyes, hair, and skin range across
+vibrant hues and soft earth tones alike. Standing 5 to 7 feet tall, aetheris live for
+around 350 years and keep a youthful glow well into old age.</p>
+
+<p><strong>Hallowed Aura</strong><br>
+Once per long rest, when an ally within Close range rolls with Fear, you can change it
+into a roll with Hope instead.</p>
+
+<p><strong>Celestial Wings</strong><br>
+You have wings that allow you to fly. Once per scene while flying, you can spend a Hope
+instead of marking an Armor Slot.</p>
+
+</details>
 
 <details>
 <summary><strong>Clank</strong></summary>
@@ -84,6 +101,24 @@ Spend 3 Hope to halve incoming physical damage.</p>
 </details>
 
 <details>
+<summary><strong>Earthkin</strong></summary>
+
+<p>Earthkin are descended from earth elementals — humanoids formed of flesh combined
+with stone, clay, crystal, or soil, their coloring and texture reflecting whichever
+mineral runs through them. Many decorate their earthen features with carving, inlaid
+gems, or even rooted foliage. Standing 5 to 6½ feet tall, earthkin age slowly across a
+roughly 300-year lifespan, and when they die, they eventually crumble back into earth.</p>
+
+<p><strong>Stoneskin</strong><br>
+Gain a permanent +1 bonus to your Armor Score and damage thresholds at character
+creation.</p>
+
+<p><strong>Immovable</strong><br>
+While you're touching the ground, you can't be lifted or moved against your will.</p>
+
+</details>
+
+<details>
 <summary><strong>Elf</strong></summary>
 
 <p>Elves are typically tall humanoids with pointed ears and acutely 
@@ -98,6 +133,26 @@ of a short rest move.</p>
 
 <p><strong>Keen Senses</strong><br>
 You have advantage on rolls involving sight, sound, or smell.</p>
+
+</details>
+
+<details>
+<summary><strong>Emberkin</strong></summary>
+
+<p>Emberkin are descended from fire elementals — humanoids whose flaming hair, ember-lit
+eyes, or glowing veins shift and flare with their emotions. Their coloring runs through
+the hues of fire, from bright red and orange to charcoal, and their skin often runs warm
+or hot to the touch. Emberkin stand 5 to 7 feet tall and live about 250 years, their
+light dimming with age; when they die, they blaze brightly for a moment, then burn to
+ash.</p>
+
+<p><strong>Fireproof</strong><br>
+You are immune to damage from magical or mundane flame.</p>
+
+<p><strong>Ignition</strong><br>
+Mark a Stress to wreathe your primary weapon in flame until the end of the scene. While
+the weapon is ablaze, it gives off a bright light, and you gain a 1d6 bonus to damage
+rolls with that weapon.</p>
 
 </details>
 
@@ -224,6 +279,24 @@ Gain an additional Hit Point slot at character creation.</p>
 <p><strong>Reach</strong><br>
 Treat any weapon, ability, spell, or other feature that has a Melee 
 range as though it has a Very Close range instead.</p>
+
+</details>
+
+<details>
+<summary><strong>Gnome</strong></summary>
+
+<p>Gnomes are small humanoids with conical heads and proportionately long arms and large
+hands that give them extended reach despite their size — most stand around 3 feet tall,
+with square, short-torsoed frames. Their minor teleportation ability runs in families,
+each with its own signature effect when a gnome vanishes and reappears — a puff of smoke,
+a scatter of light, a simple flicker out of sight. Gnomes live for about 200 years, their
+hands staying dexterous long after the rest of them has slowed with age.</p>
+
+<p><strong>Nimble Fingers</strong><br>
+When you make a Finesse Roll, you can spend 2 Hope to reroll your Hope Die.</p>
+
+<p><strong>Flicker Step</strong><br>
+Once per scene, you can teleport to another point you can see within Far range.</p>
 
 </details>
 
@@ -383,104 +456,40 @@ Gain a permanent +1 bonus to your Evasion at character creation.</p>
 
 </details>
 
----
-
-## The Void Ancestries
-
-*The following ancestries come from The Void, a playtest supplement 
-for Daggerheart. They are available in this campaign but players 
-should be aware they may be subject to revision as the system 
-develops.*
-
-<details>
-<summary><strong>Aetheris</strong></summary>
-
-<p>Aetheris are humanoids who possess radiant auras and glowing eyes. 
-They are the descendants of celestials from the Hallows Above.</p>
-
-<p><strong>Hallowed Aura</strong><br>
-Once per rest, when an ally within Close range rolls with Fear, you 
-can make it a roll with Hope instead.</p>
-
-<p><strong>Divine Countenance</strong><br>
-You have advantage on rolls to command or persuade.</p>
-
-</details>
-
-<details>
-<summary><strong>Earthkin</strong></summary>
-
-<p>Earthkin are descended from earth elementals. They are humanoids 
-whose bodies are a combination of flesh and earth.</p>
-
-<p><strong>Stoneskin</strong><br>
-Gain a +1 bonus to your Armor Score and Damage Thresholds.</p>
-
-<p><strong>Immoveable</strong><br>
-While your feet are touching the ground, you cannot be lifted or 
-moved against your will.</p>
-
-</details>
-
-<details>
-<summary><strong>Emberkin</strong></summary>
-
-<p>Emberkin are descended from fire elementals. They are humanoids 
-whose bodies are a combination of flesh and fire.</p>
-
-<p><strong>Fireproof</strong><br>
-You are immune to damage from magical or mundane flame.</p>
-
-<p><strong>Ignition</strong><br>
-Mark a Stress to wreathe your primary weapon in flame until the end 
-of the scene. While ablaze, it gives off a bright light and grants a 
-+1d6 bonus to damage rolls against targets within Melee range.</p>
-
-</details>
-
-<details>
-<summary><strong>Gnome</strong></summary>
-
-<p>Gnomes are small humanoids most easily recognized by their dense 
-musculature, long arms, and large facial features.</p>
-
-<p><strong>Nimble Fingers</strong><br>
-When you make a Finesse Roll, you can spend 2 Hope to reroll your 
-Hope Die.</p>
-
-<p><strong>True Sight</strong><br>
-You have advantage on rolls to see through illusions.</p>
-
-</details>
-
 <details>
 <summary><strong>Skykin</strong></summary>
 
-<p>Skykin are descended from air elementals. They are humanoids whose 
-bodies are a combination of flesh and air.</p>
+<p>Skykin are descended from air elementals — humanoids with color-shifting,
+semi-translucent skin reflecting the pale grays of morning, the fuchsias of sunset, or
+the deep purples of night, their intensity rising and falling with emotion. Some have
+elongated features — pointed ears, longer limbs — and wispy hair like trailing smoke.
+Skykin stand 5½ to 7 feet tall and live around 300 years; when they die, they simply
+disappear into the air.</p>
 
 <p><strong>Gale Force</strong><br>
-Mark a Stress to conjure a gust of wind that carries you or an ally 
-up to Very Far range. Additionally, you can always control the speed 
-at which you fall.</p>
+Mark a Stress to conjure a gust of wind that carries you or a Very Close ally up to Very
+Far range. Additionally, you can always control the speed at which you fall.</p>
 
 <p><strong>Eye of the Storm</strong><br>
-Spend 2 Hope to grant a +1 bonus to either your or an ally's Evasion 
-until you next take Severe damage or you use Eye of the Storm again.</p>
+Spend 2 Hope to grant you or an ally within Melee range a +1 bonus to Evasion until you
+take Severe damage or you use this feature again.</p>
 
 </details>
 
 <details>
 <summary><strong>Tidekin</strong></summary>
 
-<p>Tidekin are descended from water elementals. They are humanoids 
-whose bodies are a combination of flesh and water.</p>
+<p>Tidekin are descended from water elementals — humanoids with finlike ears, webbed
+digits, and skin, hair, or watery formations that shift in color like waves, from the
+bright aqua of shallows to the deep blue of open ocean. Instead of tears, their emotions
+show through these shifting colors and formations. Tidekin stand 5 to 6½ feet tall and
+live roughly 300 years; when they die, they dissolve into water and flow away.</p>
 
 <p><strong>Amphibious</strong><br>
 You can breathe and move naturally underwater.</p>
 
 <p><strong>Lifespring</strong><br>
-Once per rest, when you have access to a small amount of water, you 
-can mark 2 Stress to heal a Hit Point on yourself or an ally.</p>
+Once per rest, when you have access to a small amount of water, you can mark a Stress to
+clear a Hit Point on yourself or an ally within Very Close range.</p>
 
 </details>

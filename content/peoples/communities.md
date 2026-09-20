@@ -21,6 +21,51 @@ could.
 ## Core Daggerheart Communities
 
 <details>
+<summary><strong>Duneborne</strong></summary>
+
+<p><em>You've made a home among the shifting sands and arid climate of the desert.</em></p>
+
+<p><strong>Oasis</strong><br>
+During a short rest, you or an ally can reroll a die used for a downtime move and take
+the higher result.</p>
+
+</details>
+
+<details>
+<summary><strong>Freeborne</strong></summary>
+
+<p><em>You're from a collective that once lived under tyrannical rule but is now
+liberated.</em></p>
+
+<p><strong>Unbound</strong><br>
+Once per session, when you roll with Fear, you can change it into a roll with Hope
+instead.</p>
+
+</details>
+
+<details>
+<summary><strong>Frostborne</strong></summary>
+
+<p><em>You come from a place of snow and ice.</em></p>
+
+<p><strong>Hardy</strong><br>
+When you take a rest, you clear a Hit Point.</p>
+
+</details>
+
+<details>
+<summary><strong>Hearthborne</strong></summary>
+
+<p><em>You come from humble origins, having lived in a modest village or quaint
+countryside.</em></p>
+
+<p><strong>Close-Knit</strong><br>
+Once per long rest, you can spend any number of Hope to grant an ally within Far range
+an equal number of Hope.</p>
+
+</details>
+
+<details>
 <summary><strong>Highborne</strong></summary>
 
 <p><em>You're accustomed to a life of elegance, opulence, and prestige 
@@ -59,6 +104,19 @@ Record three sayings or values your upbringing instilled in you. Once
 per rest, when you describe how you're embodying one of these 
 principles through your current action, you can roll a d20 as your 
 Hope Die.</p>
+
+</details>
+
+<details>
+<summary><strong>Reborne</strong></summary>
+
+<p><em>You were once a member of a different community that you're no longer part of.
+When you join a new community or rediscover your old one, you can permanently trade
+this card for that one instead.</em></p>
+
+<p><strong>Found Family</strong><br>
+Once per rest, you can spend a Hope to use an ally's Experience as if it were your own.
+When you do so, describe how your time with that ally prepared you for this moment.</p>
 
 </details>
 
@@ -131,6 +189,17 @@ you take out.</p>
 </details>
 
 <details>
+<summary><strong>Warborne</strong></summary>
+
+<p><em>You come from a place that is, or was, ravaged by war.</em></p>
+
+<p><strong>Brave Face</strong><br>
+Once per session, when you would be forced to mark a Stress, you can spend a Hope
+instead.</p>
+
+</details>
+
+<details>
 <summary><strong>Wildborne</strong></summary>
 
 <p><em>You lived deep within the forest — defined by dedication to the 
@@ -139,86 +208,6 @@ conservation of your homeland and deep ties to the natural world.</em></p>
 <p><strong>Lightfoot</strong><br>
 Your movement is naturally silent. You have Advantage on rolls to move 
 without being heard.</p>
-
-</details>
-
----
-
-## The Void Communities
-
-*The following communities come from The Void, a playtest supplement 
-for Daggerheart. They are available in this campaign but players should 
-be aware they may be subject to revision as the system develops.*
-
-<details>
-<summary><strong>Duneborne</strong></summary>
-
-<p><em>You've made a home among the shifting sands and arid climate of 
-the desert.</em></p>
-
-<p><strong>Oasis</strong><br>
-During a short rest, you or an ally can reroll a die used for a 
-downtime action.</p>
-
-</details>
-
-<details>
-<summary><strong>Freeborne</strong></summary>
-
-<p><em>You're from a collective that lived under tyrannical rule and is 
-now liberated.</em></p>
-
-<p><strong>Unbound</strong><br>
-Once per session, when you make an action roll with Fear, you can 
-change it to a roll with Hope instead.</p>
-
-</details>
-
-<details>
-<summary><strong>Frostborne</strong></summary>
-
-<p><em>You come from a place of snow and ice.</em></p>
-
-<p><strong>Hardy</strong><br>
-Once per rest, you can Help an Ally traverse difficult terrain without 
-spending a Hope.</p>
-
-</details>
-
-<details>
-<summary><strong>Hearthborne</strong></summary>
-
-<p><em>You come from humble origins, having lived in a small village or 
-the countryside.</em></p>
-
-<p><strong>Close-Knit</strong><br>
-Once per long rest, you can spend any number of Hope to give an ally 
-the same number of Hope.</p>
-
-</details>
-
-<details>
-<summary><strong>Reborne</strong></summary>
-
-<p><em>You were once a member of another community, but you can no 
-longer remember it. At any point, when you've discovered the community 
-you were once part of, or have joined a new one, you can permanently 
-trade this card for that one instead.</em></p>
-
-<p><strong>Found Family</strong><br>
-Once per session, you can spend a Hope to use an ally's community 
-ability. When you do, your ally gains a Hope.</p>
-
-</details>
-
-<details>
-<summary><strong>Warborne</strong></summary>
-
-<p><em>You come from a place that is, or was, ravaged by war.</em></p>
-
-<p><strong>Brave Face</strong><br>
-Once per session, when an attack would cause you to mark a Stress, you 
-can spend a Hope instead.</p>
 
 </details>
 

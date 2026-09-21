@@ -24,21 +24,21 @@ happened to be standing nearest the mission board.
 Certificates can be earned through three institutions, all of which 
 recognize each other's credentials:
 
-**The Adventurer's Guild** — the most accessible path for most 
-adventurers. Guild certification is open to anyone who can pass the 
+**[The Adventurer's Guild]({{< relref "adventurers-guild" >}})** — the most accessible path for 
+most adventurers. Guild certification is open to anyone who can pass the 
 entry assessment and pay the membership fee. The majority of sanctioned 
 work in Algar flows through Guild channels.
 
-**The Royal Adventuring Society** — the Crown's preferred instrument 
-for sensitive, specialized, or politically complicated work. Society 
-membership requires noble blood, recognized ties to a noble house, or 
-formal Crown sponsorship. Those without such connections can still work 
-alongside the Society on contracted assignments, but cannot claim 
-membership or access its inner channels.
+**[The Royal Adventuring Society]({{< relref "royal-adventuring-society" >}})** — the Crown's 
+preferred instrument for sensitive, specialized, or politically complicated 
+work. Society membership requires noble blood, recognized ties to a noble 
+house, or formal Crown sponsorship. Those without such connections can 
+still work alongside the Society on contracted assignments, but cannot 
+claim membership or access its inner channels.
 
-**Divine Missions** — work sanctioned through recognized temples and 
-religious institutions. Less common than Guild or Society work, but 
-fully recognized within the system and occasionally the only path to 
+**[Divine Missions]({{< relref "missions-of-divinity" >}})** — work sanctioned through recognized 
+temples and religious institutions. Less common than Guild or Society work, 
+but fully recognized within the system and occasionally the only path to 
 certain types of assignments.
 
 A certificate earned through any of these three bodies counts toward 

@@ -168,6 +168,67 @@ Sivet the Hearthmother, Oleya Greenbriar, and Barrowen Tallgrain.</p>
 
 </details>
 
+<details id="sik">
+<summary><strong>Sik</strong> — Eternal of Shadow, Twilight, and the Umbral</summary>
+
+<p>Sik governs shadow, twilight, and the Umbral — the mirror realm of endings that exists
+alongside Orb, forming where light fades and boundaries blur. Where other planes have deities
+to anchor them, the Umbral for a long age had none, and its labyrinthine passages shifted
+unpredictably, letting nightmares leak into the material world and swallowing travelers whole.
+Sik watched over it regardless, in the quiet, unglamorous way the Eternal does everything.</p>
+
+<p>Sik does not offer ascension lightly. When a mortal archdruid of the Circle of the Seven
+Moons gave their life sealing away a demon lord attempting to anchor itself to Orb through a
+lunar conjunction, Sik refused to let the death stand — reclaiming the soul and binding it
+into an undying form, the first of what would become known as the Draughar. Nearly two
+centuries of quiet, thankless service followed before Sik offered a final choice: remain a
+servant, or rise as the Umbral's own sovereign. <a href="{{< relref "the-gods#noctis" >}}">Noctis</a> chose to rise.</p>
+
+<p>Little else about Sik's own nature is widely recorded — the Eternal is known chiefly
+through the Ascendant it elevated, and seems content to remain that way.</p>
+
+</details>
+
+<details id="solana">
+<summary><strong>Solana</strong> — Eternal of Radiant Life, Renewal, and the Sun</summary>
+
+<p>Solana governs radiant life, renewal, and the boundless brilliance of the sun — growth in
+its most literal sense, the light that things live by. Unlike the quieter Eternals, Solana's
+presence is felt everywhere at once, and rarely lingers in any one place long enough to be
+claimed by a single shrine or city.</p>
+
+<p>Solana has raised two Ascendants to date, each answering a need the Eternal's own vast
+brilliance couldn't quite reach. <a href="{{< relref "the-gods#luaur" >}}">Luaur</a> emerged
+from the margins — the shadowed groves and deep places where Solana's light couldn't follow
+without overwhelming them, a guide rather than a blaze. <a href="{{< relref "the-gods#saint-eccles" >}}">Saint Eccles</a>
+emerged from the road — a mortal wanderer whose decades of quiet service, healing, and
+hospitality to travelers eventually earned him a living sainthood, and then true ascension,
+without ever losing the humble title he'd already made his own.</p>
+
+<p><strong>Symbol:</strong> A rising sun with eight rays extending toward the cardinal and
+secondary directions, forming a compass rose — light as both source and guide.</p>
+
+</details>
+
+<details id="toiy">
+<summary><strong>Toiy</strong> — Eternal of Probability, Destiny, and Chance</summary>
+
+<p>Toiy governs probability, destiny, and the vast shifting forces of chance — not fate in the
+sense of a plan, but the countless narrow margins by which outcomes tip one way rather than
+another. Toiy's faithful are said to be as unpredictable as their patron's domain, and the
+Eternal itself is rarely invoked directly; its presence is felt more often through the
+Ascendant it elevated.</p>
+
+<p><a href="{{< relref "the-gods#bran" >}}">Bran of the Broken Coin</a> rose not through
+triumph but through endurance — a survivor of narrow streets and narrower chances who never
+won anything worth telling and never fell either, carried by small, constant fortune rather
+than abundant luck. Toiy took notice on the night a worn, long-spent coin Bran cast into the
+air split clean in two instead of falling to call — a resolution that refused to resolve.
+Where others sought to master chance, Bran had simply endured within it, and that endurance
+became divinity.</p>
+
+</details>
+
 ---
 
 ## The Ascendants
@@ -307,42 +368,85 @@ to travelers that Wexford is there, and that someone is watching.</p>
 
 <details id="maelorra"><summary><strong>Maelorra</strong> — Ascendant of Fertility, Childbirth, and Generational Continuity</summary><p>Maelorra watches over fertility, childbirth, infancy, and the continuity that carries a family or a people forward across generations. Midwives and priestesses in her care oversee birthing suites and recovery chambers, where expectant parents seek blessings for safe delivery and healthy children. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>, alongside Sivet, Oleya, and Barrowen.</p></details>
 
----
+<details id="luaur">
+<summary><strong>Luaur</strong> — Ascendant of Light in Shadowed Places</summary>
 
-## Named but Unknown
+<p>Luaur is light in its most intimate and necessary form — not the overwhelming brilliance of
+day, but the subtle glow that reveals a path when all else is obscured: lanternlight holding
+against the night, moonlight breaking through dense branches, the faint luminescence that
+guides those who wander too far below the earth. Luaur's light doesn't banish darkness so much
+as make it navigable.</p>
 
-The following deities are acknowledged by scholars, theologians, and 
-those with reason to know the shape of the divine order — but detailed 
-knowledge of their nature, history, and worship is not yet widely 
-recorded here. They are real. Their influence is felt. The full account 
-of each will come in time.
+<p>Before ascension, Luaur walked the world as <strong>Nephilis</strong>, a betudryad — a rare
+fey spirit awakened beneath the Tree of Light in Haelo, unbound from a single tree the way
+other dryads are. Nephilis crossed into Orb and wandered its dim places for generations,
+healing blighted groves and guiding the lost without ever seeking recognition, until Solana
+recognized what had already become true through action alone: Nephilis was named among the
+Eternal's Chosen. As shadowed places across Orb came to need a guiding presence rather than
+greater radiance, Solana revealed what Nephilis had already become, and Nephilis rose as
+Luaur — often translated as "Light Between" or "The Guiding Glow."</p>
 
-<details>
-<summary><strong>Sik</strong> — Eternal of Shadow, Twilight, and the Umbral</summary>
+<p>Luaur is revered by forest dwellers, wandering guides, delvers, and anyone who travels
+beyond the safety of well-lit roads. Many fey honor Luaur as a kindred presence, a light that
+carries the echo of older, living magic.</p>
 
-<p>Sik's domain encompasses shadow, twilight, and the Umbral — the 
-mirror realm of darkness and endings. Little is formally recorded 
-about Sik's nature or history beyond what can be inferred from the 
-Ascendant they elevated. Sik is the patron of <strong>Noctis</strong>.</p>
+<p><strong>Symbol:</strong> The Luminous Birch — a stylized birch tree with a crown of soft,
+radiant markings, tracing back to the mythic Tree of Light from which Luaur's mortal form is
+said to have first emerged.</p>
 
 </details>
 
-<details>
-<summary><strong>Solana</strong> — Eternal of Radiant Life, Renewal, and the Sun</summary>
+<details id="bran">
+<summary><strong>Bran of the Broken Coin</strong> — Ascendant of Modest Fortune and Quiet Chance</summary>
 
-<p>Solana's domain is radiant life, renewal, and the brilliance of the 
-sun. Solana is the patron of the Ascendant <strong>Luaur</strong>. 
-Beyond that, the formal record is incomplete.</p>
+<p>Bran governs modest fortune and the fleeting opportunities that shape daily survival — not
+grand wealth or legendary luck, but the small, necessary kind: a coin found when hungry, a
+guard who looks away at the right moment, an unexpected day's work secured. To the poor, the
+desperate, and anyone who survives by wit and timing rather than strength or station, Bran is
+both revered and quietly relied upon.</p>
+
+<p>Before ascension, Bran was simply a survivor of narrow streets and narrower chances — never
+rising above their station, never winning anything worth telling, but never quite falling
+either. A pattern followed them their whole life: a dropped coin landing within reach, a door
+left unlatched swinging open at just the right moment. On a night of rain and dim lanternlight,
+cornered by circumstance with nothing left to wager, Bran cast a long-spent, cracked coin into
+the air and called its fall. It struck stone and split cleanly in two — a resolution that
+refused to resolve. Toiy took notice of a life shaped entirely by narrow margins, and Bran
+ascended not through triumph, but through simple endurance.</p>
+
+<p>Bran's faith has no grand hierarchy and few permanent sanctuaries, living instead in
+markets, alleys, docks, and workyards. Devotees are known as Coinkeepers, Half-Bearers, or
+simply Bran's folk, and their creed is characteristically modest: take what comes, but don't
+take more than your share, and leave a little luck behind for the next soul.</p>
+
+<p><strong>Symbol:</strong> The Broken Coin — a coin split through its center by a jagged,
+uneven break, its two halves separated yet held in a precarious and enduring balance.</p>
 
 </details>
 
-<details>
-<summary><strong>Toiy</strong> — Eternal of Probability, Destiny, and Chance</summary>
+<details id="saint-eccles">
+<summary><strong>Saint Eccles</strong> — Ascendant of the Open Road and Safe Passage</summary>
 
-<p>Toiy governs probability, destiny, and the vast shifting forces of 
-chance. Toiy is the patron of the Ascendant <strong>Bran</strong>. 
-The faithful of Toiy are said to be as unpredictable as their patron's 
-domain.</p>
+<p>Saint Eccles is patron of travelers, explorers, and all who journey — one of the few
+Ascendants remembered by the same name they carried in life, because that name was already
+revered across much of the known world before his ascension ever came.</p>
+
+<p>Sir Valory Eccles spent decades traveling the roads of Orb in service of anyone he
+encountered along them — brokering peace between feuding rulers, defending caravans, guiding
+refugees, and performing countless smaller kindnesses that outlasted any single grand deed in
+the retelling. Solana recognized him as one of her Chosen, and during the Rite of Hallowing in
+Halinaar City he was proclaimed a living saint. He continued his travels for decades more
+before retiring to record his journals and maps, and died peacefully at an age seldom reached
+by humans. Solana welcomed him into the ranks of the Ascendants, and the title he'd already
+earned simply endured.</p>
+
+<p>Devotion to Saint Eccles is organized loosely around a faith of clerics, paladins, and
+scholars who see service to travelers as the whole of their calling — healing the sick,
+feeding the hungry, sheltering anyone in need, and preserving the record of the roads and
+peoples they encounter along the way.</p>
+
+<p><strong>Symbol:</strong> A lit lantern superimposed on Solana's rising sun, its elongated
+southern ray representing the road stretching ever onward beyond the horizon.</p>
 
 </details>
 

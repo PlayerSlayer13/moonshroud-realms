@@ -21,7 +21,7 @@ const CAMPAIGN_MONTH_NAMES = [
 
 const CAMPAIGN_DATE = {
   year:  700,
-  month: 9,    // 0-indexed — Frostwatch
+  month: 9,    // 0-indexed - Frostwatch
   day:   4
 };
 

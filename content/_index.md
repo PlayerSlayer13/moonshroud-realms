@@ -8,7 +8,7 @@ type: docs
      style="width:100%; max-width:600px; height:auto; display:block; margin:0 auto 2rem auto;">
 
 <div style="text-align:center; margin: 0 auto 2rem auto;">
-<script src="/js/campaign-date.js"></script>
+<script src="/js/campaign-date.js?v=700-9-4"></script>
 <script>
 document.write(
   '<a href="/calendar.html" style="display:inline-block; padding: 12px 32px; ' +

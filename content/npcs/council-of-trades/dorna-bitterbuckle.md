@@ -5,7 +5,7 @@ weight: 2
 
 # Dorna Bitterbuckle
 
-*First encountered: The Strangled Goat, Frostwatch Day 3, 700AG*  
+*First encountered: The Strangled Goat, Frostwatch Day 3, 700AR*  
 *Usually found: Dockworkers' Guildhall*
 
 ---

@@ -26,4 +26,4 @@ const CAMPAIGN_DATE = {
 };
 
 // Derived label — do not edit this line
-CAMPAIGN_DATE.label = CAMPAIGN_MONTH_NAMES[CAMPAIGN_DATE.month] + ", Day " + CAMPAIGN_DATE.day + ", " + CAMPAIGN_DATE.year + "AG";
+CAMPAIGN_DATE.label = CAMPAIGN_MONTH_NAMES[CAMPAIGN_DATE.month] + ", Day " + CAMPAIGN_DATE.day + ", " + CAMPAIGN_DATE.year + "AR";

@@ -4,7 +4,7 @@ weight: 3
 ---
 
 # Session 02 — A Locked Door Nobody Asked For, and the First Real Certification Failure
-*Harvestide, Day 23, Year 700AG — continued*
+*Harvestide, Day 23, Year 700AR — continued*
 
 ---
 
@@ -78,7 +78,7 @@ Night wound down. In the morning, it was Guild business.
 
 ---
 
-*Harvestide, Day 24, Year 700AG*
+*Harvestide, Day 24, Year 700AR*
 
 ## Certification Day
 

@@ -5,7 +5,7 @@ weight: 6
 
 # Rella Coppins
 
-*First encountered: Copper Lane, Frostwatch Day 3, 700AG*  
+*First encountered: Copper Lane, Frostwatch Day 3, 700AR*  
 *Usually found: Copper Lane*
 
 ---

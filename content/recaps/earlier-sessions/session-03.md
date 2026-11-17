@@ -4,7 +4,7 @@ weight: 4
 ---
 
 # Session 03 — The Sinking Road, The Chalk Marks, and a Question Dorna Didn't Want to Answer
-*Frostwatch, Day 3, Year 700AG*
+*Frostwatch, Day 3, Year 700AR*
 
 ---
 

@@ -4,7 +4,7 @@ weight: 6
 ---
 
 # Session 05 — A Door in the Dark, a Name Given Away, and the Reason Fernoir Built a Wall
-*Frostwatch, Day 4, Year 700AG — continued*
+*Frostwatch, Day 4, Year 700AR — continued*
 
 ---
 

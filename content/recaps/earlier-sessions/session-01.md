@@ -5,7 +5,7 @@ date: 2026-04-25
 ---
 
 # Session 01 — The Stranger at the Fountain
-*Harvestide, Day 23, Year 700AG*
+*Harvestide, Day 23, Year 700AR*
 
 ---
 

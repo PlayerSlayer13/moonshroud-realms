@@ -5,7 +5,7 @@ weight: 6.5
 
 # Thistle
 
-*First encountered: A junction chamber in the lower sewers beneath Bridgeport, Frostwatch Day 4, 700AG*  
+*First encountered: A junction chamber in the lower sewers beneath Bridgeport, Frostwatch Day 4, 700AR*  
 *Usually found: Unknown — encountered once, deep beneath the city*
 
 ---

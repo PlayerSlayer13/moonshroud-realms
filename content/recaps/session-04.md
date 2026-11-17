@@ -4,7 +4,7 @@ weight: 5
 ---
 
 # Session 04 — A Backwards Map, a River of Rats, and Something That Deflates When You Kill It
-*Frostwatch, Day 4, Year 700AG*
+*Frostwatch, Day 4, Year 700AR*
 
 ---
 

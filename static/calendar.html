@@ -407,9 +407,10 @@ const yearEvents = {
     {month:8,day:23,type:"campaign",label:"A Pre-Algari Discovery",desc:"In the wererat Rask's hideout, the party recovers a fragmentary parchment and an engraved copper disc — both centuries old, bearing a design that matches nothing in current use.",recap:"/recaps/session-015/"},
     {month:8,day:24,type:"campaign",label:"Guild Certification Day",desc:"The party sits for Adventurers' Guild certification at the Bridgeport chapter house. Three pass cleanly; one falls short and will need a retest.",recap:"/recaps/session-02/"},
     {month:8,day:28,type:"lunar",label:"Partial Solar Eclipse",desc:"Krotar slightly dimmed at midday. Most civilians won't notice. Scholars and attentive observers will. The Circle of Seven Moons logged it as the trailing edge of the Harvestide eclipse season.",recap:null},
-    {month:3,day:24,type:"lunar",label:"Supertide",desc:"Second supertide of 700AG. Balina aligns with Lustre. Coastal flooding possible.",recap:null},
-    {month:9,day:3,type:"campaign",label:"First Guild Contract",desc:"With her certification retest behind her, Bo-Bo is fully credentialed. The party accepts its first Guild-sanctioned assignment — a structural survey commissioned by Dorna Bitterbuckle.",recap:"/recaps/session-03/"},
-    {month:9,day:4,type:"campaign",label:"The Weak Spot",desc:"Deep in the lower sewers, the party learns of a secretive organization called the Fernoir and is shown a way through one of their sealed boundaries.",recap:"/recaps/session-05/"}
+    {month:3,day:24,type:"lunar",label:"Supertide",desc:"Second supertide of 700AR. Balina aligns with Lustre. Coastal flooding possible.",recap:null},
+    {month:9,day:3,type:"campaign",label:"First Guild Contract",desc:"With her certification retest behind her, Bo-Bo is fully credentialed. The party accepts its first Guild-sanctioned assignment — a structural survey commissioned by Dorna Bitterbuckle.",recap:"/recaps/earlier-sessions/session-03/"},
+    {month:9,day:4,type:"campaign",label:"The Weak Spot",desc:"Deep in the lower sewers, the party learns of a secretive organization called the Fernoir and is shown a way through one of their sealed boundaries.",recap:"/recaps/session-05/"},
+    {month:9,day:4,type:"campaign",label:"A Courier in the Crossing",desc:"Beyond the weak spot, the party finds maintained, lantern-lit tunnels and ambushes a courier carrying a chest of moonstone jewelry in the symbol of Noctis. A key from his body opens the way back up to the sewers, but not before an armed group in the restricted corridors offers to escort them out.",recap:"/recaps/session-06/"}
   ],
   701: [
     {month:1,day:14,type:"lunar",label:"Partial Lunar Eclipse",desc:"Lustre partially shadowed at full. Silver coastlines dim on one side — the bite-from-the-moon effect coastal peoples consider an ill omen.",recap:null},
@@ -441,7 +442,7 @@ function render() {
 
   const yearSel = document.getElementById('yearSelect');
   yearSel.innerHTML = years.map(y =>
-    `<option value="${y}"${y===currentYear?' selected':''}>${y}AG</option>`
+    `<option value="${y}"${y===currentYear?' selected':''}>${y}AR</option>`
   ).join('');
 
   const monthSel = document.getElementById('monthSelect');

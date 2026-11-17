@@ -44,7 +44,7 @@ if (-not $Year) {
   }
 }
 
-Write-Host "Setting campaign date to: $MonthName, Day $Day, ${Year}AG" -ForegroundColor Cyan
+Write-Host "Setting campaign date to: $MonthName, Day $Day, ${Year}AR" -ForegroundColor Cyan
 
 # --- 1. Update campaign-date.js (the single source of truth) ---
 $content = Get-Content $dateFile -Raw
@@ -70,7 +70,7 @@ Read-Host "`nPress Enter to commit and push both repos, or Ctrl+C to abort"
 
 # --- 4. Commit and push the public repo ---
 git add $dateFile $calFile $indexFile
-git commit -m "Update campaign date to $MonthName Day $Day, ${Year}AG"
+git commit -m "Update campaign date to $MonthName Day $Day, ${Year}AR"
 git push
 
 # --- 5. Sync the GM assembly repo's submodule pointer ---
@@ -81,4 +81,4 @@ git add main-site
 git commit -m "Update main-site submodule to latest (date sync)"
 git push
 
-Write-Host "`nDone. Both sites should reflect $MonthName Day $Day, ${Year}AG once Actions finishes building." -ForegroundColor Green
+Write-Host "`nDone. Both sites should reflect $MonthName Day $Day, ${Year}AR once Actions finishes building." -ForegroundColor Green

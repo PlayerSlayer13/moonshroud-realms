@@ -1,4 +1,4 @@
-<#
+﻿<#
   Updates the campaign date across playerslayer.net and syncs the
   GM reference site to match. Run this after each session.
 
@@ -49,7 +49,7 @@ Write-Host "Setting campaign date to: $MonthName, Day $Day, ${Year}AR" -Foregrou
 # --- 1. Update campaign-date.js (the single source of truth) ---
 $content = Get-Content $dateFile -Raw
 $content = $content -replace 'year:\s*\d+,', "year:  $Year,"
-$content = $content -replace 'month:\s*\d+,\s*//[^\r\n]*', "month: $monthIndex,    // 0-indexed — $MonthName"
+$content = $content -replace 'month:\s*\d+,\s*//[^\r\n]*', "month: $monthIndex,    // 0-indexed - $MonthName"
 $content = $content -replace 'day:\s*\d+', "day:   $Day"
 Set-Content $dateFile $content -NoNewline
 

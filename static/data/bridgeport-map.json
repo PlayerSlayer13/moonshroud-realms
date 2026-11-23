@@ -1,0 +1,1100 @@
+{
+ "image": "/images/maps/bridgeport-city-full.webp",
+ "width": 10200,
+ "height": 6600,
+ "locations": [
+  {
+   "id": "saltstone-square",
+   "name": "Saltstone Square",
+   "blurb": "The civic and social heart of the southern district",
+   "url": "/world/saltstone-square/",
+   "category": "district",
+   "x": 3344,
+   "y": 4552,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "the-racket",
+   "name": "The Racket",
+   "blurb": "A crowded, close-knit working district",
+   "url": "/world/bridgeport-locations/#the-racket",
+   "category": "district",
+   "x": 1936,
+   "y": 5361,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "freegate",
+   "name": "Freegate",
+   "blurb": "The southern gate into the city",
+   "url": "/world/bridgeport-locations/#freegate",
+   "category": "gate",
+   "x": 3910,
+   "y": 6412,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "drydock-quay",
+   "name": "Drydock Quay",
+   "blurb": "The Inner Harbor's salvage and repair yards",
+   "url": "/world/bridgeport-locations/#drydock-quay",
+   "category": "harbor",
+   "x": 1893,
+   "y": 2597,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "seaglass-tower",
+   "name": "Seaglass Tower",
+   "blurb": "The militia's harbor watchpoint",
+   "url": "/world/bridgeport-locations/#seaglass-tower",
+   "category": "landmark",
+   "x": 478,
+   "y": 2899,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "riverbend-mills",
+   "name": "Riverbend Mills",
+   "blurb": "The city's milling and lumber works",
+   "url": "/world/bridgeport-locations/#riverbend-mills",
+   "category": "trade",
+   "x": 1377,
+   "y": 1413,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "northwood-stands",
+   "name": "Northwood Stands",
+   "blurb": "The woodland bordering the city's northern edge",
+   "url": "/world/bridgeport-locations/#northwood-stands",
+   "category": "landmark",
+   "x": 2314,
+   "y": 370,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "seaward-span",
+   "name": "Seaward Span",
+   "blurb": "The western bridge across the Godsfall",
+   "url": "/world/bridgeport-locations/#seaward-span",
+   "category": "bridge",
+   "x": 3868,
+   "y": 3463,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "fort-royal",
+   "name": "Fort Royal",
+   "blurb": "The Crown's garrison",
+   "url": "/world/bridgeport-locations/#fort-royal",
+   "category": "landmark",
+   "x": 1018,
+   "y": 5870,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "ledger-house",
+   "name": "Ledger House",
+   "blurb": "A private mercantile club and counting house",
+   "url": "/world/bridgeport-locations/#ledger-house",
+   "category": "guild",
+   "x": 7154,
+   "y": 4842,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "eastgate",
+   "name": "Eastgate",
+   "blurb": "The eastern approach into southern Bridgeport",
+   "url": "/world/bridgeport-locations/#eastgate",
+   "category": "gate",
+   "x": 9150,
+   "y": 4720,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "bilfloom-tower",
+   "name": "Bilfloom Tower",
+   "blurb": "A mage's tower and observatory overlooking eastern Bridgeport",
+   "url": "/world/bridgeport-locations/#bilfloom-tower",
+   "category": "landmark",
+   "x": 8856,
+   "y": 6204,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "godsfall-necropolis",
+   "name": "Godsfall Necropolis",
+   "blurb": "A self-contained city of the dead",
+   "url": "/world/bridgeport-locations/#godsfall-necropolis",
+   "category": "landmark",
+   "x": 6669,
+   "y": 4957,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "rivergate-market",
+   "name": "Rivergate Market",
+   "blurb": "Bridgeport's busiest public market",
+   "url": "/world/bridgeport-locations/#rivergate-market",
+   "category": "market",
+   "x": 5388,
+   "y": 3969,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "moonwillow-bazaar",
+   "name": "Moonwillow Bazaar",
+   "blurb": "A refined market for a wealthier clientele",
+   "url": "/world/bridgeport-locations/#moonwillow-bazaar",
+   "category": "market",
+   "x": 8872,
+   "y": 1754,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "moonwillow-gate",
+   "name": "Moonwillow Gate",
+   "blurb": "The northeastern entrance into Bridgeport",
+   "url": "/world/bridgeport-locations/#moonwillow-gate",
+   "category": "gate",
+   "x": 9424,
+   "y": 1265,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "eastreach-bridge",
+   "name": "Eastreach Bridge",
+   "blurb": "The twin spans linking Bridgeport's northern and southern districts",
+   "url": "/world/bridgeport-locations/#eastreach-bridge",
+   "category": "bridge",
+   "x": 8590,
+   "y": 2330,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "stirge-island",
+   "name": "Stirge Island",
+   "blurb": "A tree-lined park between the Twins' two spans",
+   "url": "/world/bridgeport-locations/#stirge-island",
+   "category": "landmark",
+   "x": 8867,
+   "y": 2768,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "sleepy-stag-tavern",
+   "name": "Sleepy Stag Tavern",
+   "blurb": "A refined inn near Moonwillow Gate",
+   "url": "/world/bridgeport-locations/#sleepy-stag-tavern",
+   "category": "inn",
+   "x": 8925,
+   "y": 1414,
+   "approx": true,
+   "onMap": true
+  },
+  {
+   "id": "riverview-inn",
+   "name": "Riverview Inn",
+   "blurb": "A lively riverside inn favored by rivermen and travelers",
+   "url": "/world/bridgeport-locations/#riverview-inn",
+   "category": "inn",
+   "x": 6384,
+   "y": 2094,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "dancing-ghoul-inn",
+   "name": "Dancing Ghoul Inn",
+   "blurb": "A welcoming inn near the necropolis, despite its name",
+   "url": "/world/bridgeport-locations/#dancing-ghoul-inn",
+   "category": "inn",
+   "x": 6170,
+   "y": 4571,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "bridgeport-stockyards",
+   "name": "Bridgeport Stockyards",
+   "blurb": "The city's livestock trade and holding grounds",
+   "url": "/world/bridgeport-locations/#bridgeport-stockyards",
+   "category": "trade",
+   "x": 7200,
+   "y": 3890,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "smiths-consortium",
+   "name": "Smiths', Armorers' & Metalworkers' Consortium",
+   "blurb": "The guildhall of the city's metalworking trades",
+   "url": "/world/bridgeport-locations/#smiths-consortium",
+   "category": "guild",
+   "x": 8330,
+   "y": 1106,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "shellcana-botanical-garden",
+   "name": "Shellcana Botanical Garden",
+   "blurb": "An herbalist's garden and greenhouse near Moonwillow Creek",
+   "url": "/world/bridgeport-locations/#shellcana-botanical-garden",
+   "category": "landmark",
+   "x": 9222,
+   "y": 1361,
+   "approx": true,
+   "onMap": true
+  },
+  {
+   "id": "elderland-society-of-explorers",
+   "name": "Elderland Society of Explorers",
+   "blurb": "A scholarly academy, museum, and research institute",
+   "url": "/world/bridgeport-locations/#elderland-society-of-explorers",
+   "category": "guild",
+   "x": 6479,
+   "y": 942,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "grand-exchange",
+   "name": "Grand Exchange",
+   "blurb": "The economic heart of the Freehold",
+   "url": "/world/bridgeport-locations/#grand-exchange",
+   "category": "guild",
+   "x": 6096,
+   "y": 3864,
+   "approx": true,
+   "onMap": true
+  },
+  {
+   "id": "thatchers-circle",
+   "name": "Thatchers', Roofers' & Masons' Circle",
+   "blurb": "The guild overseeing Bridgeport's construction trades",
+   "url": "/world/bridgeport-locations/#thatchers-circle",
+   "category": "guild",
+   "x": 8772,
+   "y": 3939,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "loggers-cooperative",
+   "name": "Loggers' & Timberfell Cooperative",
+   "blurb": "The guildhall governing Bridgeport's timber trade",
+   "url": "/world/bridgeport-locations/#loggers-cooperative",
+   "category": "guild",
+   "x": 9314,
+   "y": 4060,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "temple-of-radiant-light",
+   "name": "Temple of Radiant Light",
+   "blurb": "The largest and most respected temple in the city, devoted to Aard",
+   "url": "/world/faith/temple-of-radiant-light/",
+   "category": "temple",
+   "x": 4576,
+   "y": 5223,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "temple-of-the-verdant-court",
+   "name": "Temple of the Verdant Court",
+   "blurb": "Grey granite spires and rose windows on the northern edge, devoted to Charr",
+   "url": "/world/faith/temple-of-the-verdant-court/",
+   "category": "temple",
+   "x": 6550,
+   "y": 1388,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "umbral-house",
+   "name": "Umbral House",
+   "blurb": "A slate-roofed shrine to Noctis on the northern outskirts",
+   "url": "/world/faith/umbral-house/",
+   "category": "temple",
+   "x": 3975,
+   "y": 1000,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "shrine-of-the-iron-oath",
+   "name": "Shrine of the Iron Oath",
+   "blurb": "Where oaths, accords and contract disputes are bound, devoted to Kelleth",
+   "url": "/world/faith/shrine-of-the-iron-oath/",
+   "category": "temple",
+   "x": 4633,
+   "y": 1865,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "brass-axiom",
+   "name": "The Brass Axiom",
+   "blurb": "An austere pale-stone temple of Absot near the center of old Bridgeport",
+   "url": "/world/faith/brass-axiom/",
+   "category": "temple",
+   "x": 5746,
+   "y": 4519,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "temple-of-veyruun",
+   "name": "Temple of Veyruun",
+   "blurb": "A temple that doubles as the city's trusted bank and treasury",
+   "url": "/world/faith/temple-of-veyruun/",
+   "category": "temple",
+   "x": 7192,
+   "y": 4547,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "shrine-of-the-golden-harvest",
+   "name": "Shrine of the Golden Harvest",
+   "blurb": "A gilded hillock shrine to Barrowen Tallgrain in eastern Bridgeport",
+   "url": "/world/faith/shrine-of-the-golden-harvest/",
+   "category": "temple",
+   "x": 9434,
+   "y": 5841,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "bastion-of-valor",
+   "name": "Bastion of Valor",
+   "blurb": "A walled grey-stone temple of Sartr in eastern Bridgeport",
+   "url": "/world/faith/bastion-of-valor/",
+   "category": "temple",
+   "x": 8365,
+   "y": 4440,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "strangled-goat",
+   "name": "Strangled Goat",
+   "blurb": "The Strangled Goat is the unofficial headquarters of Bridgeport’s adventuring community.",
+   "url": "/world/saltstone-square/#the-strangled-goat-tavern",
+   "category": "inn",
+   "x": 3235,
+   "y": 4457,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "royal-prince-inn",
+   "name": "Royal Prince Inn",
+   "blurb": "The most expensive and discreet of the square's three public houses",
+   "url": "/world/saltstone-square/#the-royal-prince-inn",
+   "category": "inn",
+   "approx": false,
+   "onMap": true,
+   "x": 3389,
+   "y": 4435
+  },
+  {
+   "id": "dragonline-lodge",
+   "name": "Dragonline Lodge",
+   "blurb": "A comfortable mid-priced lodge with the best kitchen in the square",
+   "url": "/world/saltstone-square/#the-dragonline-lodge",
+   "category": "inn",
+   "approx": false,
+   "onMap": true,
+   "x": 3195,
+   "y": 4643
+  },
+  {
+   "id": "saltstone-militia-post",
+   "name": "Militia Post",
+   "blurb": "A small militia outpost watching over Saltstone Square",
+   "url": "/world/saltstone-square/#the-militia-post",
+   "category": "landmark",
+   "approx": false,
+   "onMap": true,
+   "x": 3335,
+   "y": 4621
+  },
+  {
+   "id": "royal-adventuring-society-chapterhouse",
+   "name": "Royal Adventuring Society Chapterhouse",
+   "blurb": "The Society's disciplined chapterhouse in Bridgeport",
+   "url": "/factions/royal-adventuring-society/#in-bridgeport",
+   "category": "guild",
+   "approx": false,
+   "onMap": true,
+   "x": 2610,
+   "y": 5804
+  },
+  {
+   "id": "adventurers-guild-hall",
+   "name": "Adventurer's Guild Hall",
+   "blurb": "Bridgeport's well-established Adventurer's Guild chapter",
+   "url": "/factions/adventurers-guild/",
+   "category": "guild",
+   "approx": false,
+   "onMap": true,
+   "x": 4164,
+   "y": 4849
+  },
+  {
+   "id": "council-hall",
+   "name": "Council of Trades",
+   "blurb": "The formal seat of the Council of Trades in western Bridgeport",
+   "url": "/factions/council-of-trades/",
+   "category": "guild",
+   "approx": false,
+   "onMap": true,
+   "x": 2550,
+   "y": 5427
+  },
+  {
+   "id": "ashwell-s-warehouse",
+   "name": "Ashwell's Warehouse",
+   "blurb": "",
+   "url": "",
+   "category": "harbor",
+   "x": 2590,
+   "y": 4794,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "mercer-st-vault",
+   "name": "Mercer St Vault",
+   "blurb": "",
+   "url": "",
+   "category": "trade",
+   "x": 3042,
+   "y": 4530,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "goldmason-building",
+   "name": "Goldmason Building",
+   "blurb": "",
+   "url": "",
+   "category": "trade",
+   "x": 3037,
+   "y": 5094,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "bridgeport-library",
+   "name": "Bridgeport Library",
+   "blurb": "",
+   "url": "",
+   "category": "landmark",
+   "x": 4914,
+   "y": 4873,
+   "approx": false,
+   "onMap": true
+  }
+ ],
+ "streets": [
+  {
+   "id": "queensway-avenue",
+   "name": "Queensway Avenue",
+   "blurb": "Bridgeport's principal north-south boulevard, crossing the Seaward Span",
+   "url": "/world/bridgeport-locations/#queensway-avenue",
+   "line": [
+    [
+     3907,
+     6600
+    ],
+    [
+     3907,
+     5640
+    ],
+    [
+     3898,
+     4510
+    ],
+    [
+     3868,
+     3463
+    ],
+    [
+     3835,
+     2740
+    ],
+    [
+     3835,
+     1610
+    ],
+    [
+     3840,
+     0
+    ]
+   ],
+   "label": [
+    3905,
+    5160
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "mill-road",
+   "name": "Mill Road",
+   "blurb": "The city's primary industrial thoroughfare along the south riverfront",
+   "url": "/world/bridgeport-locations/#mill-road",
+   "line": [
+    [
+     2267,
+     4222
+    ],
+    [
+     3967,
+     4080
+    ],
+    [
+     4647,
+     3967
+    ],
+    [
+     5667,
+     3740
+    ],
+    [
+     6800,
+     3610
+    ],
+    [
+     8387,
+     3580
+    ],
+    [
+     8900,
+     3760
+    ],
+    [
+     9500,
+     3800
+    ],
+    [
+     10200,
+     3790
+    ]
+   ],
+   "label": [
+    9575,
+    3748
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "river-way",
+   "name": "River Way",
+   "blurb": "The packed wagon road running upstream from Eastgate along the south bank",
+   "url": "/world/bridgeport-locations/#eastgate",
+   "line": [
+    [
+     9150,
+     4720
+    ],
+    [
+     9700,
+     4730
+    ],
+    [
+     10200,
+     4745
+    ]
+   ],
+   "label": [
+    8106,
+    4724
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "holders-road",
+   "name": "Holders Road",
+   "blurb": "The road along the river's north bank, entering the city at Moonwillow Gate",
+   "url": "/world/bridgeport-locations/#moonwillow-gate",
+   "line": [
+    [
+     9424,
+     1265
+    ],
+    [
+     9800,
+     1272
+    ],
+    [
+     10200,
+     1275
+    ]
+   ],
+   "label": [
+    8905,
+    1275
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "river-way-2",
+   "name": "River Way",
+   "label": [
+    5589,
+    4709
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "queensway-avenue-2",
+   "name": "Queensway Avenue",
+   "label": [
+    3796,
+    2006
+   ],
+   "rot": -91,
+   "size": 35
+  },
+  {
+   "id": "copper-lane",
+   "name": "Copper Ln",
+   "label": [
+    2835,
+    4300
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "mill-road-2",
+   "name": "Mill Road",
+   "label": [
+    7123,
+    3637
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "mill-road-3",
+   "name": "Mill Road",
+   "label": [
+    5299,
+    3852
+   ],
+   "rot": -13,
+   "size": 35
+  },
+  {
+   "id": "river-way-3",
+   "name": "River Way",
+   "label": [
+    3316,
+    4709
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "mercer-street",
+   "name": "Mercer St",
+   "label": [
+    3120,
+    5912
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "saltstone-street",
+   "name": "Saltstone St",
+   "label": [
+    3520,
+    5884
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "brewer-s-way",
+   "name": "Brewers' Way",
+   "label": [
+    3475,
+    5173
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "brewer-s-way-2",
+   "name": "Brewers' Way",
+   "label": [
+    5664,
+    5177
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "brewer-s-way-3",
+   "name": "Brewers' Way",
+   "label": [
+    8103,
+    5202
+   ],
+   "rot": 1,
+   "size": 35
+  },
+  {
+   "id": "cartwright-way",
+   "name": "Cartwright Way",
+   "label": [
+    4241,
+    5668
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "cartwright-way-2",
+   "name": "Cartwright Way",
+   "label": [
+    6586,
+    5671
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "furrow-road",
+   "name": "Furrow Road",
+   "label": [
+    3354,
+    6134
+   ],
+   "rot": 0,
+   "size": 30
+  },
+  {
+   "id": "furrow-road-2",
+   "name": "Furrow Road",
+   "label": [
+    5395,
+    6145
+   ],
+   "rot": 0,
+   "size": 30
+  },
+  {
+   "id": "furrow-road-3",
+   "name": "Furrow Road",
+   "label": [
+    7040,
+    6165
+   ],
+   "rot": 0,
+   "size": 30
+  },
+  {
+   "id": "drovers-row",
+   "name": "Drovers' Row",
+   "label": [
+    6802,
+    4157
+   ],
+   "rot": 0,
+   "size": 35
+  },
+  {
+   "id": "muster-st",
+   "name": "Muster St",
+   "label": [
+    4372,
+    5912
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "scribes-st",
+   "name": "Scribes' St",
+   "label": [
+    4785,
+    5908
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "scribes-st-2",
+   "name": "Scribes' St",
+   "label": [
+    4776,
+    4942
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "muster-st-2",
+   "name": "Muster St",
+   "label": [
+    4376,
+    4918
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "saltstone-st",
+   "name": "Saltstone St",
+   "label": [
+    3520,
+    4933
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "mercer-st",
+   "name": "Mercer St",
+   "label": [
+    3111,
+    4923
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "charter-st",
+   "name": "Charter St",
+   "label": [
+    2669,
+    4914
+   ],
+   "rot": -90,
+   "size": 40
+  },
+  {
+   "id": "chandler-st",
+   "name": "Chandler St",
+   "label": [
+    5237,
+    5930
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "chandler-st-2",
+   "name": "Chandler St",
+   "label": [
+    5234,
+    4948
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "axiom-st",
+   "name": "Axiom St",
+   "label": [
+    5594,
+    5939
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "axiom-st-2",
+   "name": "Axiom St",
+   "label": [
+    5560,
+    4965
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "measure-st",
+   "name": "Measure St",
+   "label": [
+    5906,
+    5422
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "measure-st-2",
+   "name": "Measure St",
+   "label": [
+    5906,
+    4433
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "chapel-st",
+   "name": "Chapel St",
+   "label": [
+    6303,
+    5415
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "chapel-st-2",
+   "name": "Chapel St",
+   "label": [
+    6290,
+    4443
+   ],
+   "rot": -89,
+   "size": 35
+  },
+  {
+   "id": "lynchgate-ln",
+   "name": "Lynchgate Ln",
+   "label": [
+    6720,
+    5439
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "cypress-st",
+   "name": "Cypress St",
+   "label": [
+    7033,
+    5435
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "cypress-st-2",
+   "name": "Cypress St",
+   "label": [
+    7043,
+    4443
+   ],
+   "rot": -91,
+   "size": 35
+  },
+  {
+   "id": "ledger-st",
+   "name": "Ledger St",
+   "label": [
+    7454,
+    5462
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "ledger-st-2",
+   "name": "Ledger St",
+   "label": [
+    7434,
+    4430
+   ],
+   "rot": -90,
+   "size": 35
+  },
+  {
+   "id": "hogshead-st",
+   "name": "Hogshead St",
+   "label": [
+    7807,
+    5452
+   ],
+   "rot": -91,
+   "size": 30
+  },
+  {
+   "id": "hogshead-st-2",
+   "name": "Hogshead St",
+   "label": [
+    7804,
+    4447
+   ],
+   "rot": -91,
+   "size": 30
+  },
+  {
+   "id": "bastion-st",
+   "name": "Bastion St",
+   "label": [
+    8197,
+    4941
+   ],
+   "rot": -90,
+   "size": 30
+  },
+  {
+   "id": "the-loop",
+   "name": "The Loop",
+   "label": [
+    1806,
+    5839
+   ],
+   "rot": 14,
+   "size": 35
+  },
+  {
+   "id": "the-loop-2",
+   "name": "The Loop",
+   "label": [
+    2351,
+    5022
+   ],
+   "rot": 45,
+   "size": 35
+  },
+  {
+   "id": "the-loop-3",
+   "name": "Copper Ln",
+   "label": [
+    1418,
+    4888
+   ],
+   "rot": -40,
+   "size": 35
+  }
+ ]
+}

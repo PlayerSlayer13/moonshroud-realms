@@ -2,6 +2,10 @@
  "image": "/images/maps/wexford.webp",
  "width": 3300,
  "height": 4269,
+ "scale": {
+  "feetPerSquare": 50,
+  "pxPerSquare": 97.0
+ },
  "locations": [
   {
    "id": "bridgeport-road",

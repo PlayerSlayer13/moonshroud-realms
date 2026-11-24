@@ -11,7 +11,7 @@
    "category": "settlement",
    "x": 586,
    "y": 424,
-   "approx": true,
+   "approx": false,
    "onMap": true
   },
   {
@@ -42,8 +42,30 @@
    "blurb": "A walled Aelfaen woodland town at the heart of the Wexwood Forest, south of Bridgeport.",
    "url": "/world/wexford/",
    "category": "settlement",
-   "x": 642,
-   "y": 519,
+   "x": 666,
+   "y": 522,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "cairnellah",
+   "name": "Cairnellah",
+   "blurb": "A walled royal port on Godsfall Bay, with a castle in the northwest corner, a long line of docks, and an airship anchorage beneath an ancient dragon palace.",
+   "url": "/world/cairnellah/",
+   "category": "settlement",
+   "x": 422,
+   "y": 546,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "pistil-point",
+   "name": "Pistil Point",
+   "blurb": "A small walled fishing village on a peninsula between the Sea of Zephyrys and Nereth Bay, in the shadow of the Grand Preceptory of Saint Eccles.",
+   "url": "/world/pistil-point/",
+   "category": "settlement",
+   "x": 514,
+   "y": 811,
    "approx": false,
    "onMap": true
   },

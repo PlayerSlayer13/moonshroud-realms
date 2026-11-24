@@ -2,6 +2,10 @@
  "image": "/images/maps/cairnellah.webp",
  "width": 1991,
  "height": 2576,
+ "scale": {
+  "feetPerSquare": 75,
+  "pxPerSquare": 58.56
+ },
  "locations": [
   {
    "id": "cairn-castle",

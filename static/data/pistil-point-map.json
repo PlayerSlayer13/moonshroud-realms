@@ -2,6 +2,10 @@
  "image": "/images/maps/pistil-point.webp",
  "width": 1991,
  "height": 2576,
+ "scale": {
+  "feetPerSquare": 60,
+  "pxPerSquare": 58.56
+ },
  "locations": [
   {
    "id": "grand-preceptory",

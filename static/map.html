@@ -45,6 +45,8 @@
   .pin.approx { box-shadow:0 0 0 2px #ff4d4d; }
   .pin.sel { transform:translate(-50%,-50%) scale(1.7); box-shadow:0 0 0 2px var(--accent), 0 0 10px var(--accent); }
   .leaflet-tooltip.lbl { background:rgba(20,18,15,.82); color:#f4ecd8; border:0; box-shadow:none; font:11.5px Georgia,serif; padding:1px 5px; border-radius:3px; white-space:nowrap; }
+  .mapscale { background:rgba(20,18,15,.82); color:#f4ecd8; font:11.5px Georgia,serif; padding:3px 8px 4px; border-radius:3px; line-height:1.2; pointer-events:none; }
+  .mapscale .bar { height:6px; border:2px solid #f4ecd8; border-top:0; margin-top:3px; }
   .leaflet-tooltip.lbl::before { display:none; }
   .labels-off .leaflet-tooltip.lbl { display:none; }
   .labels-off .leaflet-tooltip.lbl.force { display:block; }
@@ -135,6 +137,25 @@
   const fit = map.getBoundsZoom(bounds, false);
   map.setMinZoom(fit - 0.5);
   map.fitBounds(bounds);
+
+  // ----- scale bar (replaces the baked-in grid on the player maps) -----
+  // JSON may carry  "scale": { "feetPerSquare": 50, "pxPerSquare": 97 }  (the legend value and the grid size in image pixels)
+  if (data.scale && data.scale.feetPerSquare && data.scale.pxPerSquare) {
+    const ftPerPx = data.scale.feetPerSquare / data.scale.pxPerSquare;
+    const STEPS = [5, 10, 20, 25, 50, 100, 200, 250, 500, 1000, 2000, 2640, 5280, 10560, 26400, 52800, 105600, 264000];
+    const sc = L.control({ position: 'bottomleft' });
+    sc.onAdd = function () { const d = L.DomUtil.create('div', 'mapscale'); d.innerHTML = '<span class="lab"></span><div class="bar"></div>'; return d; };
+    sc.addTo(map);
+    const updScale = () => {
+      const ppf = Math.pow(2, map.getZoom()) / ftPerPx;          // screen pixels per foot
+      const maxFt = 120 / ppf; let ft = STEPS[0];
+      for (const s of STEPS) { if (s <= maxFt) ft = s; }
+      const el = sc.getContainer();
+      el.querySelector('.bar').style.width = Math.round(ft * ppf) + 'px';
+      el.querySelector('.lab').textContent = ft >= 5280 ? (ft / 5280) + (ft === 5280 ? ' mile' : ' miles') : (ft === 2640 ? '½ mile' : ft + ' ft');
+    };
+    map.on('zoom zoomend', updScale); updScale();
+  }
 
   // ----- streets -----
   const streetLayer = L.layerGroup().addTo(map);

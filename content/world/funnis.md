@@ -19,7 +19,7 @@ community — self-sufficient, deliberate, and entirely on its own terms.
      alt="Funnis" 
      style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
 
-<p><a href="/map.html?map=funnis"><strong>Open the interactive map of Funnis &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/funnis-locations/">Browse all Funnis locations</a></p>
+<p><a href="/maps/funnis/"><strong>View the map of Funnis &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/funnis-locations/">Browse all Funnis locations</a></p>
 
 ## The People
 

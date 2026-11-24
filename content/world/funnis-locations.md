@@ -5,7 +5,7 @@ weight: 4
 
 # Funnis Locations
 
-The roads, halls, gates, and wild places in and around Funnis, in the order a traveler would meet them as they arrive from the road. Click any entry to expand it. Every place here is also a pin on the [interactive map of Funnis](/map.html?map=funnis), and each pin links back to its entry below. For the settlement as a whole, see the [Funnis](/world/funnis/) page.
+The roads, halls, gates, and wild places in and around Funnis, in the order a traveler would meet them as they arrive from the road. Click any entry to expand it. Every place here is also a pin on the [map of Funnis](/maps/funnis/), which opens into an interactive version, and each pin links back to its entry below. For the settlement as a whole, see the [Funnis](/world/funnis/) page.
 
 ---
 

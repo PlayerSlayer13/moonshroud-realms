@@ -17,3 +17,4 @@ Maps of the lands, cities, and locations the party has explored.
 - [Funnis]({{< relref "/maps/funnis" >}}) — Woodlands Ursinor settlement in the Whistle Woods
 - [Trellen Gap]({{< relref "/maps/trellen-gap" >}}) — Frontier hamlet in the Great Forest of Rhundel
 - [Cairnellah]({{< relref "/maps/cairnellah-town" >}}) — Walled royal port on Godsfall Bay
+- [Pistil Point]({{< relref "/maps/pistil-point" >}}) — Walled fishing village beneath the Grand Preceptory of Saint Eccles

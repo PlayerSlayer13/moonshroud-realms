@@ -1,6 +1,6 @@
 ---
 title: "Faith"
-weight: 14
+weight: 20
 bookCollapseSection: true
 ---
 

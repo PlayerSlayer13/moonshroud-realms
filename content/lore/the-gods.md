@@ -34,7 +34,7 @@ They are not gods in any conventional sense — they do not seek worship
 or demand prayer. They are elemental forces of cosmic scale that simply 
 are, and have always been.
 
-<details>
+<details id="cora">
 <summary><strong>Cora</strong> — Primordial of Water, Tides, and Enduring Depths</summary>
 
 <p>Cora is one of the five Primordials conceived by Spherus to govern 
@@ -164,7 +164,7 @@ largest structure in Dalraven, built as much for community gathering
 as for worship. On holy days it fills with hymns and ritual observance. 
 On ordinary evenings it serves as meeting hall, dance floor, and 
 communal refuge. Three Ascendants are honored in alcoves within: 
-Sivet the Hearthmother, Oleya Greenbriar, and Barrowen Tallgrain.</p>
+Sivet the Hearthmother, Olya Greenbriar, and Barrowen Tallgrain.</p>
 
 </details>
 
@@ -319,7 +319,7 @@ than comfort.</p>
 
 <details id="sivet"><summary><strong>Sivet the Hearthmother</strong> — Ascendant of Home, Hearth, and New Life</summary><p>Sivet is honored wherever families gather and new children arrive. Devotion is expressed through candles and woven cradle charms — small, domestic offerings that reflect her domain. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p></details>
 
-<details id="oleya"><summary><strong>Oleya Greenbriar</strong> — Ascendant of Growing Things</summary><p>Oleya is marked by potted herbs and climbing vines trained along trellises — a living symbol of her connection to cultivated growth and the quiet persistence of green things. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p></details>
+<details id="olya"><summary><strong>Olya Greenbriar</strong> — Ascendant of Growing Things</summary><p>Olya is marked by potted herbs and climbing vines trained along trellises — a living symbol of her connection to cultivated growth and the quiet persistence of green things. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>.</p></details>
 
 <details id="barrowen">
 <summary><strong>Barrowen Tallgrain</strong> — Ascendant of Harvest and Stewardship</summary>
@@ -332,7 +332,7 @@ doctrine. She is one of four Ascendants elevated under
 <p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "shrine-of-the-golden-harvest" >}}">The Shrine of the Golden Harvest</a>.</p>
 </details>
 
-<details>
+<details id="mollo">
 <summary><strong>Mollo</strong> — Ascendant of Hope, Warmth, and Night Vigil — the Lantern-Keeper</summary>
 
 <p>Mollo is known throughout the region as the 
@@ -366,7 +366,7 @@ to travelers that Wexford is there, and that someone is watching.</p>
 
 <details id="veyruun"><summary><strong>Veyruun</strong> — Ascendant of Prosperity, Trade, and Exchange</summary><p>Veyruun's domain is prosperity, enterprise, and the honest exchange that keeps wealth in motion rather than hoarded. Merchants, traders, and travelers across much of Elderland recognize the authority of Veyruun's clergy, whose systems of secured credit, currency exchange, and guarded vault storage are trusted well beyond Bridgeport itself. A contract witnessed under Veyruun's authority carries serious legal and social weight throughout Algar.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-veyruun" >}}">The Temple of Veyruun</a>, among the wealthiest institutions in the Freehold.</p></details>
 
-<details id="maelorra"><summary><strong>Maelorra</strong> — Ascendant of Fertility, Childbirth, and Generational Continuity</summary><p>Maelorra watches over fertility, childbirth, infancy, and the continuity that carries a family or a people forward across generations. Midwives and priestesses in her care oversee birthing suites and recovery chambers, where expectant parents seek blessings for safe delivery and healthy children. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>, alongside Sivet, Oleya, and Barrowen.</p></details>
+<details id="maelorra"><summary><strong>Maelorra</strong> — Ascendant of Fertility, Childbirth, and Generational Continuity</summary><p>Maelorra watches over fertility, childbirth, infancy, and the continuity that carries a family or a people forward across generations. Midwives and priestesses in her care oversee birthing suites and recovery chambers, where expectant parents seek blessings for safe delivery and healthy children. She is one of four Ascendants elevated under <strong>Charr</strong>.</p><p><strong>Temple in Bridgeport:</strong> <a href="{{< relref "temple-of-the-verdant-court" >}}">The Temple of the Verdant Court</a>, alongside Sivet, Olya, and Barrowen.</p></details>
 
 <details id="luaur">
 <summary><strong>Luaur</strong> — Ascendant of Light in Shadowed Places</summary>

@@ -16,3 +16,4 @@ Maps of the lands, cities, and locations the party has explored.
 - [Dalraven]({{< relref "dalraven-town" >}}) — Frontier town at the mouth of the Raven River
 - [Funnis]({{< relref "/maps/funnis" >}}) — Woodlands Ursinor settlement in the Whistle Woods
 - [Trellen Gap]({{< relref "/maps/trellen-gap" >}}) — Frontier hamlet in the Great Forest of Rhundel
+- [Cairnellah]({{< relref "/maps/cairnellah-town" >}}) — Walled royal port on Godsfall Bay

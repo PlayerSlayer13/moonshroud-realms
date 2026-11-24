@@ -1,0 +1,63 @@
+{
+ "image": "/images/maps/algar-regional.webp",
+ "width": 1275,
+ "height": 956,
+ "locations": [
+  {
+   "id": "bridgeport",
+   "name": "Bridgeport",
+   "blurb": "The Freehold city where the Godsfall River meets Godsfall Bay, and the party's home port.",
+   "url": "/world/bridgeport/",
+   "category": "settlement",
+   "x": 586,
+   "y": 424,
+   "approx": true,
+   "onMap": true
+  },
+  {
+   "id": "dalraven",
+   "name": "Dalraven",
+   "blurb": "A walled frontier town at the mouth of the Raven River on Godsfall Bay, north of Bridgeport.",
+   "url": "/world/dalraven/",
+   "category": "settlement",
+   "x": 373,
+   "y": 310,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "funnis",
+   "name": "Funnis",
+   "blurb": "A woodlands Ursinor settlement in the Whistle Woods, in the foothills below the Livingstone Mountains.",
+   "url": "/world/funnis/",
+   "category": "settlement",
+   "x": 764,
+   "y": 238,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "wexford",
+   "name": "Wexford",
+   "blurb": "A walled Aelfaen woodland town at the heart of the Wexwood Forest, south of Bridgeport.",
+   "url": "/world/wexford/",
+   "category": "settlement",
+   "x": 642,
+   "y": 519,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "trellen-gap",
+   "name": "Trellen Gap",
+   "blurb": "A palisaded frontier hamlet deep in the Great Forest of the Duchy of Rhundel, far to the east of this map.",
+   "url": "/world/trellen-gap/",
+   "category": "settlement",
+   "x": 0,
+   "y": 0,
+   "approx": false,
+   "onMap": false
+  }
+ ],
+ "streets": []
+}

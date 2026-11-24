@@ -5,7 +5,7 @@ weight: 5
 
 # Funnis Settlement Map
 
-A map of Funnis, the Woodlands Ursinor settlement in the Whispering Woods, with its palisade, the bridge over Clear Creek, and the sawmill to the south.
+A map of Funnis, the Woodlands Ursinor settlement in the Whistle Woods, with its palisade, the bridge over Clear Creek, and the sawmill to the south.
 
 <p><a href="/map.html?map=funnis"><strong>Open the interactive map &rarr;</strong></a> Pan and zoom, search for places, and jump straight to each location's entry.</p>
 

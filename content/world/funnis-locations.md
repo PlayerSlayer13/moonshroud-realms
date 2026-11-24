@@ -166,7 +166,7 @@ The roads, halls, gates, and wild places in and around Funnis, in the order a tr
 <details id="woods">
 <summary><strong>Woods</strong> — the forest around Funnis</summary>
 
-<p>The Whispering Woods cover the rolling uplands of the Sanctum Hills, a temperate forest shaped by wind, water, and long stewardship. Oak, beech, and duskwood dominate the lower reaches, their canopies dimming the forest floor over ferns, mosses, mushrooms, and hardy shrubs. Clear Creek and its tributaries cut winding ravines through the trees, feeding quiet pools and stony runs full of fish, frogs, and waterfowl. The name comes from the near-constant rustle of leaves and boughs, a sound that carries strangely and often unsettles newcomers.</p>
+<p>The Whistle Woods cover the rolling uplands of the Sanctum Hills, a temperate forest shaped by wind, water, and long stewardship. Oak, beech, and duskwood dominate the lower reaches, their canopies dimming the forest floor over ferns, mosses, mushrooms, and hardy shrubs. Clear Creek and its tributaries cut winding ravines through the trees, feeding quiet pools and stony runs full of fish, frogs, and waterfowl. The name comes from the near-constant rustle of leaves and boughs, a sound that carries strangely and often unsettles newcomers.</p>
 
 <p>On the northern slopes, where the land rises toward the Livingstone Mountains, pine begins to mix with the hardwoods, and the groves there are cooler, darker, and windier. Scattered through the forest are rare moonheart trees, a pale-green hardwood that carpenters and bowyers prize for its strength and resonance. The Ursinor manage them carefully and never fell one lightly, so fallen limbs are gathered far more often than trunks.</p>
 

@@ -10,7 +10,7 @@
     --bg:#1b1a17; --panel:#242220; --ink:#ece6d8; --muted:#a79f8e; --line:#3a3731; --accent:#d9a441;
     --c-district:#d9a441; --c-gate:#c9704a; --c-harbor:#4aa3c9; --c-landmark:#b57edc; --c-trade:#8fbf5a;
     --c-guild:#e0c15a; --c-market:#e08a5a; --c-inn:#d9708f; --c-bridge:#9aa7b5; --c-temple:#f2efe4; --c-other:#8c8c8c;
-    --c-civic:#b57edc; --c-farm:#8fbf5a; --c-home:#e0a070; --c-defense:#c9704a; --c-nature:#5fae7a;
+    --c-civic:#b57edc; --c-farm:#8fbf5a; --c-home:#e0a070; --c-defense:#c9704a; --c-nature:#5fae7a; --c-settlement:#e8b04a;
   }
   * { box-sizing:border-box; }
   html,body { height:100%; margin:0; background:var(--bg); color:var(--ink); font:15px/1.4 Georgia,'Times New Roman',serif; }
@@ -99,7 +99,7 @@
 <script src="/vendor/leaflet/leaflet.js"></script>
 <script>
 (async function () {
-  const CATS = { district:'District', gate:'Gate', harbor:'Harbor', landmark:'Landmark', trade:'Trade', guild:'Guildhall',
+  const CATS = { settlement:'Settlement', district:'District', gate:'Gate', harbor:'Harbor', landmark:'Landmark', trade:'Trade', guild:'Guildhall',
                  market:'Market', inn:'Inn / Lodging', bridge:'Bridge', temple:'Temple', other:'Other',
                  civic:'Halls & Governance', farm:'Farm & Stock', home:'Longhouses', defense:'Watch', nature:'Road & Woods' };
   // per-map defaults; any of these can also be set at the top of that map's JSON file
@@ -108,7 +108,8 @@
     funnis:     { title:'Funnis',     back:['/world/funnis/','About Funnis'], more:['/world/funnis-locations/','All locations'], elsewhere:'Elsewhere near Funnis' },
     dalraven:   { title:'Dalraven',   back:['/world/dalraven/','About Dalraven'], more:['/world/dalraven-locations/','All locations'], elsewhere:'Elsewhere near Dalraven' },
     wexford:    { title:'Wexford',    back:['/world/wexford/','About Wexford'], more:['/world/wexford-locations/','All locations'], elsewhere:'Elsewhere near Wexford' },
-    'trellen-gap': { title:'Trellen Gap', back:['/world/trellen-gap/','About Trellen Gap'], more:['/world/trellen-gap-locations/','All locations'], elsewhere:'Elsewhere near Trellen Gap' }
+    'trellen-gap': { title:'Trellen Gap', back:['/world/trellen-gap/','About Trellen Gap'], more:['/world/trellen-gap-locations/','All locations'], elsewhere:'Elsewhere near Trellen Gap' },
+    algar:      { title:"Algar's Central Coast", back:['/maps/algar-regional/','About this map'], more:['/world/','The World'], elsewhere:'Off this map' }
   };
   let MAPNAME = (new URLSearchParams(location.search).get('map') || 'bridgeport').toLowerCase();
   if (!/^[a-z0-9-]+$/.test(MAPNAME)) MAPNAME = 'bridgeport';

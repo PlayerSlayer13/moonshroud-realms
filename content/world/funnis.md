@@ -6,7 +6,7 @@ weight: 6
 # Funnis
 
 Funnis is a Woodlands Ursinor settlement roughly one hundred miles east 
-of Bridgeport, nestled deep within the **Whispering Woods** where the 
+of Bridgeport, nestled deep within the **Whistle Woods** where the 
 eastern reaches of the Sanctum Hills give way to the lower slopes of the 
 Livingstone Mountains. It sits on a low plateau overlooking **Clear 
 Creek**, a fast-flowing river that cuts through a shallow ravine before 
@@ -85,7 +85,7 @@ do not outrank Clan Speakers.
 
 ## The Forest
 
-The Whispering Woods that surround Funnis are old growth — dense, game-rich, 
+The Whistle Woods that surround Funnis are old growth — dense, game-rich, 
 and not entirely predictable. Deer, boar, wolves, giant owls, and the 
 occasional owlbear wander its paths. Deeper in, the forest grows 
 stranger. Giants are rumored in the Livingstone Mountains. The High Pass 

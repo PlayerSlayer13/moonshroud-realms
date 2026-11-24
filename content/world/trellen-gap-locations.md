@@ -7,7 +7,7 @@ weight: 11
 
 Notable sites within the hamlet of Trellen Gap, presented roughly in the order a traveler
 would encounter them moving from the roads into the settlement proper and out again into the
-forest beyond.
+forest beyond. Every place here is also a pin on the <a href="/maps/trellen-gap/">map of Trellen Gap</a>, which opens into an interactive version, and each pin links back to its entry below.
 
 <details id="riverside-road">
 <summary><strong>Riverside Road</strong> — the hamlet's southern trade artery</summary>

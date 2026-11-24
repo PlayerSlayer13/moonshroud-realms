@@ -10,6 +10,8 @@ Forest, Trellen Gap is a frontier hamlet of roughly one hundred fifty souls — 
 and halflings who have carved out a life in a natural corridor where two wooded ridges pull
 apart just enough to let a clearing, a few roads, and a settlement take hold.
 
+<p><a href="/maps/trellen-gap/"><strong>View the map of Trellen Gap &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/trellen-gap-locations/">Browse all Trellen Gap locations</a></p>
+
 ## The Great Forest
 
 The Great Forest itself is immense, running from the Camiain Hills in the north and east to

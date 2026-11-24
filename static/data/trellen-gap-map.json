@@ -1,0 +1,228 @@
+{
+ "image": "/images/maps/trellen-gap.webp",
+ "width": 2576,
+ "height": 2576,
+ "locations": [
+  {
+   "id": "riverside-road",
+   "name": "Riverside Road",
+   "blurb": "The hard-packed wagon road south through the Great Forest toward Riverside, following the Chasm River. Trellen Gap's main trade artery.",
+   "url": "/world/trellen-gap-locations/#riverside-road",
+   "category": "nature",
+   "x": 1936,
+   "y": 2401,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "watch-huts",
+   "name": "Watch Huts",
+   "blurb": "Seven small huts ringing the palisade, each manned by a single volunteer on rotation as an early warning. This pin marks one near the southern road.",
+   "url": "/world/trellen-gap-locations/#watch-huts",
+   "category": "defense",
+   "x": 1943,
+   "y": 2084,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "south-gate",
+   "name": "South Gate",
+   "blurb": "A wagon-wide opening in the palisade where Riverside Road enters, with no doors, only hardwood logs stacked ready to roll into place at night.",
+   "url": "/world/trellen-gap-locations/#south-gate",
+   "category": "gate",
+   "x": 1731,
+   "y": 1782,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "shrine-of-the-luminous-birch",
+   "name": "Shrine of the Luminous Birch",
+   "blurb": "The hamlet's only place of worship, built of pale stone from the aelfaen ruins, with a bell tower that rings for rites and alarms.",
+   "url": "/world/trellen-gap-locations/#shrine-of-the-luminous-birch",
+   "category": "temple",
+   "x": 1773,
+   "y": 1377,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "great-forest-sundry",
+   "name": "Great Forest Sundry",
+   "blurb": "The hamlet's outfitter, a two-story timber store selling rope, lantern oil, rations, bedrolls, tools, and replacement gear.",
+   "url": "/world/trellen-gap-locations/#great-forest-sundry",
+   "category": "trade",
+   "x": 1459,
+   "y": 1199,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "greenhook-exchange",
+   "name": "Greenhook Exchange",
+   "blurb": "A two-story timber hall near the Sundry that handles trade, contracts, and provisions for Trellen Gap.",
+   "url": "/world/trellen-gap-locations/#greenhook-exchange",
+   "category": "trade",
+   "x": 1374,
+   "y": 1363,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "clumsy-apple-inn",
+   "name": "Clumsy Apple Inn",
+   "blurb": "A sprawling L-shaped timber inn around a packed yard, with a large stable. The principal lodging and gathering place.",
+   "url": "/world/trellen-gap-locations/#clumsy-apple-inn",
+   "category": "inn",
+   "x": 1290,
+   "y": 1192,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "reeves-manor",
+   "name": "Reeve's Manor",
+   "blurb": "A well-kept timber residence on the main street where the reeve does the hamlet's governing from a front room that doubles as an office.",
+   "url": "/world/trellen-gap-locations/#reeves-manor",
+   "category": "civic",
+   "x": 1243,
+   "y": 1352,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "phoenix-forge",
+   "name": "Phoenix Forge",
+   "blurb": "One of the few stone buildings in the hamlet, a blocky smithy with a soot-dark chimney west of the Clumsy Apple's stable.",
+   "url": "/world/trellen-gap-locations/#phoenix-forge",
+   "category": "trade",
+   "x": 1144,
+   "y": 1187,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "muster-green",
+   "name": "Muster Green",
+   "blurb": "A park-like open space with a wagon turnaround, a stone-lined well, and a statue of one of the founders. The hamlet's gathering place.",
+   "url": "/world/trellen-gap-locations/#muster-green",
+   "category": "civic",
+   "x": 1279,
+   "y": 1736,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "fields-and-farming-cooperative",
+   "name": "Fields and Farming Cooperative",
+   "blurb": "The southern third of the hamlet: fields, barns, and outbuildings worked together by a cooperative of six to ten households.",
+   "url": "/world/trellen-gap-locations/#fields-and-farming-cooperative",
+   "category": "farm",
+   "x": 973,
+   "y": 1691,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "redgrove-millworks",
+   "name": "Redgrove Millworks",
+   "blurb": "The hamlet's largest private enterprise, centered on a tall wind-driven sawmill along the northern palisade.",
+   "url": "/world/trellen-gap-locations/#redgrove-millworks",
+   "category": "trade",
+   "x": 1027,
+   "y": 1113,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "path-gates",
+   "name": "Path Gates",
+   "blurb": "Four small openings in the palisade onto forest footpaths, used for daily hunting, fishing, and gathering. One is marked here.",
+   "url": "/world/trellen-gap-locations/#path-gates",
+   "category": "gate",
+   "x": 713,
+   "y": 1825,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "vaelis-thornebloom-s-hut",
+   "name": "Vaelis Thornebloom's Hut",
+   "blurb": "A low, moss-roofed hut beyond Ribbon Creek, reached by a fallen-trunk footbridge. Home of a druid of the Circle of the Seven Moons.",
+   "url": "/world/trellen-gap-locations/#vaelis-thornebloom-s-hut",
+   "category": "landmark",
+   "x": 209,
+   "y": 2318,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "west-gate",
+   "name": "West Gate",
+   "blurb": "The hamlet's link to the forest interior, where the Great Forest Trail meets the settlement. Used by hunters, woodcutters, and Crown patrols.",
+   "url": "/world/trellen-gap-locations/#west-gate",
+   "category": "gate",
+   "x": 682,
+   "y": 1456,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "great-forest-trail",
+   "name": "Great Forest Trail",
+   "blurb": "The Crown road west through the deep woods toward Rhundel, used by officials, patrols, and seasoned travelers.",
+   "url": "/world/trellen-gap-locations/#great-forest-trail",
+   "category": "nature",
+   "x": 175,
+   "y": 1677,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "north-gate",
+   "name": "North Gate",
+   "blurb": "Set in the palisade's northwest corner, the start of the Claydon Trail. The hamlet's busiest gate, with timber wagons passing constantly.",
+   "url": "/world/trellen-gap-locations/#north-gate",
+   "category": "gate",
+   "x": 825,
+   "y": 1049,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "claydon-trail",
+   "name": "Claydon Trail",
+   "blurb": "A rugged, lightly maintained northern road climbing through Claydon Pass into the Camiain Hills.",
+   "url": "/world/trellen-gap-locations/#claydon-trail",
+   "category": "nature",
+   "x": 243,
+   "y": 249,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "whitwood-timber-camp",
+   "name": "Whitwood Timber Camp",
+   "blurb": "A practical camp of tents, a firepit, and stacked logs along Cord Creek, the working heart of Duenna Whitwood's timber holdings.",
+   "url": "/world/trellen-gap-locations/#whitwood-timber-camp",
+   "category": "trade",
+   "x": 859,
+   "y": 350,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "aelthrane-ruins",
+   "name": "Aelthrane Ruins",
+   "blurb": "Moss-covered arches, broken foundations, and old wells of an ancient aelfaen settlement between Cord Creek and the Aelthrane River.",
+   "url": "/world/trellen-gap-locations/#aelthrane-ruins",
+   "category": "landmark",
+   "x": 1713,
+   "y": 427,
+   "approx": false,
+   "onMap": true
+  }
+ ],
+ "streets": []
+}

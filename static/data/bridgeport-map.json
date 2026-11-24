@@ -2,6 +2,10 @@
  "image": "/images/maps/bridgeport-city-full.webp",
  "width": 10200,
  "height": 6600,
+ "scale": {
+  "feetPerSquare": 100,
+  "pxPerSquare": 150.0
+ },
  "locations": [
   {
    "id": "saltstone-square",

@@ -2,6 +2,10 @@
  "image": "/images/maps/dalraven.webp",
  "width": 3300,
  "height": 2551,
+ "scale": {
+  "feetPerSquare": 40,
+  "pxPerSquare": 75.0
+ },
  "locations": [
   {
    "id": "highbreaker-road",

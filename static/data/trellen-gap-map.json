@@ -2,6 +2,10 @@
  "image": "/images/maps/trellen-gap.webp",
  "width": 2576,
  "height": 2576,
+ "scale": {
+  "feetPerSquare": 75,
+  "pxPerSquare": 85.87
+ },
  "locations": [
   {
    "id": "riverside-road",

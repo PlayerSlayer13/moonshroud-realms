@@ -1,0 +1,261 @@
+{
+ "image": "/images/maps/funnis.webp",
+ "width": 1991,
+ "height": 2576,
+ "locations": [
+  {
+   "id": "brackle-road",
+   "name": "Brackle Road",
+   "blurb": "Packed-dirt track that ties Funnis to the outside world. Wide enough for two wagons most of the way, it narrows in the hills and north of the village climbs into a foot-only trail toward the mountains.",
+   "url": "/world/funnis/#getting-there",
+   "category": "nature",
+   "x": 1840,
+   "y": 1497,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "funnis-bridge",
+   "name": "Funnis Bridge",
+   "blurb": "A plain-looking timber span over the ravine, built so well that loaded wagons cross at speed without a creak. It is the only road crossing, so all wheeled traffic passes under the sentries' eyes.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "bridge",
+   "x": 1567,
+   "y": 1937,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "wagon-yard",
+   "name": "Wagon Yard",
+   "blurb": "A broad stretch of firm, packed earth just across the bridge where carts turn, unload, or wait their turn to be looked over before the gate.",
+   "url": "",
+   "category": "trade",
+   "x": 1173,
+   "y": 1819,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "main-gate",
+   "name": "Main Gate",
+   "blurb": "Two-story timber gatehouse set in the palisade, with archers on a covered walkway above heavy double doors. One leaf usually stays open by day, and unfamiliar faces are challenged.",
+   "url": "",
+   "category": "gate",
+   "x": 1061,
+   "y": 1638,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "sawmill",
+   "name": "Sawmill",
+   "blurb": "A walled timber yard just outside the palisade, busy with stacked logs and planks around a tall windmill that powers the saws. A guild master directs the crews.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "trade",
+   "x": 937,
+   "y": 2106,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "wayhouse",
+   "name": "Wayhouse",
+   "blurb": "The settlement's front desk, just inside the gate. Visitors give their names and business here, and petitions and trade requests are logged and passed to the right body.",
+   "url": "/world/funnis/#the-people",
+   "category": "civic",
+   "x": 820,
+   "y": 1412,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "gate-lodge",
+   "name": "Gate Lodge",
+   "blurb": "Low, broad guest quarters near the gate with a big hearth and simple sleeping alcoves. Lodging is free but supervised, and the building is meant for welcome, not for lingering.",
+   "url": "",
+   "category": "inn",
+   "x": 766,
+   "y": 1634,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "first-voice-hall",
+   "name": "First Voice Hall",
+   "blurb": "Hall for weighty matters: formal delegations, announcements, and judgment when consensus fails elsewhere. A great carved seat on a dais stands for the First Voice's borrowed authority.",
+   "url": "",
+   "category": "civic",
+   "x": 853,
+   "y": 1243,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "market",
+   "name": "Market",
+   "blurb": "A communal exchange for extras rather than staples: fine woodwork, hides, charms, and curiosities. Trade is mostly barter, and activity rises and falls with the festival calendar.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "market",
+   "x": 883,
+   "y": 1103,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "council-lodge",
+   "name": "Council Lodge",
+   "blurb": "Where the six clan leaders meet in a circle of carved seats. No votes are taken; talk continues until agreement is reached, and the lodge often stands empty.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "civic",
+   "x": 704,
+   "y": 1062,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "trade-hall",
+   "name": "Trade Hall",
+   "blurb": "The public face of Funnis commerce, where guild agents and known merchants settle contracts, delivery schedules, and dues for timber, wool, and crafted goods.",
+   "url": "",
+   "category": "trade",
+   "x": 1052,
+   "y": 859,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "common-hall",
+   "name": "Common Hall",
+   "blurb": "The informal heart of the village, with long tables and open hearths for shared meals, feasts, and naming and harvest celebrations. Invited guests are a rare honor here.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "civic",
+   "x": 700,
+   "y": 828,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "barns-north",
+   "name": "Barns (north)",
+   "blurb": "Outlying barns and storehouses near the corrals, used for shearing, processing, and staging wool and goods awaiting trade.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "farm",
+   "x": 834,
+   "y": 404,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "barns-south",
+   "name": "Barns (south)",
+   "blurb": "Barns near the southern wall, part of the scattered storehouses used for staging goods and surplus away from the central stores.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "farm",
+   "x": 521,
+   "y": 1653,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "longhouses",
+   "name": "Longhouses",
+   "blurb": "The clan dwellings that anchor village life. Each of the six clans keeps at least one, and larger clans keep more for extended families and visiting kin.",
+   "url": "/world/funnis/#the-people",
+   "category": "home",
+   "x": 410,
+   "y": 1264,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "corrals",
+   "name": "Corrals",
+   "blurb": "Shared pens for the village sheep and goats, with weather shelters and separate gates for shearing and kidding. Chicken runs sit nearby, and herding duty rotates among the clans.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "farm",
+   "x": 458,
+   "y": 540,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "north-gate",
+   "name": "North Gate",
+   "blurb": "A lightly guarded working gate used by herders, hunters, foragers, and fishers. Rarely barred by day, it opens onto trail posts pointing to fields and river bends.",
+   "url": "",
+   "category": "gate",
+   "x": 1055,
+   "y": 468,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "watchtower-northeast",
+   "name": "Watchtower (northeast)",
+   "blurb": "An outlying timber platform watching the northern approaches and nearby fields, an early warning post for travelers, beasts, or bandits.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "defense",
+   "x": 1572,
+   "y": 90,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "watchtower-bridge",
+   "name": "Watchtower (bridge)",
+   "blurb": "The tower at the settlement end of the bridge. Its sentries can see down Brackle Road and into the ravine, and signal the Main Gate before anyone arrives.",
+   "url": "/world/funnis/#the-settlement",
+   "category": "defense",
+   "x": 1428,
+   "y": 1832,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "boat-launch",
+   "name": "Boat Launch",
+   "blurb": "Narrow stone-cut steps down the ravine to a calm reach of Clear Creek, where dugouts are kept for fishing and short trips. Outsiders rarely use the boats without an escort.",
+   "url": "",
+   "category": "harbor",
+   "x": 1454,
+   "y": 1352,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "woods-north",
+   "name": "Woods (north)",
+   "blurb": "Whispering Woods on the northern slopes, where pine begins to mix with the hardwoods as the land rises toward the Livingstone Mountains.",
+   "url": "/world/funnis/#the-forest",
+   "category": "nature",
+   "x": 822,
+   "y": 192,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "woods-southwest",
+   "name": "Woods (southwest)",
+   "blurb": "Old forest beyond Whistling Run, where oak and beech shade fern and fungus. Game is plentiful, but the deeper woods grow stranger.",
+   "url": "/world/funnis/#the-forest",
+   "category": "nature",
+   "x": 466,
+   "y": 2411,
+   "approx": false,
+   "onMap": true
+  },
+  {
+   "id": "woods-southeast",
+   "name": "Woods (southeast)",
+   "blurb": "Forest east of Clear Creek, crossed by quiet game trails. Bandits and smugglers sometimes try these paths to skirt the village, though few go unnoticed.",
+   "url": "/world/funnis/#the-forest",
+   "category": "nature",
+   "x": 1615,
+   "y": 2445,
+   "approx": false,
+   "onMap": true
+  }
+ ],
+ "streets": []
+}

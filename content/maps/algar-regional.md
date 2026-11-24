@@ -15,3 +15,5 @@ familiar to anyone who has grown up in this part of the world.
      alt="Regional map of Algar's central coast" 
      style="width:100%; height:auto; border-radius:4px;">
 </a>
+
+<p>The map continues east on <a href="{{< relref "algar-central-east" >}}">Algar's Central East</a>.</p>

@@ -1,0 +1,19 @@
+{
+ "image": "/images/maps/algar-central-east.webp",
+ "width": 1500,
+ "height": 1125,
+ "locations": [
+  {
+   "id": "trellen-gap",
+   "name": "Trellen Gap",
+   "blurb": "A palisaded frontier hamlet deep in the Great Forest of the Duchy of Rhundel.",
+   "url": "/world/trellen-gap/",
+   "category": "settlement",
+   "x": 460,
+   "y": 680,
+   "approx": false,
+   "onMap": true
+  }
+ ],
+ "streets": []
+}

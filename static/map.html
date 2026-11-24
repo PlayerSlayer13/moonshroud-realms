@@ -105,7 +105,7 @@
   // per-map defaults; any of these can also be set at the top of that map's JSON file
   const MAPS = {
     bridgeport: { title:'Bridgeport', back:['/world/bridgeport/','About Bridgeport'], more:['/world/bridgeport-locations/','All locations'], elsewhere:'Elsewhere in Bridgeport' },
-    funnis:     { title:'Funnis',     back:['/world/funnis/','About Funnis'], more:null, elsewhere:'Elsewhere near Funnis' }
+    funnis:     { title:'Funnis',     back:['/world/funnis/','About Funnis'], more:['/world/funnis-locations/','All locations'], elsewhere:'Elsewhere near Funnis' }
   };
   let MAPNAME = (new URLSearchParams(location.search).get('map') || 'bridgeport').toLowerCase();
   if (!/^[a-z0-9-]+$/.test(MAPNAME)) MAPNAME = 'bridgeport';

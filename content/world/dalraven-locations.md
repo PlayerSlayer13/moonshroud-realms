@@ -1,6 +1,6 @@
 ---
 title: "Dalraven Locations"
-weight: 8
+weight: 9
 ---
 
 # Dalraven Locations
@@ -253,7 +253,7 @@ The roads, gates, docks, halls, and farmsteads of Dalraven and its immediate sur
 
 <p>The House of Bounty, temple of Charr, Eternal of Birth, Fertility, Nature, and Agriculture, is the largest single structure inside the walls. It is built of timber and pale stone quarried from the Algar Mountains, with a high-arched roof and broad front steps, and it serves as the town's living heart more than as an isolated sanctuary. Charr's symbol, a sheaf of wheat bound with a living vine, is carved above the main doors and repeated throughout the interior. The central hall is wide and open, built for gatherings as readily as devotions, so holy days fill it with hymns and ordinary evenings turn it into a meeting hall, dance floor, and refuge.</p>
 
-<p>Alcoves along the side walls hold shrines to Charr's Ascendants: Sivet the Hearthmother, honored with candles and woven cradle charms; Oleya Greenbriar, marked by potted herbs and trellised vines; and Barrowen Tallgrain, Ascendant of Harvest and Stewardship, shown with carved grain heads and small offerings of seed. Mature trees shade the grounds and a broad wagon turnabout used for festivals and harvest gatherings, where farmers, fishers, dockworkers, and townsfolk feast, dance, and give thanks. Across the yard stands a manse for the prior and the temple custodian, both trained midwives and healers, which also lodges visiting priests and holy warriors of Charr's orders.</p>
+<p>Alcoves along the side walls hold shrines to Charr's Ascendants: Sivet the Hearthmother, honored with candles and woven cradle charms; Olya Greenbriar, marked by potted herbs and trellised vines; and Barrowen Tallgrain, Ascendant of Harvest and Stewardship, shown with carved grain heads and small offerings of seed. Mature trees shade the grounds and a broad wagon turnabout used for festivals and harvest gatherings, where farmers, fishers, dockworkers, and townsfolk feast, dance, and give thanks. Across the yard stands a manse for the prior and the temple custodian, both trained midwives and healers, which also lodges visiting priests and holy warriors of Charr's orders.</p>
 
 </details>
 

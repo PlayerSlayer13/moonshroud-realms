@@ -17,7 +17,7 @@ It is a quieter place than Bridgeport, but quieter does not mean simple.
      alt="Wexford" 
      style="width:400px; height:auto; border-radius:4px; margin-top:8px;">
 
-<p><a href="/maps/wexford-town/"><strong>View the map of Wexford &rarr;</strong></a></p>
+<p><a href="/maps/wexford-town/"><strong>View the map of Wexford &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/wexford-locations/">Browse all Wexford locations</a></p>
 
 ## Governance
 

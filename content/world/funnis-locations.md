@@ -1,6 +1,6 @@
 ---
 title: "Funnis Locations"
-weight: 6
+weight: 7
 ---
 
 # Funnis Locations

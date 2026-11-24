@@ -1,6 +1,6 @@
 ---
 title: "Wexford"
-weight: 2
+weight: 4
 ---
 
 # Wexford
@@ -16,6 +16,8 @@ It is a quieter place than Bridgeport, but quieter does not mean simple.
 <img src="/images/random/wexford.webp" 
      alt="Wexford" 
      style="width:400px; height:auto; border-radius:4px; margin-top:8px;">
+
+<p><a href="/maps/wexford-town/"><strong>View the map of Wexford &rarr;</strong></a></p>
 
 ## Governance
 

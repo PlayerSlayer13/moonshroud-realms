@@ -1,6 +1,6 @@
 ---
 title: "Saltstone Square"
-weight: 4
+weight: 3
 ---
 
 # Saltstone Square

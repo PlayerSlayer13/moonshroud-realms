@@ -20,6 +20,8 @@ and where the streets themselves seem to have opinions.
      alt="Bridgeport" 
      style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
 
+<p><a href="/maps/bridgeport-city/"><strong>View the map of Bridgeport &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/bridgeport-locations/">Browse all Bridgeport locations</a></p>
+
 ## Governance
 
 Bridgeport is governed by the **Council of Trades**, a civic assembly 

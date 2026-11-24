@@ -1,6 +1,6 @@
 ---
 title: "Funnis"
-weight: 3
+weight: 5
 ---
 
 # Funnis

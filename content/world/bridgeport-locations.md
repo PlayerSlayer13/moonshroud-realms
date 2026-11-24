@@ -1,6 +1,6 @@
 ---
 title: "Bridgeport Locations"
-weight: 7
+weight: 2
 ---
 
 # Bridgeport Locations

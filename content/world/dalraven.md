@@ -1,6 +1,6 @@
 ---
 title: "Dalraven"
-weight: 5
+weight: 7
 ---
 
 # Dalraven
@@ -18,6 +18,8 @@ world, Dalraven opens it to the unknown.
 <img src="/images/random/dalraven.webp" 
      alt="Dalraven" 
      style="width:800px; height:auto; border-radius:4px; margin-top:8px;">
+
+<p><a href="/maps/dalraven-town/"><strong>View the map of Dalraven &rarr;</strong></a> &nbsp;&middot;&nbsp; <a href="/world/dalraven-locations/">Browse all Dalraven locations</a></p>
 
 ## Getting There
 

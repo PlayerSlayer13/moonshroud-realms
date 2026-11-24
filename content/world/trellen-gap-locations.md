@@ -1,6 +1,6 @@
 ---
 title: "Trellen Gap Locations"
-weight: 6
+weight: 10
 ---
 
 # Trellen Gap Locations

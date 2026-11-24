@@ -10,7 +10,8 @@ rulebook and the Hope & Fear expansion. They represent the full range of peoples
 across Elderland and beyond.
 
 For ancestries specific to the Moonshroud Realms, see the individual pages for Aelfaen,
-Mustelin, Ursinor, and Dragonblood.
+Saelfaen, Mustelin, Ursinor, Dragonblood, Talorin, Gullfolk, Tir Morendhil, Melodari, and
+Dhampir.
 
 Mixed ancestry characters take the primary feature of their main ancestry and the
 secondary feature of their other ancestry.
@@ -127,12 +128,12 @@ age, the tips begin to droop. Heights range from about 6 to 6½ feet.
 All elves have the ability to drop into a celestial trance rather than 
 sleep, allowing them to rest effectively in a short amount of time.</p>
 
-<p><strong>Celestial Trance</strong><br>
-When you take a short rest, you can choose a long rest move instead 
-of a short rest move.</p>
+<p><strong>Quick Reactions</strong><br>
+Mark a Stress to gain advantage on a reaction roll.</p>
 
-<p><strong>Keen Senses</strong><br>
-You have advantage on rolls involving sight, sound, or smell.</p>
+<p><strong>Celestial Trance</strong><br>
+During a rest, you can drop into a trance to choose an additional 
+downtime move.</p>
 
 </details>
 

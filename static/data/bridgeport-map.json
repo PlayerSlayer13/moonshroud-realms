@@ -531,36 +531,6 @@
    "name": "Queensway Avenue",
    "blurb": "Bridgeport's principal north-south boulevard, crossing the Seaward Span",
    "url": "/world/bridgeport-locations/#queensway-avenue",
-   "line": [
-    [
-     3907,
-     6600
-    ],
-    [
-     3907,
-     5640
-    ],
-    [
-     3898,
-     4510
-    ],
-    [
-     3868,
-     3463
-    ],
-    [
-     3835,
-     2740
-    ],
-    [
-     3835,
-     1610
-    ],
-    [
-     3840,
-     0
-    ]
-   ],
    "label": [
     3905,
     5160
@@ -573,44 +543,6 @@
    "name": "Mill Road",
    "blurb": "The city's primary industrial thoroughfare along the south riverfront",
    "url": "/world/bridgeport-locations/#mill-road",
-   "line": [
-    [
-     2267,
-     4222
-    ],
-    [
-     3967,
-     4080
-    ],
-    [
-     4647,
-     3967
-    ],
-    [
-     5667,
-     3740
-    ],
-    [
-     6800,
-     3610
-    ],
-    [
-     8387,
-     3580
-    ],
-    [
-     8900,
-     3760
-    ],
-    [
-     9500,
-     3800
-    ],
-    [
-     10200,
-     3790
-    ]
-   ],
    "label": [
     9575,
     3748
@@ -623,20 +555,6 @@
    "name": "River Way",
    "blurb": "The packed wagon road running upstream from Eastgate along the south bank",
    "url": "/world/bridgeport-locations/#eastgate",
-   "line": [
-    [
-     9150,
-     4720
-    ],
-    [
-     9700,
-     4730
-    ],
-    [
-     10200,
-     4745
-    ]
-   ],
    "label": [
     8106,
     4724
@@ -649,20 +567,6 @@
    "name": "Holders Road",
    "blurb": "The road along the river's north bank, entering the city at Moonwillow Gate",
    "url": "/world/bridgeport-locations/#moonwillow-gate",
-   "line": [
-    [
-     9424,
-     1265
-    ],
-    [
-     9800,
-     1272
-    ],
-    [
-     10200,
-     1275
-    ]
-   ],
    "label": [
     8905,
     1275

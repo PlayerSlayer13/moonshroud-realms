@@ -9,6 +9,8 @@ weight: 1
      alt="Council of Trades emblem" 
      style="width:200px; height:auto; border-radius:4px;">
 
+*Seat: A walled compound of grounds and buildings on the west side of Council Way, south of Charter Street.*
+
 The Council of Trades is the governing body of Bridgeport — a assembly of merchant 
 representatives whose authority derives from commerce rather than birthright. In Bridgeport, 
 coin is power, and the Council is where that power is formally organized.

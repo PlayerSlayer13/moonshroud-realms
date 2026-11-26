@@ -9,6 +9,8 @@ weight: 3
      alt="Adventurer's Guild emblem" 
      style="width:200px; height:auto; border-radius:4px;">
 
+*Bridgeport hall: On the block between Queensway Avenue and Muster Street, between River Way and Charter Street.*
+
 The Adventurer's Guild is one of the few organizations that operates openly across most 
 of the known world, maintaining halls in cities and towns large enough to support one. 
 Bridgeport's chapter is well-established, reasonably well-funded, and busy enough that 

@@ -5,6 +5,8 @@ weight: 8
 
 # The Brass Axiom
 
+*Location: In its own green court on the block between Axiom Street and Measure Street, between Drovers' Row and River Way.*
+
 Near the geometric center of old Bridgeport, a few blocks south of the Godsfall River, the
 Brass Axiom is among the city's oldest surviving temples and among its most intellectually
 austere. Built of pale stone trimmed with brass fittings darkened by age, its clean lines and

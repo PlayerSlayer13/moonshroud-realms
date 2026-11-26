@@ -5,6 +5,8 @@ weight: 3
 
 # Saltstone Square
 
+*Location: At the heart of the block between Mercer Street and Saltstone Street, from Copper Lane south to River Way.*
+
 Saltstone Square is the beating heart of Bridgeport's southern district 
 — a busy, loud, perpetually crowded crossroads where commerce, gossip, 
 and opportunity all converge. From dawn to well past dusk it is rarely 
@@ -24,6 +26,8 @@ guard recruitment still happens here regularly enough.
 ## The Three Public Houses
 
 ### The Strangled Goat Tavern
+*Location: On the Mercer Street side of the square's block, between Copper Lane and River Way.*
+
 The Strangled Goat is the unofficial headquarters of Bridgeport's 
 adventuring community. A quasi-official arrangement allows Guild and 
 noble missions to be posted and negotiated inside rather than on public 
@@ -37,6 +41,8 @@ anymore. For those new to Bridgeport and looking to find their footing
 in the adventuring trade, it is the natural first stop.
 
 ### The Royal Prince Inn
+*Location: On the Saltstone Street side of the square's block, between Copper Lane and River Way.*
+
 The most expensive and discreet of the square's three public houses. 
 Long-term guests tend toward wealthy merchants, visiting diplomats, and 
 others who value quiet and privacy over atmosphere. Its staff are polished 
@@ -44,6 +50,8 @@ and professionally incurious. It is not the sort of place that welcomes
 loud conversations about recent jobs.
 
 ### The Dragonline Lodge
+*Location: On the Mercer Street side of the square's block, toward the River Way end.*
+
 Mid-priced, comfortable, and possessed of what many consider the best 
 kitchen in the square. A reliable choice for those who want something 
 better than a cot without paying Royal Prince prices. Popular with 
@@ -51,6 +59,8 @@ traveling merchants and adventurers who prefer their lodgings
 unremarkable.
 
 ## The Militia Post
+*Location: On the Saltstone Street side of the square's block, toward the River Way end.*
+
 A small but visible militia outpost keeps watch over Saltstone Square 
 during peak hours, monitoring the flow of traffic and maintaining a 
 presence that discourages the more obvious forms of trouble. Their 

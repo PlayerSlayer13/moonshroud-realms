@@ -49,6 +49,8 @@ necessary and maintain a careful mutual respect.
 
 ## In Bridgeport
 
+*Chapterhouse: At the southern end of Council Way.*
+
 The Society maintains a presence in Bridgeport through an alcove at the 
 **Strangled Goat** tavern in Saltstone Square — a quasi-official 
 arrangement that allows Society missions to be offered discreetly 

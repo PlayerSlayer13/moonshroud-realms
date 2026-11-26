@@ -5,6 +5,8 @@ weight: 6
 
 # Temple of Veyruun
 
+*Location: On the block between Cypress Street and Ledger Street, between Drovers' Row and River Way.*
+
 Standing near Bridgeport's commercial district and river docks, the Temple of
 [Veyruun]({{< relref "the-gods#veyruun" >}}) is among the wealthiest and most influential
 institutions in the Freehold — as much a trusted financial center as a place of worship, its

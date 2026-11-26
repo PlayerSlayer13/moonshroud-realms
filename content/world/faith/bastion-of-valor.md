@@ -5,6 +5,8 @@ weight: 5
 
 # Bastion of Valor
 
+*Location: Just east of Bastion Street, between Drovers' Row and River Way.*
+
 Rises from eastern Bridgeport like a fortress unto itself — a massive grey-stone temple
 enclosed behind a crenellated curtain wall, stark and unornamented, its training yard worn
 smooth by generations of soldiers and devotees. It's devoted to [Sartr]({{< relref "the-gods#sartr" >}}),

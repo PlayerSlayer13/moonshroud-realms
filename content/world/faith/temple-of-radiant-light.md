@@ -5,6 +5,8 @@ weight: 1
 
 # Temple of Radiant Light
 
+*Location: In its own park, filling the block between Muster Street and Scribes' Street from River Way to Cartwright Way. Charter Street ends at its western edge.*
+
 The largest and most respected temple in Bridgeport, standing along Queensway Avenue with 
 tall windows and pale stone walls that give the whole structure the impression of being 
 filled with light. Despite its size, the sanctums within are serene rather than 

@@ -15,6 +15,8 @@ halves of the city the Godsfall River divides. Click any entry to expand it.
 <details id="saltstone-square">
 <summary><strong>Saltstone Square</strong> — the civic and social heart of the southern district</summary>
 
+<p><em>Location: At the heart of the block between Mercer Street and Saltstone Street, from Copper Lane south to River Way.</em></p>
+
 <p>Saltstone Square has its own full entry — see the <a href="/world/saltstone-square/">Saltstone
 Square</a> page for the Strangled Goat, the Royal Prince Inn, the Dragonline Lodge, and the
 square's role as Bridgeport's busiest commercial and social crossroads.</p>
@@ -50,6 +52,8 @@ mistake its rough appearance for weakness tend to find out otherwise.</p>
 
 <details id="freegate">
 <summary><strong>Freegate</strong> — the southern gate into the city</summary>
+
+<p><em>Location: At the southern end of Queensway Avenue, beyond Furrow Road.</em></p>
 
 <p>The southern edge of old Bridgeport, where a broad stone arch flanked by watchtowers opens
 toward the farmland beyond. Road-toll inspectors and agricultural assessors work from the
@@ -160,6 +164,8 @@ Monarch's watch.</p>
 <details id="ledger-house">
 <summary><strong>Ledger House</strong> — a private mercantile club and counting house</summary>
 
+<p><em>Location: On the block between Cypress Street and Ledger Street, at the River Way end, north of Brewers' Way.</em></p>
+
 <p>Occupying a prominent corner lot on the edge of the commercial districts, across the
 avenue from the Temple of Veyruun and only a short walk from the Grand Exchange, Ledger
 House presents itself as one of Bridgeport's more respectable mercantile institutions. The
@@ -218,6 +224,8 @@ unsettling feeling of being watched from the steps.</p>
 <details id="godsfall-necropolis">
 <summary><strong>Godsfall Necropolis</strong> — a self-contained city of the dead</summary>
 
+<p><em>Location: Filling the block between Chapel Street and Cypress Street, from River Way to Brewers' Way, with Mourning Way meeting it from the north and Lynchgate Lane from the south.</em></p>
+
 <p>Spanning more than two city blocks near Bridgeport's center, the necropolis is less a
 cemetery than its own small city, enclosed by a low stone wall and entered through six
 wrought-iron gates. Broad paths and winding lanes divide the grounds into funerary
@@ -241,6 +249,8 @@ as mourning.</p>
 
 <details id="rivergate-market">
 <summary><strong>Rivergate Market</strong> — Bridgeport's busiest public market</summary>
+
+<p><em>Location: Along Mill Road, between Chandler Street and Axiom Street.</em></p>
 
 <p>A broad triangular block along the river's north side, directly across from the docks
 and a few blocks east of the Seaward Span. At its western point stands the guildhall of
@@ -382,6 +392,8 @@ strong drink, river gossip, and nights that tend to grow louder as the lanterns 
 <details id="dancing-ghoul-inn">
 <summary><strong>Dancing Ghoul Inn</strong> — a welcoming inn near the necropolis, despite its name</summary>
 
+<p><em>Location: On the Chapel Street side of the block between Measure Street and Chapel Street, between Drovers' Row and River Way.</em></p>
+
 <p>Located in central Bridgeport near the edge of the Godsfall Necropolis and roughly a
 block south of Rivergate Market, the Dancing Ghoul takes its name from a faded, faintly
 comical painted sign depicting a skeletal figure in festival dress mid-dance beside a
@@ -405,6 +417,8 @@ and debts, and an uncanny knack for spotting trouble before it fully starts.</p>
 
 <details id="bridgeport-stockyards">
 <summary><strong>Bridgeport Stockyards</strong> — the city's livestock trade and holding grounds</summary>
+
+<p><em>Location: At the Mill Road end of the block between Cypress Street and Ledger Street, north of Drovers' Row.</em></p>
 
 <p>Occupying a sprawling riverfront block along the Godsfall's south bank, directly
 across the avenue from the docks and connected eastward to Mill Road, the Stockyards let
@@ -530,6 +544,8 @@ pay so generously for new discoveries.</p>
 
 <details id="grand-exchange">
 <summary><strong>Grand Exchange</strong> — the economic heart of the Freehold</summary>
+
+<p><em>Location: At the Mill Road end of the block between Measure Street and Chapel Street, north of Drovers' Row.</em></p>
 
 <p>One of the largest structures in Bridgeport, the Grand Exchange serves as the economic
 heart of the Freehold and the administrative center of much of its commercial activity.
